@@ -2,13 +2,6 @@
    :depth: 3
 ..
 
-Message-ID: 665566127.289.1512461666104.JavaMail.confluence@1dea98ffc5fb
-Subject: Exported From Confluence MIME-Version: 1.0 Content-Type:
-multipart/related; boundary=“—-=_Part_288_2111777110.1512461666103"
-
-——=_Part_288_2111777110.1512461666103 Content-Type: text/html;
-charset=UTF-8 Content-Transfer-Encoding: quoted-printable
-Content-Location: file:///C:/exported.html
 
 .. raw:: html
 
@@ -18,8 +11,7 @@ Content-Location: file:///C:/exported.html
 
    <head>
 
-<meta http-equiv=3D“Content-Type” content=3D“text/html;
-charset=3Dutf-8=”>
+
 
 .. raw:: html
 
