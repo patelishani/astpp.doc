@@ -260,9 +260,7 @@ Introduction
 
 ::
 
-        <div class=3D"contentLayout2">
 
-.. raw:: html
 
    
    <p>ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports
@@ -278,7 +276,7 @@ Introduction
    <p>Reports</p>
    <p>and many more</p>
    </div>
-   </div>
+   
    <div class=3D"cell aside" data-type=3D"aside">
    <div class=3D"innerCell">
    <p>&nbsp;</p>
