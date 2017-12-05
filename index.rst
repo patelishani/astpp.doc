@@ -263,7 +263,7 @@ Introduction
 
 ::
 
-
+ <div class=3D"contentLayout2">
 .. raw:: html
 
    <div class=3D"columnLayout two-right-sidebar" data-layout=3D"two-right-side=
