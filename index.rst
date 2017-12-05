@@ -12,8 +12,6 @@
 
    <head>
 
-<meta http-equiv=3D“Content-Type” content=3D“text/html;
-charset=3Dutf-8=”>
 
 .. raw:: html
 
@@ -21,7 +19,7 @@ charset=3Dutf-8=”>
 
 Introduction
 
-.. raw:: html
+
 
    </title>
 
@@ -267,13 +265,8 @@ Introduction
 
 
 .. raw:: html
-
-   <div class=3D"columnLayout two-right-sidebar" data-layout=3D"two-right-side=
-   bar">
-   <div class=3D"cell normal" data-type=3D"normal">
-   <div class=3D"innerCell">
    <p>ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports
-    prepaid and postpaid billing with call rating and credit control. It also 
+   prepaid and postpaid billing with call rating and credit control. It also 
    provides many other features such as,</p>
    <p>Calling cards</p>
    <p>Least cost routing (LCR),</p>
@@ -294,8 +287,7 @@ Introduction
    </div>
    </div>
 
- <div class=3D“columnLayout single” data-layout=3D“single”> <div
-class=3D“cell normal” data-type=3D“normal”>
+ 
 
 .. raw:: html
 
@@ -315,7 +307,7 @@ class=3D“cell normal” data-type=3D“normal”>
 
    <p>
 
-Related pages
+
 
 .. raw:: html
 
@@ -337,7 +329,6 @@ Related pages
 
    <li>
 
-Features
 
 .. raw:: html
 
@@ -347,7 +338,6 @@ Features
 
    <li>
 
-Components
 
 .. raw:: html
 
@@ -357,7 +347,7 @@ Components
 
    <li>
 
-System Requirement
+
 
 .. raw:: html
 
@@ -367,7 +357,7 @@ System Requirement
 
    <li>
 
-Architecture
+
 
 .. raw:: html
 
@@ -377,7 +367,6 @@ Architecture
 
    <li>
 
-How to Contribute
 
 .. raw:: html
 
