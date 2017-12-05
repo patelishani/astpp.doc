@@ -10,21 +10,6 @@
 Introduction
 ========================
 
-   <!--[if gte mso 9]>
-       <xml>
-           <o:OfficeDocumentSettings>
-               <o:TargetScreenSize>1024x640</o:TargetScreenSize>
-               <o:PixelsPerInch>72</o:PixelsPerInch>
-               <o:AllowPNG/>
-           </o:OfficeDocumentSettings>
-           <w:WordDocument>
-               <w:View>Print</w:View>
-               <w:Zoom>90</w:Zoom>
-               <w:DoNotOptimizeForBrowser/>
-           </w:WordDocument>
-       </xml>
-       <![endif]-->
-
 .. raw:: html
 
    <style>
@@ -236,7 +221,7 @@ Introduction
 
    <h1>
 
-Introduction
+
 
 .. raw:: html
 
