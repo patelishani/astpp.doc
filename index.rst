@@ -2,8 +2,6 @@
    :depth: 3
 ..
 
-
-
 .. raw:: html
 
    <html xmlns:o="3D'urn:schemas-microsoft-com:office:office'" xmlns:w="3D'urn:schemas-microsoft-com:office:word'" xmlns:v="3D'urn:schemas-microsoft-com:vml'" xmlns="3D'urn:w3-org-ns:HTML'">
@@ -11,6 +9,7 @@
 .. raw:: html
 
    <head>
+
 
 
 
@@ -260,31 +259,45 @@ Introduction
 
 .. raw:: html
 
-  
+   <div class="3D"Section1"">
+
 ::
 
- .. raw:: html   
- 
-   ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports
-   prepaid and postpaid billing with call rating and credit control. It also 
-   provides many other features such as,
-   Calling cards
-   Least cost routing (LCR)
-   DID management
-   Multi level Reseller management
-   Customer management
-   IP & SIP Termination
-   Rates management
-   Reports
-   and many more
-  
+        <div class=3D"contentLayout2">=20
+
+.. raw:: html
+
+   <div class=3D"columnLayout two-right-sidebar" data-layout=3D"two-right-side=
+   bar">=20
+   <div class=3D"cell normal" data-type=3D"normal">=20
+   <div class=3D"innerCell">=20
+   <p>ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports=
+    prepaid and postpaid billing with call rating and credit control. It also =
+   provides many other features such as,</p>
+   <p>Calling cards</p>
+   <p>Least cost routing (LCR),</p>
+   <p>DID management,</p>
+   <p>Multi level Reseller management</p>
+   <p>Customer management</p>
+   <p>IP &amp; SIP Termination&nbsp;</p>
+   <p>Rates management</p>
+   <p>Reports</p>
+   <p>and many more</p>
+   </div>
+   </div>
+   <div class=3D"cell aside" data-type=3D"aside">
+   <div class=3D"innerCell">=20
+   <p>&nbsp;</p>
+   <p>&nbsp;</p>
+   </div>=20
+   </div>=20
+   </div>
 
 
 
 .. raw:: html
 
- 
-
+   <div class="3D"innerCell"">
 
 
 .. raw:: html
@@ -315,7 +328,7 @@ Related pages
 
 .. raw:: html
 
-
+   <ul class="3D&quot;childpages-macro&quot;">
 
 .. raw:: html
 
@@ -394,6 +407,7 @@ How to Contribute
 .. raw:: html
 
    </div>
+
 
 
 .. raw:: html
