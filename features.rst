@@ -485,8 +485,7 @@ Features
    </div>
    <div class=3D"cell normal" data-type=3D"normal">
    <div class=3D"innerCell">
-   <h2 id=3D"Features-Accountsmanagement"><span>Accounts management</span></h2=
-   >
+   <h2 id=3D"Features-Accountsmanagement"><span>Accounts management</span></h2>
    <div>
    <span style=3D"color: rgb(44,44,45);">Admin</span>
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
