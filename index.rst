@@ -12,11 +12,7 @@
 
 Introduction
 
-.. raw:: html
-
    </title>
-
-.. raw:: html
 
    <!--[if gte mso 9]>
        <xml>
@@ -253,19 +249,18 @@ Introduction
 .. raw:: html
 
 ::
-.. raw:: html
-   <p>ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports=
-    prepaid and postpaid billing with call rating and credit control. It also =
-   provides many other features such as,</p>
-   <p>Calling cards</p>
-   <p>Least cost routing (LCR),</p>
-   <p>DID management,</p>
-   <p>Multi level Reseller management</p>
-   <p>Customer management</p>
-   <p>IP &amp; SIP Termination&nbsp;</p>
-   <p>Rates management</p>
-   <p>Reports</p>
-   <p>and many more</p>
+   ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports
+   prepaid and postpaid billing with call rating and credit control. It also 
+   provides many other features such as,
+   Calling cards
+   Least cost routing (LCR),
+   DID management,
+   Multi level Reseller management
+   Customer management
+   IP & SIP Termination
+   Rates management
+   Reports
+   and many more
 
 .. raw:: html
 
