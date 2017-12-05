@@ -2,6 +2,8 @@
    :depth: 3
 ..
 
+
+
 .. raw:: html
 
    <html xmlns:o="3D'urn:schemas-microsoft-com:office:office'" xmlns:w="3D'urn:schemas-microsoft-com:office:word'" xmlns:v="3D'urn:schemas-microsoft-com:vml'" xmlns="3D'urn:w3-org-ns:HTML'">
@@ -10,8 +12,8 @@
 
    <head>
 
-
-
+<meta http-equiv=3D“Content-Type” content=3D“text/html;
+charset=3Dutf-8=”>
 
 .. raw:: html
 
@@ -23,7 +25,7 @@ Introduction
 
    </title>
 
-
+.. raw:: html
 
    <!--[if gte mso 9]>
        <xml>
@@ -259,51 +261,46 @@ Introduction
 
 .. raw:: html
 
- 
+   <div class="3D"Section1"">
 
 ::
 
 
 .. raw:: html
 
-  
-   ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports
-   prepaid and postpaid billing with call rating and credit control. It also 
-   provides many other features such as,
-   <P>Calling cards</P>
-   <P>Least cost routing (LCR)</P>
-   <P>DID management</P>
-   <P>Multi level Reseller management</P>
-   <P>Customer management</P>
-   <P>IP & SIP Termination</P>
-   <P>Rates management</P>
-   <P>Reports</P>
-   <P>and many more</P>
-  
+   <div class=3D"columnLayout two-right-sidebar" data-layout=3D"two-right-side=
+   bar">
+   <div class=3D"cell normal" data-type=3D"normal">
+   <div class=3D"innerCell">
+   <p>ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports
+    prepaid and postpaid billing with call rating and credit control. It also 
+   provides many other features such as,</p>
+   <p>Calling cards</p>
+   <p>Least cost routing (LCR),</p>
+   <p>DID management,</p>
+   <p>Multi level Reseller management</p>
+   <p>Customer management</p>
+   <p>IP &amp; SIP Termination&nbsp;</p>
+   <p>Rates management</p>
+   <p>Reports</p>
+   <p>and many more</p>
+   </div>=20
+   </div>=20
+   <div class=3D"cell aside" data-type=3D"aside">
+   <div class=3D"innerCell">=20
+   <p>&nbsp;</p>
+   <p>&nbsp;</p>
+   </div>
+   </div>
+   </div>
 
-
-.. toctree::
-   :maxdepth: 2
-
-   quick_install.rst
-
-.. raw:: html
-
- 
-
-
-.. raw:: html
-
-   <p>
-
-.. raw:: html
-
-   </p>
+ <div class=3D“columnLayout single” data-layout=3D“single”> <div
+class=3D“cell normal” data-type=3D“normal”>
 
 .. raw:: html
 
-  
-.. raw:: html
+   <div class="3D"innerCell"">
+
 
 
 .. raw:: html
@@ -316,47 +313,80 @@ Introduction
 
 .. raw:: html
 
-  
+   <p>
+
+Related pages
 
 .. raw:: html
 
-  
+   </p>
 
 .. raw:: html
 
- 
+   <p>
 
 .. raw:: html
 
+   </p>
 
 .. raw:: html
 
+   <ul class="3D&quot;childpages-macro&quot;">
 
 .. raw:: html
 
+   <li>
+
+Features
 
 .. raw:: html
 
- 
+   </li>
 
 .. raw:: html
 
-  
+   <li>
+
+Components
 
 .. raw:: html
 
-   
+   </li>
 
 .. raw:: html
 
-   
+   <li>
+
+System Requirement
 
 .. raw:: html
 
+   </li>
 
 .. raw:: html
 
- 
+   <li>
+
+Architecture
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+How to Contribute
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   </ul>
+
 .. raw:: html
 
    <p>
@@ -368,7 +398,6 @@ Introduction
 .. raw:: html
 
    </div>
-
 
 
 .. raw:: html
@@ -398,4 +427,3 @@ Introduction
 .. raw:: html
 
    </html>
-
