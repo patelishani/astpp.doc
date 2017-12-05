@@ -263,7 +263,6 @@ Introduction
 
 ::
 
-        <div class=3D"contentLayout2">
 
 .. raw:: html
 
