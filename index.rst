@@ -258,12 +258,11 @@ Introduction
 
    <div class="3D"Section1"">
 
-::
 .. raw:: html
        
    <div class=3D"contentLayout2">
-.. raw:: html
 
+.. raw:: html
    
    <p>ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports
     prepaid and postpaid billing with call rating and credit control. It also 
