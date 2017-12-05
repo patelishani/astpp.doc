@@ -12,6 +12,7 @@
    <head>
 
 
+
 .. raw:: html
 
    <title>
@@ -262,11 +263,14 @@ Introduction
 
 ::
 
-      
+        <div class=3D"contentLayout2">
 
 .. raw:: html
 
-   
+   <div class=3D"columnLayout two-right-sidebar" data-layout=3D"two-right-side=
+   bar">=
+   <div class=3D"cell normal" data-type=3D"normal">
+   <div class=3D"innerCell">
    <p>ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports
     prepaid and postpaid billing with call rating and credit control. It also 
    provides many other features such as,</p>
@@ -279,105 +283,133 @@ Introduction
    <p>Rates management</p>
    <p>Reports</p>
    <p>and many more</p>
-   </div>=20
-   </div>=20
-   <div class=3D"cell aside" data-type=3D"aside">=20
+   </div>
+   </div>
+   <div class=3D"cell aside" data-type=3D"aside">
    <div class=3D"innerCell">
    <p>&nbsp;</p>
    <p>&nbsp;</p>
-  
+   </div>
+   </div>
+   </div>
+
+<div class=3D“columnLayout single” data-layout=3D“single”><div
+class=3D“cell normal” data-type=3D“normal”>
+
+.. raw:: html
+
+   <div class="3D"innerCell"">
 
 
 .. raw:: html
 
-   
-
-
-.. raw:: html
-
- 
+   <p>
 
 .. raw:: html
 
- 
+   </p>
 
 .. raw:: html
 
-   
+   <p>
+
+Related pages
 
 .. raw:: html
 
+   </p>
 
 .. raw:: html
 
+   <p>
 
 .. raw:: html
 
-  
+   </p>
 
 .. raw:: html
 
+   <ul class="3D&quot;childpages-macro&quot;">
 
 .. raw:: html
 
+   <li>
+
+Features
 
 .. raw:: html
 
+   </li>
 
 .. raw:: html
 
-  
+   <li>
 
-
-.. raw:: html
-
+Components
 
 .. raw:: html
 
-  
-
-
-.. raw:: html
-
+   </li>
 
 .. raw:: html
 
+   <li>
+
+System Requirement
 
 .. raw:: html
 
+   </li>
 
 .. raw:: html
 
- 
+   <li>
 
-
-
-.. raw:: html
-
-   
+Architecture
 
 .. raw:: html
 
-   
+   </li>
 
 .. raw:: html
 
-  
+   <li>
+
+How to Contribute
 
 .. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   </ul>
+
+.. raw:: html
+
+   <p>
+
+.. raw:: html
+
+   </p>
+
+.. raw:: html
+
+   </div>
+
 
 
 .. raw:: html
 
    </div>
 
-.. raw:: html
 
-   </div>
 
 .. raw:: html
 
    </div>
+
+
 
 .. raw:: html
 
@@ -394,4 +426,5 @@ Introduction
 .. raw:: html
 
    </html>
+
 
