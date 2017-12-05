@@ -244,9 +244,11 @@ System Requirement
 .. raw:: html
 
         <h3 class=3D"western" style=3D"text-decoration: none;margin-left: 3
+0.0px;" id=3D“SystemRequirement-MinimalSystemrequirement”>
 
-0.0px;" id=3D“SystemRequirement-MinimalSystemrequirement”>Minimal System
-re= quirement
+.. raw:: html
+
+Minimal System requirement
 
 .. raw:: html
 
