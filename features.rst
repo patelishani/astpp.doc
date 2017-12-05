@@ -1,8 +1,3 @@
-.. contents::
-   :depth: 3
-..
-
-
 
 .. raw:: html
 
@@ -240,17 +235,7 @@ Features
 .. raw:: html
 
    <body>
-
-.. raw:: html
-
-   <h1>
-
-Features
-
-.. raw:: html
-
-   </h1>
-
+ 
 .. raw:: html
 
    <div class="3D"Section1"">
