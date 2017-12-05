@@ -288,7 +288,7 @@ Introduction
 .. toctree::
    :maxdepth: 2
 
-   quick_install.rst
+   system_requirement.rst
 
 .. raw:: html
 
