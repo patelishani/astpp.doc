@@ -264,7 +264,7 @@ Features
 
 .. raw:: html
         
-    <div class=3D"contentLayout2">=20
+    <div class=3D"contentLayout2">
 
 .. raw:: html
 
@@ -343,8 +343,8 @@ Features
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
    e" src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png" data-ima=
-   ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span><=
-   span>Configure own rate group and assign to customers / resellers (For admi=
+   ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span><
+   span>Configure own rate group and assign to customers / resellers (For admi
    n and resellers only)</span></p>
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -410,7 +410,7 @@ Features
    </div>
    <p></p>
    <p></p>
-   <p>/p>
+   <p></p>
    <div>
    <p></p>
    <div>
@@ -482,10 +482,10 @@ Features
    </div>
    <h2 id=3D"Features-"><span style=3D"color: rgb(51,102,255);">
    <br></span></h2>
-   </div>=20
-   </div>=20
-   <div class=3D"cell normal" data-type=3D"normal">=20
-   <div class=3D"innerCell">=20
+   </div>
+   </div>
+   <div class=3D"cell normal" data-type=3D"normal">
+   <div class=3D"innerCell">
    <h2 id=3D"Features-Accountsmanagement"><span>Accounts management</span></h2=
    >
    <div>
@@ -582,38 +582,38 @@ Features
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/li_bullets.png" data-image-src=3D"http://www.astpp.org/=
-   images/stories/demo/li_bullets.png"></span>Invoice &amp; Receipt mana=
+   images/stories/demo/li_bullets.png"></span>Invoice &amp; Receipt mana
    gement</p>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/li_bullets.png" data-image-src=3D"http://www.astpp.org/=
-   images/stories/demo/li_bullets.png"></span>Personalize invoicing info=
+   images/stories/demo/li_bullets.png"></span>Personalize invoicing info
    rmation for reseller</p>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/li_bullets.png" data-image-src=3D"http://www.astpp.org/=
-   images/stories/demo/li_bullets.png"></span><span>Can configure his own comp=
+   images/stories/demo/li_bullets.png"></span><span>Can configure his own comp
    any name &amp; address which will be included in invoice pdf</span></p>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/li_bullets.png" data-image-src=3D"http://www.astpp.org/=
-   images/stories/demo/li_bullets.png"></span>One time Tax Configuration=
+   images/stories/demo/li_bullets.png"></span>One time Tax Configuration
    </p>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/li_bullets.png" data-image-src=3D"http://www.astpp.org/=
-   images/stories/demo/li_bullets.png"></span><span>Includes CDR charges, Subs=
-   cription fees, DID charges and other type of post charges or package charge=
+   images/stories/demo/li_bullets.png"></span><span>Includes CDR charges, Subs
+   cription fees, DID charges and other type of post charges or package charge
    s.</span></p>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/li_bullets.png" data-image-src=3D"http://www.astpp.org/=
-   images/stories/demo/li_bullets.png"></span>Configurable invoice date =
+   images/stories/demo/li_bullets.png"></span>Configurable invoice date 
    for each customer</p>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/li_bullets.png" data-image-src=3D"http://www.astpp.org/=
-   images/stories/demo/li_bullets.png"></span>Send email upon invoice ge=
+   images/stories/demo/li_bullets.png"></span>Send email upon invoice ge
    neration</p>
    <p></p>
    </div>
@@ -678,7 +678,7 @@ Features
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
    e" src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png" data-ima=
    ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>
-   Summary reports (display usage of prefix, ACD, MCD, profit, Billable s=
+   Summary reports (display usage of prefix, ACD, MCD, profit, Billable s
    econds)</p>
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -707,7 +707,7 @@ Features
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/feature/ConfigurationSettings.png" data-image-src=3D"ht=
-   tp://www.astpp.org/images/stories/demo/feature/ConfigurationSettings.png"><=
+   tp://www.astpp.org/images/stories/demo/feature/ConfigurationSettings.png"><
    /span></p>
    <p></p>
    <p></p>
@@ -726,19 +726,16 @@ Features
    ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>
    Top Up/Recharge accounts quickly and get balance in real time</p>
    </div>
-   </div>=20
-   </div>=20
+   </div>
+   </div>
    </div>
 
-=20 <div class=3D“columnLayout two-left-sidebar”
-data-layout=3D“two-left-sideba= r”>=20 <div class=3D“cell aside”
-data-type=3D“aside”>=20
+
 
 .. raw:: html
 
    <div class="3D"innerCell"">
 
-=20
 
 .. raw:: html
 
