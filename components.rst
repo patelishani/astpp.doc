@@ -298,7 +298,7 @@ Components
    <li style=3D"text-decoration: none;"><p><span style=3D"color: rgb(0,0,0);te=
    xt-decoration: none;">MySQL (</span><a style=3D"text-decoration: none;" hre=
    f=3D"https://www.mysql.com/" class=3D"external-link" rel=3D"nofollow"><span=
-    style=3D"color: rgb(17,85,204);text-decoration: underline;">https://www.my=
+    style=3D"color: rgb(17,85,204);text-decoration: underline;">https://www.my
    sql.com/</span></a><span style=3D"color: rgb(0,0,0);text-decoration: none;"=
    >)</span></p></li>
    <ul>
@@ -316,7 +316,7 @@ Components
    <li style=3D"text-decoration: none;"><p><span style=3D"color: rgb(0,0,0);te=
    xt-decoration: none;">FreeSwitch (</span><a style=3D"text-decoration: none;=
    " href=3D"https://freeswitch.org/" class=3D"external-link" rel=3D"nofollow"=
-   ><span style=3D"color: rgb(17,85,204);text-decoration: underline;">https://=
+   ><span style=3D"color: rgb(17,85,204);text-decoration: underline;">https://
    freeswitch.org/</span></a><span style=3D"color: rgb(0,0,0);text-decoration:=
     none;">)</span></p></li>
    <ul>
