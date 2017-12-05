@@ -678,7 +678,7 @@ Features
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
    e" src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png" data-ima=
    ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>
-   Summary reports (display usage of prefix, ACD, MCD, profit, Billable s=
+   Summary reports (display usage of prefix, ACD, MCD, profit, Billable s
    econds)</p>
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -708,8 +708,7 @@ Features
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/feature/ConfigurationSettings.png" data-image-src=3D"ht=
    tp://www.astpp.org/images/stories/demo/feature/ConfigurationSettings.png">
-   <=
-   /span></p>
+   </span></p>
    <p>&</p>
    <p>&</p>
    <p>&</p>
