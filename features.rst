@@ -700,18 +700,18 @@ Features
    e" src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png" data-ima=
    ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>
    Export to csv</p>
-   <p>&</p>
-   <p>&</p>
-   <p>&</p>
+   <p></p>
+   <p></p>
+   <p></p>
    </div>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/feature/ConfigurationSettings.png" data-image-src=3D"ht=
    tp://www.astpp.org/images/stories/demo/feature/ConfigurationSettings.png">
    </span></p>
-   <p>&</p>
-   <p>&</p>
-   <p>&</p>
+   <p></p>
+   <p></p>
+   <p></p>
    <div>
    <h2 id=3D"Features-Paypalpaymentgateway">&Paypal payment gateway</h2>
    <hr style=3D"margin-left: 15.0px;">
