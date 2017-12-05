@@ -424,8 +424,7 @@ Features
    <div>
    <p></p>
    <div>
-   <h2 id=3D"Features-Configuration/Settings">Configuration / Settings</=
-   h2>
+   <h2 id=3D"Features-Configuration/Settings">Configuration / Settings</h2>
    <hr style=3D"margin-left: 15.0px;">
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
