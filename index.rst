@@ -263,12 +263,11 @@ Introduction
 
 ::
 
-        <div class=3D"contentLayout2">
 
 .. raw:: html
 
    <div class=3D"columnLayout two-right-sidebar" data-layout=3D"two-right-side=
-   bar">=
+   bar">
    <div class=3D"cell normal" data-type=3D"normal">
    <div class=3D"innerCell">
    <p>ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports
@@ -293,8 +292,6 @@ Introduction
    </div>
    </div>
 
-<div class=3D“columnLayout single” data-layout=3D“single”><div
-class=3D“cell normal” data-type=3D“normal”>
 
 .. raw:: html
 
