@@ -2,14 +2,7 @@
    :depth: 3
 ..
 
-Message-ID:
-1238991733.259.1512449585366.JavaMail.confluence@8d36ab6238b5 Subject:
-Exported From Confluence MIME-Version: 1.0 Content-Type:
-multipart/related; boundary=“—-=_Part_258_897838624.1512449585365"
 
-——=_Part_258_897838624.1512449585365 Content-Type: text/html;
-charset=UTF-8 Content-Transfer-Encoding: quoted-printable
-Content-Location: file:///C:/exported.html
 
 .. raw:: html
 
@@ -19,8 +12,7 @@ Content-Location: file:///C:/exported.html
 
    <head>
 
-<meta http-equiv=3D“Content-Type” content=3D“text/html;
-charset=3Dutf-8=”>
+
 
 .. raw:: html
 
@@ -273,7 +265,7 @@ Introduction
 
        
 
-.. raw:: html
+
 
   
    ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports
@@ -288,13 +280,7 @@ Introduction
    Rates management
    Reports
    and many more
-   </div>
-   </div>
-   
   
-   </div>
-   </div>
-   </div>
 
 
 
