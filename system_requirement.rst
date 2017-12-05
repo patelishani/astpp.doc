@@ -240,9 +240,7 @@ System Requirement
 
 .. raw:: html 
 
-<h3 class=3D"western" style=3D"text-decoration: none;margin-left: 3
-0.0px;" id=3D“SystemRequirement-MinimalSystemrequirement”>Minimal System
-requirement
+Minimal System requirement
 
 .. raw:: html
 
@@ -318,14 +316,14 @@ Promotion
 
 .. raw:: html
 
-   <div class="3D"confluence-information-macro-body"">
+  <div class="3D"confluence-information-macro-body"">
 
 .. raw:: html
 
    <p>
 
-<span style=3D“color: rgb(0,128,0);”>If you’r carrier and would like
-to add your company name listed in ASTPP then please contact us at
+<span style=3D“color: rgb(0,128,0);”>If you’r carrier and wo= uld like
+to add your company name listed in ASTPP then please contact us at=
 sales@inextrix.com.
 
 .. raw:: html
@@ -335,6 +333,7 @@ sales@inextrix.com.
 .. raw:: html
 
    </div>
+
 
 .. raw:: html
 
