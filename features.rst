@@ -13,16 +13,9 @@
    <head>
 
 
-
-.. raw:: html
-
-   <title>
-
+============ 
 Features
-
-.. raw:: html
-
-   </title>
+============
 
 .. raw:: html
 
