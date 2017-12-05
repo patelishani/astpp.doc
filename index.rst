@@ -1,10 +1,3 @@
-========================  
-Quick Installation 
-========================
-
-.. contents::
-   :depth: 3
-..
 
 .. raw:: html
 
@@ -13,18 +6,9 @@ Quick Installation
 .. raw:: html
 
    <head>
-
-.. raw:: html
-
-   <title>
-
+========================  
 Introduction
-
-.. raw:: html
-
-   </title>
-
-.. raw:: html
+========================
 
    <!--[if gte mso 9]>
        <xml>
@@ -289,10 +273,6 @@ Introduction
    </div>
    </div>
    </div>
-.. toctree::
-   :maxdepth: 2
-
-   system_requirement.rst
 
 .. raw:: html
 
@@ -418,3 +398,7 @@ Introduction
 .. raw:: html
 
    </html>
+.. toctree::
+   :maxdepth: 2
+
+   system_requirement.rst
