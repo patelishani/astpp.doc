@@ -259,7 +259,7 @@ Introduction
 
 .. raw:: html
 
-   <div class="3D"Section1"">
+ 
 
 ::
 
@@ -268,11 +268,11 @@ Introduction
 .. raw:: html
 
    <div class=3D"columnLayout two-right-sidebar" data-layout=3D"two-right-side=
-   bar">=20
-   <div class=3D"cell normal" data-type=3D"normal">=20
-   <div class=3D"innerCell">=20
-   <p>ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports=
-    prepaid and postpaid billing with call rating and credit control. It also =
+   bar">
+   <div class=3D"cell normal" data-type=3D"normal">
+   <div class=3D"innerCell">
+   <p>ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports
+    prepaid and postpaid billing with call rating and credit control. It also 
    provides many other features such as,</p>
    <p>Calling cards</p>
    <p>Least cost routing (LCR),</p>
@@ -286,11 +286,11 @@ Introduction
    </div>
    </div>
    <div class=3D"cell aside" data-type=3D"aside">
-   <div class=3D"innerCell">=20
+   <div class=3D"innerCell">
    <p>&nbsp;</p>
    <p>&nbsp;</p>
-   </div>=20
-   </div>=20
+   </div>
+   </div>
    </div>
 
 
