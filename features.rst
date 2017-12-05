@@ -319,8 +319,8 @@ Features
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
    e" src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png" data-ima=
-   ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>&=
-   nbsp;Various options to enable/disable playback options</p>
+   ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>
+   Various options to enable/disable playback options</p>
    </div>
    <div>
    <p>&nbsp;</p>
