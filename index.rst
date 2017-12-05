@@ -259,9 +259,9 @@ Introduction
    <div class="3D"Section1"">
 
 ::
-   
+.. raw:: html
        
-   <div class=3D"contentLayout2">=20
+   <div class=3D"contentLayout2">
 .. raw:: html
 
    
