@@ -12,13 +12,9 @@
 
 .. raw:: html
 
-   <title>
-
+============ 
 Components
-
-.. raw:: html
-
-   </title>
+============
 
 .. raw:: html
 
@@ -231,7 +227,6 @@ Components
 
    <h1>
 
-Components
 
 .. raw:: html
 
