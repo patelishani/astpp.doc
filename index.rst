@@ -285,7 +285,10 @@ Introduction
    </div>
    </div>
    </div>
+.. toctree::
+   :maxdepth: 2
 
+   quick_install.rst
 
 .. raw:: html
 
