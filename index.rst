@@ -321,61 +321,56 @@ Related pages
 
 .. raw:: html
 
-   <ul class="3D&quot;childpages-macro&quot;">
 
 .. raw:: html
 
-   <li>
+  
 
-Features
 
-.. raw:: html
-
-   </li>
 
 .. raw:: html
 
-   <li>
-
-Components
 
 .. raw:: html
 
-   </li>
+
 
 .. raw:: html
 
-   <li>
-
-System Requirement
+   
 
 .. raw:: html
 
-   </li>
+
+
 
 .. raw:: html
 
-   <li>
+
+
+.. raw:: html
+
+ 
 
 Architecture
 
 .. raw:: html
 
-   </li>
+   
 
 .. raw:: html
 
-   <li>
 
-How to Contribute
 
-.. raw:: html
 
-   </li>
 
 .. raw:: html
 
-   </ul>
+   
+
+.. raw:: html
+
+   
 
 .. raw:: html
 
