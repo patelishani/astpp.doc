@@ -2,13 +2,7 @@
    :depth: 3
 ..
 
-sage-ID: 479992954.279.1512466771276.JavaMail.confluence@07a3ae60931f
-Subject: Exported From Confluence MIME-Version: 1.0 Content-Type:
-multipart/related; boundary=“—-=_Part_278_447773276.1512466771276"
 
-——=_Part_278_447773276.1512466771276 Content-Type: text/html;
-charset=UTF-8 Content-Transfer-Encoding: quoted-printable
-Content-Location: file:///C:/exported.html
 
 .. raw:: html
 
@@ -18,8 +12,7 @@ Content-Location: file:///C:/exported.html
 
    <head>
 
-<meta http-equiv=3D“Content-Type” content=3D“text/html;
-charset=3Dutf-8=”>
+
 
 .. raw:: html
 
@@ -269,15 +262,15 @@ Features
 
    <div class="3D"Section1"">
 
-::
-
-        <div class=3D"contentLayout2">=20
+.. raw:: html
+        
+    <div class=3D"contentLayout2">=20
 
 .. raw:: html
 
-   <div class=3D"columnLayout two-equal" data-layout=3D"two-equal">=20
-   <div class=3D"cell normal" data-type=3D"normal">=20
-   <div class=3D"innerCell">=20
+   <div class=3D"columnLayout two-equal" data-layout=3D"two-equal">
+   <div class=3D"cell normal" data-type=3D"normal">
+   <div class=3D"innerCell">
    <div>
    <hr style=3D"margin-left: 15.0px;">
    <span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-e=
@@ -286,8 +279,8 @@ Features
    ww.astpp.org/images/stories/demo/feature/AccountsManagement.png"></span>
    </div>
    <div>
-   <p>&</p>
-   <h2 id=3D"Features-Callingcards">&Calling cards</h2>
+   <p></p>
+   <h2 id=3D"Features-Callingcards">Calling cards</h2>
    <hr style=3D"margin-left: 15.0px;">
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -331,16 +324,16 @@ Features
    Various options to enable/disable playback options</p>
    </div>
    <div>
-   <p>&</p>
+   <p></p>
    </div>
-   <p>&</p>
+   <p></p>
    <div>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/feature/invoicesBilling.png" data-image-src=3D"http://w=
    ww.astpp.org/images/stories/demo/feature/invoicesBilling.png"></span></p>
-   <p>&</p>
-   <h2 id=3D"Features-Rategroups/Tariff">&Rate groups / Tariff</h2>
+   <p></p>
+   <h2 id=3D"Features-Rategroups/Tariff">Rate groups / Tariff</h2>
    <hr style=3D"margin-left: 15.0px;">
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -368,20 +361,20 @@ Features
    e" src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png" data-ima=
    ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>
    Allow rate group based subscription</p>
-   <p>&</p>
+   <p></p>
    </div>
-   <p>&</p>
+   <p></p>
    <div>
-   <p>&</p>
+   <p></p>
    </div>
    <div>
-   <p>&</p>
+   <p></p>
    <div>
    <span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-e=
    mbedded-image confluence-external-resource" src=3D"http://www.astpp.org/ima=
    ges/stories/demo/feature/RatesandLCR.png" data-image-src=3D"http://www.astp=
    p.org/images/stories/demo/feature/RatesandLCR.png"></span>
-   <h2 id=3D"Features-DIDs">&DIDs</h2>
+   <h2 id=3D"Features-DIDs">DIDs</h2>
    <hr style=3D"margin-left: 15.0px;">
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -415,11 +408,11 @@ Features
    DID Billing</p>
    </div>
    </div>
-   <p>&</p>
-   <p>&</p>
-   <p>&</p>
+   <p></p>
+   <p></p>
+   <p>/p>
    <div>
-   <p>&</p>
+   <p></p>
    <div>
    <span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-e=
    mbedded-image confluence-external-resource" src=3D"http://www.astpp.org/ima=
@@ -427,11 +420,11 @@ Features
    g/images/stories/demo/feature/Reports.png"></span>
    </div>
    </div>
-   <p>&</p>
+   <p></p>
    <div>
-   <p>&</p>
+   <p></p>
    <div>
-   <h2 id=3D"Features-Configuration/Settings">&Configuration / Settings</=
+   <h2 id=3D"Features-Configuration/Settings">Configuration / Settings</=
    h2>
    <hr style=3D"margin-left: 15.0px;">
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
@@ -477,8 +470,8 @@ Features
    </div>
    </div>
    <div>
-   <p>&</p>
-   <p>&</p>
+   <p></p>
+   <p></p>
    <div>
    <span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-e=
    mbedded-image confluence-external-resource" src=3D"http://www.astpp.org/ima=
@@ -487,8 +480,8 @@ Features
    >
    </div>
    </div>
-   <h2 id=3D"Features-"><span style=3D"color: rgb(51,102,255);">&&&n=
-   bsp; && <br></span></h2>
+   <h2 id=3D"Features-"><span style=3D"color: rgb(51,102,255);">
+   <br></span></h2>
    </div>=20
    </div>=20
    <div class=3D"cell normal" data-type=3D"normal">=20
@@ -574,27 +567,27 @@ Features
    ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>
    Customer portal</p>
    </div>
-   <p>&</p>
-   <p>&</p>
+   <p></p>
+   <p></p>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/feature/Callingcards.png" data-image-src=3D"http://www.=
    astpp.org/images/stories/demo/feature/Callingcards.png"></span></p>
-   <p>&</p>
-   <p>&</p>
-   <p>&</p>
+   <p></p>
+   <p></p>
+   <p></p>
    <div>
-   <h2 id=3D"Features-Invoices/Billing">&Invoices / Billing</h2>
+   <h2 id=3D"Features-Invoices/Billing">Invoices / Billing</h2>
    <hr style=3D"margin-left: 15.0px;">
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/li_bullets.png" data-image-src=3D"http://www.astpp.org/=
-   images/stories/demo/li_bullets.png"></span>&Invoice &amp; Receipt mana=
+   images/stories/demo/li_bullets.png"></span>Invoice &amp; Receipt mana=
    gement</p>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/li_bullets.png" data-image-src=3D"http://www.astpp.org/=
-   images/stories/demo/li_bullets.png"></span>&Personalize invoicing info=
+   images/stories/demo/li_bullets.png"></span>Personalize invoicing info=
    rmation for reseller</p>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
@@ -604,7 +597,7 @@ Features
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/li_bullets.png" data-image-src=3D"http://www.astpp.org/=
-   images/stories/demo/li_bullets.png"></span>&One time Tax Configuration=
+   images/stories/demo/li_bullets.png"></span>One time Tax Configuration=
    </p>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
@@ -615,24 +608,24 @@ Features
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/li_bullets.png" data-image-src=3D"http://www.astpp.org/=
-   images/stories/demo/li_bullets.png"></span>&Configurable invoice date =
+   images/stories/demo/li_bullets.png"></span>Configurable invoice date =
    for each customer</p>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/li_bullets.png" data-image-src=3D"http://www.astpp.org/=
-   images/stories/demo/li_bullets.png"></span>&Send email upon invoice ge=
+   images/stories/demo/li_bullets.png"></span>Send email upon invoice ge=
    neration</p>
-   <p>&</p>
+   <p></p>
    </div>
-   <p>&</p>
+   <p></p>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/feature/RategroupsTariff.png" data-image-src=3D"http://=
    www.astpp.org/images/stories/demo/feature/RategroupsTariff.png"></span></p>
-   <p>&</p>
-   <p>&</p>
+   <p></p>
+   <p></p>
    <div>
-   <h2 id=3D"Features-RatesandLCR">&Rates and LCR</h2>
+   <h2 id=3D"Features-RatesandLCR">Rates and LCR</h2>
    <hr style=3D"margin-left: 15.0px;">
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -664,17 +657,17 @@ Features
    e" src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png" data-ima=
    ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>
    Carrier failover</p>
-   <p>&</p>
-   <p>&</p>
+   <p></p>
+   <p></p>
    </div>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/feature/DIDs.png" data-image-src=3D"http://www.astpp.or=
    g/images/stories/demo/feature/DIDs.png"></span></p>
-   <p>&</p>
-   <p>&</p>
+   <p></p>
+   <p></p>
    <div>
-   <h2 id=3D"Features-Reports">&Reports</h2>
+   <h2 id=3D"Features-Reports">Reports</h2>
    <hr style=3D"margin-left: 15.0px;">
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -707,20 +700,20 @@ Features
    e" src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png" data-ima=
    ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>
    Export to csv</p>
-   <p>&</p>
-   <p>&</p>
-   <p>&</p>
+   <p></p>
+   <p></p>
+   <p></p>
    </div>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/feature/ConfigurationSettings.png" data-image-src=3D"ht=
    tp://www.astpp.org/images/stories/demo/feature/ConfigurationSettings.png"><=
    /span></p>
-   <p>&</p>
-   <p>&</p>
-   <p>&</p>
+   <p></p>
+   <p></p>
+   <p></p>
    <div>
-   <h2 id=3D"Features-Paypalpaymentgateway">&Paypal payment gateway</h2>
+   <h2 id=3D"Features-Paypalpaymentgateway">Paypal payment gateway</h2>
    <hr style=3D"margin-left: 15.0px;">
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -751,7 +744,7 @@ data-type=3D“aside”>=20
 
    <p>
 
-&
+
 
 .. raw:: html
 
@@ -761,25 +754,25 @@ data-type=3D“aside”>=20
 
    </div>
 
-=20
+
 
 .. raw:: html
 
    </div>
 
-=20 <div class=3D“cell normal” data-type=3D“normal”>=20
+<div class=3D“cell normal” data-type=3D“normal”>
 
 .. raw:: html
 
    <div class="3D"innerCell"">
 
-=20
+
 
 .. raw:: html
 
    <p>
 
-&
+
 
 .. raw:: html
 
@@ -789,7 +782,7 @@ data-type=3D“aside”>=20
 
    <p>
 
-&
+
 
 .. raw:: html
 
@@ -799,19 +792,19 @@ data-type=3D“aside”>=20
 
    </div>
 
-=20
+
 
 .. raw:: html
 
    </div>
 
-=20
+
 
 .. raw:: html
 
    </div>
 
-=20
+
 
 .. raw:: html
 
