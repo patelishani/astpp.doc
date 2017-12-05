@@ -1,10 +1,26 @@
 .. contents::
    :depth: 3
 ..
+
+Message-ID:
+1238991733.259.1512449585366.JavaMail.confluence@8d36ab6238b5 Subject:
+Exported From Confluence MIME-Version: 1.0 Content-Type:
+multipart/related; boundary=“—-=_Part_258_897838624.1512449585365"
+
+——=_Part_258_897838624.1512449585365 Content-Type: text/html;
+charset=UTF-8 Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
 .. raw:: html
+
+   <html xmlns:o="3D'urn:schemas-microsoft-com:office:office'" xmlns:w="3D'urn:schemas-microsoft-com:office:word'" xmlns:v="3D'urn:schemas-microsoft-com:vml'" xmlns="3D'urn:w3-org-ns:HTML'">
+
 .. raw:: html
 
    <head>
+
+<meta http-equiv=3D“Content-Type” content=3D“text/html;
+charset=3Dutf-8=”>
 
 .. raw:: html
 
@@ -12,7 +28,11 @@
 
 Introduction
 
+.. raw:: html
+
    </title>
+
+.. raw:: html
 
    <!--[if gte mso 9]>
        <xml>
@@ -248,21 +268,48 @@ Introduction
 
 .. raw:: html
 
+   <div class="3D"Section1"">
+
 ::
-   ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports
-   prepaid and postpaid billing with call rating and credit control. It also 
-   provides many other features such as,
-   Calling cards
-   Least cost routing (LCR),
-   DID management,
-   Multi level Reseller management
-   Customer management
-   IP & SIP Termination
-   Rates management
-   Reports
-   and many more
+
+        <div class=3D"contentLayout2">=20
 
 .. raw:: html
+
+   <div class=3D"columnLayout two-right-sidebar" data-layout=3D"two-right-side=
+   bar">=20
+   <div class=3D"cell normal" data-type=3D"normal">=20
+   <div class=3D"innerCell">=20
+   <p>ASTPP is a Open Source VoIP Billing Solution for Freeswitch. It supports=
+    prepaid and postpaid billing with call rating and credit control. It also =
+   provides many other features such as,</p>
+   <p>Calling cards</p>
+   <p>Least cost routing (LCR),</p>
+   <p>DID management,</p>
+   <p>Multi level Reseller management</p>
+   <p>Customer management</p>
+   <p>IP &amp; SIP Termination&nbsp;</p>
+   <p>Rates management</p>
+   <p>Reports</p>
+   <p>and many more</p>
+   </div>=20
+   </div>=20
+   <div class=3D"cell aside" data-type=3D"aside">=20
+   <div class=3D"innerCell">=20
+   <p>&nbsp;</p>
+   <p>&nbsp;</p>
+   </div>=20
+   </div>=20
+   </div>
+
+=20 <div class=3D“columnLayout single” data-layout=3D“single”>=20 <div
+class=3D“cell normal” data-type=3D“normal”>=20
+
+.. raw:: html
+
+   <div class="3D"innerCell"">
+
+=20
 
 .. raw:: html
 
@@ -360,13 +407,19 @@ How to Contribute
 
    </div>
 
-.. raw:: html
-
-   </div>
+=20
 
 .. raw:: html
 
    </div>
+
+=20
+
+.. raw:: html
+
+   </div>
+
+=20
 
 .. raw:: html
 
@@ -383,5 +436,4 @@ How to Contribute
 .. raw:: html
 
    </html>
-
 
