@@ -19,7 +19,7 @@
 
 Introduction
 
-
+.. raw:: html
 
    </title>
 
@@ -263,6 +263,7 @@ Introduction
 
 ::
 
+        <div class=3D"contentLayout2">
 
 .. raw:: html
 
@@ -291,6 +292,7 @@ Introduction
    </div>
    </div>
    </div>
+
 
 
 .. raw:: html
@@ -423,5 +425,4 @@ How to Contribute
 .. raw:: html
 
    </html>
-
 
