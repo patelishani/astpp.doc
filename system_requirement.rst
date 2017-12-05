@@ -366,7 +366,7 @@ sales@inextrix.com.
 
    </p>
 
-::
+.. raw:: html
 
     </div>
 
