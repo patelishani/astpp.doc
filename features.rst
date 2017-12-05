@@ -667,7 +667,7 @@ Features
    <p></p>
    <p></p>
    <div>
-   <h2 id=3D"Features-Reports">Reports</h2>
+    <h2 id=3D"Features-Reports">&Reports</h2>
    <hr style=3D"margin-left: 15.0px;">
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -678,7 +678,7 @@ Features
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
    e" src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png" data-ima=
    ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>
-   Summary reports (display usage of prefix, ACD, MCD, profit, Billable s
+   Summary reports (display usage of prefix, ACD, MCD, profit, Billable s=
    econds)</p>
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -700,20 +700,21 @@ Features
    e" src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png" data-ima=
    ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>
    Export to csv</p>
-   <p></p>
-   <p></p>
-   <p></p>
+   <p>&</p>
+   <p>&</p>
+   <p>&</p>
    </div>
    <p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
    e-embedded-image confluence-external-resource" src=3D"http://www.astpp.org/=
    images/stories/demo/feature/ConfigurationSettings.png" data-image-src=3D"ht=
-   tp://www.astpp.org/images/stories/demo/feature/ConfigurationSettings.png"><
+   tp://www.astpp.org/images/stories/demo/feature/ConfigurationSettings.png">
+   <=
    /span></p>
-   <p></p>
-   <p></p>
-   <p></p>
+   <p>&</p>
+   <p>&</p>
+   <p>&</p>
    <div>
-   <h2 id=3D"Features-Paypalpaymentgateway">Paypal payment gateway</h2>
+   <h2 id=3D"Features-Paypalpaymentgateway">&Paypal payment gateway</h2>
    <hr style=3D"margin-left: 15.0px;">
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -757,7 +758,7 @@ Features
 
    </div>
 
-<div class=3D“cell normal” data-type=3D“normal”>
+
 
 .. raw:: html
 
