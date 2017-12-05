@@ -386,4 +386,4 @@ Introduction
 .. toctree::
    :maxdepth: 2
 
-   system_requirement.rst
+   features.rst
