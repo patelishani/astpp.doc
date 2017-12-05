@@ -1,4 +1,3 @@
-+requirement.text
 .. contents::
    :depth: 3
 ..
@@ -242,9 +241,9 @@ System Requirement
 
    <div class=3D"Section1">
 
-::
+.. raw:: html
 
-        <h3 class=3D"western" style=3D"text-decoration: none;margin-left: 3=
+        <h3 class=3D"western" style=3D"text-decoration: none;margin-left: 3
 
 0.0px;" id=3D“SystemRequirement-MinimalSystemrequirement”>Minimal System
 re= quirement
@@ -261,13 +260,13 @@ re= quirement
 
    <li style=3D"list-style-type: none;background-image: none;">
    <ul>
-   <li style=3D"text-align: left;"><span style=3D"text-decoration: none;">2GB =
+   <li style=3D"text-align: left;"><span style=3D"text-decoration: none;">2GB
    RAM</span></li>
-   <li style=3D"text-align: left;"><span style=3D"text-decoration: none;">40GB=
+   <li style=3D"text-align: left;"><span style=3D"text-decoration: none;">40GB
     Hard drive</span></li>
    <li><span>64 bit OS (Centos/ Debian latest version)</span></li>
    <li style=3D"text-align: left;">Dedicated server ip</li>
-   <li style=3D"text-align: left;"><span style=3D"color: rgb(68,68,68);">100 M=
+   <li style=3D"text-align: left;"><span style=3D"color: rgb(68,68,68);">100 M
    bps connection&nbsp;</span></li>
    </ul></li>
 
@@ -329,8 +328,10 @@ Promotion
 
    <p>
 
-<span style=3D“color: rgb(0,128,0);”>If you’r carrier and wo= uld like
-to add your company name listed in ASTPP then please contact us at=
+.. raw:: html
+
+If you’r carrier and would like
+to add your company name listed in ASTPP then please contact us at
 sales@inextrix.com.
 
 .. raw:: html
