@@ -263,7 +263,6 @@ Introduction
 
 ::
 
-        <div class=3D"contentLayout2">=20
 
 .. raw:: html
 
@@ -294,6 +293,10 @@ Introduction
    </div>
 
 
+.. toctree::
+   :maxdepth: 2
+
+   quick_install.rst
 
 .. raw:: html
 
@@ -310,13 +313,9 @@ Introduction
 
 .. raw:: html
 
-   <p>
-
-Related pages
-
+  
 .. raw:: html
 
-   </p>
 
 .. raw:: html
 
@@ -328,62 +327,47 @@ Related pages
 
 .. raw:: html
 
-   <ul class="3D&quot;childpages-macro&quot;">
+  
 
 .. raw:: html
 
-   <li>
-
-Features
+  
 
 .. raw:: html
 
-   </li>
+ 
 
 .. raw:: html
 
-   <li>
-
-Components
 
 .. raw:: html
 
-   </li>
 
 .. raw:: html
 
-   <li>
-
-System Requirement
 
 .. raw:: html
 
-   </li>
+ 
 
 .. raw:: html
 
-   <li>
-
-Architecture
+  
 
 .. raw:: html
 
-   </li>
+   
 
 .. raw:: html
 
-   <li>
-
-How to Contribute
+   
 
 .. raw:: html
 
-   </li>
 
 .. raw:: html
 
-   </ul>
-
+ 
 .. raw:: html
 
    <p>
