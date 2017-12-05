@@ -305,7 +305,7 @@ Introduction
 
    <p>
 
-Related pages
+
 
 .. raw:: html
 
@@ -352,7 +352,7 @@ Related pages
 
  
 
-Architecture
+
 
 .. raw:: html
 
