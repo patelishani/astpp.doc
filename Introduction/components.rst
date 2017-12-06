@@ -1,7 +1,6 @@
 
-
-
-
+.. image:: Images/astpp_combo_technologies.png
+        
 .. raw:: html
 
    <html xmlns:o="3D'urn:schemas-microsoft-com:office:office'" xmlns:w="3D'urn:schemas-microsoft-com:office:word'" xmlns:v="3D'urn:schemas-microsoft-com:vml'" xmlns="3D'urn:w3-org-ns:HTML'">
@@ -18,10 +17,7 @@ Components
 
 .. raw:: html
 
-.. image:: Images/astpp_combo_technologies.png
-        :width: 130pt
-        :align: center
-        :height: 76.5pt
+
 
 
    <style>
