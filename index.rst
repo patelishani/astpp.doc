@@ -263,15 +263,6 @@ Introduction
 
    <div class="3D"innerCell"">
 
-
-.. raw:: html
-
-   <p>
-
-.. raw:: html
-
-   </p>
-
 .. raw:: html
 
    <p>
@@ -329,7 +320,6 @@ Related pages
 
    <li>
 
-Architecture
 
 .. raw:: html
 
@@ -339,7 +329,7 @@ Architecture
 
    <li>
 
-How to Contribute
+
 
 .. raw:: html
 
