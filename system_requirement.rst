@@ -356,7 +356,7 @@ Promotion
 
  </strong>
   
-  .. raw:: html
+.. raw:: html
  
  </span>
   
