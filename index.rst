@@ -273,40 +273,16 @@ Related pages
   
 .. raw:: html
 
-.. toctree::
-   :maxdepth: 
- features.rst
-   
-.. raw:: html
-  
 
 .. raw:: html
 
 .. toctree::
    :maxdepth: 2
 
-   components.rst
-
-.. raw:: html
-
-.. toctree::
-   :maxdepth: 2
-
-   system_requirement.rst
-
-.. raw:: html
-
-.. toctree::
-   :maxdepth: 2
-
-   architecture.rst
-
-   .. raw:: html
-
-.. toctree::
-   :maxdepth: 2
-
-   how_to_contribute.rst
+   introduction/features.rst
+   introduction/components.rst
+   introduction/system_requirement.rst
+   introduction/how_to_contribute.rst
 
 .. raw:: html
 
