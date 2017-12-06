@@ -247,7 +247,7 @@ Components
    .com/" class=3D"external-link" rel=3D"nofollow"><span style=3D"color: rgb(1=
    7,85,204);text-decoration: underline;">http://nginx.com/</span></a>)</p></li>
    <ul>
-   <li style=3D"text-decoration: none;"><p><span style=3D"color: rgb(34,34,34)=
+   <li style=3D"text-decoration: none;"><p><br><span style=3D"color: rgb(34,34,34)=
    ;text-decoration: none;">NGINX accelerates content and application delivery
    , improves security, facilitates availability and scalability for the busie
    st web sites on the Internet.</span></p></li>
