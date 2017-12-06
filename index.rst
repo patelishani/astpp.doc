@@ -276,7 +276,7 @@ Introduction
 
    <p>
 
-
+Related pages
 
 .. raw:: html
 
@@ -387,18 +387,5 @@ How to Contribute
 .. raw:: html
 
    </html>
-.. toctree::
-   :maxdepth: 2
 
-   features.rst
-   
-.. toctree::
-   :maxdepth: 2
-
-   components.rst
-  
-.. toctree::
-   :maxdepth: 2
-
-   system_requirement.rst
 
