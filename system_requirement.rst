@@ -353,10 +353,12 @@ Promotion
    sales@inextrix.com.
   
 .. raw:: html
-</strong>
-  </span>
-  
 
+ </strong>
+  
+  .. raw:: html
+ 
+ </span>
   
 .. raw:: html
 
