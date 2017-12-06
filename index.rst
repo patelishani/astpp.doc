@@ -276,14 +276,14 @@ Related pages
 .. raw:: html
 
    <ul class="3D&quot;childpages-macro&quot;">
-
+   <li>
 .. raw:: html
 
 .. toctree::
    :maxdepth: 2
 
    features.rst
-
+</li>
 .. raw:: html
 
 .. toctree::
@@ -304,22 +304,21 @@ Related pages
 
 .. raw:: html
 
-   <li>
-
-
-.. raw:: html
-
-   </li>
-
-.. raw:: html
-
-   <li>
 
 
 
 .. raw:: html
 
-   </li>
+
+.. raw:: html
+
+  
+
+
+
+.. raw:: html
+
+
 
 .. raw:: html
 
