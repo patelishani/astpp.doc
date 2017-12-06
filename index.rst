@@ -351,4 +351,13 @@ Related pages
 
    </html>
 
+.. toctree::
+   :maxdepth: 2
+
+   features.rst
+   
+.. toctree::
+   :maxdepth: 2
+
+   features.rst
 
