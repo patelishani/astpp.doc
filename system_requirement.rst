@@ -332,11 +332,11 @@ Minimal System requirement
 .. raw:: html
 
    <div class="3D"confluence-information-macro" has-no-icon=""
-   confluence-informati="on-macro-information&quot;">
+   confluence-informati="on-macro-information">
 
 .. raw:: html
 
-   <p class="3D&quot;title&quot;">
+   <p class="3Dtitle">
 
 Promotion
 
@@ -351,7 +351,7 @@ Promotion
 .. raw:: html
 
    <p>
-   <span style=3D“color: rgb(0,128,0);”>
+   <span style=3D“color:red(0,128,0);”>
    <strong>
    If you’r carrier and would like to add your company name listed in ASTPP then please contact us at
    sales@inextrix.com.
@@ -359,7 +359,11 @@ Promotion
 .. raw:: html
 
   </span>
+  
+.. raw:: html
+
 </strong>
+
 .. raw:: html
 
    </p>
