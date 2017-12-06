@@ -274,7 +274,7 @@ Related pages
    <ul class="3D&quot;childpages-macro&quot;">
   
 .. raw:: html
-<li>
+
 .. toctree::
    :maxdepth: 
  features.rst
@@ -283,7 +283,7 @@ Related pages
   
 
 .. raw:: html
-<li>
+
 .. toctree::
    :maxdepth: 2
 
