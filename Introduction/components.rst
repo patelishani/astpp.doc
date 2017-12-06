@@ -20,8 +20,8 @@ Components
     - FreeSWITCH is a scalable open source cross-platform telephony platform designed to route and interconnect popular communication protocols using audio, video, text or any other form of media. It was created in 2006 to fill the void left by proprietary commercial solutions. 
 
 .. image:: /Images/astpp_combo_technologies.png
-        :width: 130pt
+        :width: 180pt
         :align: center
-        :height: 76.5pt
+        :height: 85.5pt
 
    
