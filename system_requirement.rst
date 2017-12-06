@@ -360,10 +360,8 @@ Promotion
 
   </span>
   
-.. raw:: html
-
 </strong>
-
+  
 .. raw:: html
 
    </p>
