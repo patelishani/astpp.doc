@@ -284,23 +284,36 @@ Related pages
    :maxdepth: 2
 
    features.rst
+   
+.. raw:: html
+  
   </li>
+
+.. raw:: html
+
 <li>
+
 .. toctree::
    :maxdepth: 2
 
    components.rst
+
+.. raw:: html
+
 </li>
 
+.. raw:: html
+
 <li>
+
 .. toctree::
    :maxdepth: 2
 
    system_requirement.rst
-</li>
+
 .. raw:: html
 
-   
+  </li> 
 
 .. raw:: html
 
