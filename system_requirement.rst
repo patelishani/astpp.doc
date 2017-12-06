@@ -276,11 +276,11 @@ Minimal System requirement
 
 .. raw:: html
 
- 
+ <ul>
 .. raw:: html
-   <ul>
+   
    <li style=3D"list-style-type: none;background-image: none;">
-   <ul>
+ 
    <li style=3D"text-align: left;"><span style=3D"text-decoration: none;">2GB
    RAM</span></li>
    <li style=3D"text-align: left;"><span style=3D"text-decoration: none;">40GB
@@ -289,11 +289,11 @@ Minimal System requirement
    <li style=3D"text-align: left;">Dedicated server ip</li>
    <li style=3D"text-align: left;"><span style=3D"color: rgb(68,68,68);">100 M
    bps connection</span></li>
-   </ul></li>
-   </ul>
+  </li>
+ 
 .. raw:: html
 
-
+  </ul>
 
 .. raw:: html
 
