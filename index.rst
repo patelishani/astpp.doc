@@ -22,10 +22,12 @@ Reports
 
 and many more
 
+
+
 .. toctree::
    :maxdepth: 2
 
-   feature.rst
+   features.rst
    
 .. toctree::
    :maxdepth: 2
