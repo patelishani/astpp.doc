@@ -263,10 +263,10 @@ Introduction
    <p>
    <strong>
 Related pages
-
+</strong>
 .. raw:: html
 
-</strong>
+
 
 .. raw:: html
 
