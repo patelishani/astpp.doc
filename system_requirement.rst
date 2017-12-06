@@ -333,8 +333,12 @@ Minimal System requirement
 .. raw:: html
 
    <p class="3Dtitle">
+   <strong>
+   Promotion
 
-<b>Promotion</b>
+.. raw:: html
+
+ </strong>
 
 .. raw:: html
 
