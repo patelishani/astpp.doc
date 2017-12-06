@@ -266,7 +266,9 @@ Introduction
 Related pages
 
 .. raw:: html
+
 </strong>
+.. raw:: html
    </p>
 
 .. raw:: html
