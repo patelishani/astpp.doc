@@ -1,6 +1,6 @@
 
 
-.. image:: images/.png
+.. image:: images/astpp_combo_technologies.png
         :width: 130pt
         :align: center
         :height: 76.5pt
