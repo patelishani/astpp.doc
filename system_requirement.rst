@@ -276,7 +276,6 @@ Minimal System requirement
 
 .. raw:: html
 
-   <ul>
 
 .. raw:: html
 
@@ -294,7 +293,7 @@ Minimal System requirement
 
 .. raw:: html
 
-   </ul>
+ 
 
 .. raw:: html
 
