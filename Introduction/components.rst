@@ -245,8 +245,7 @@ Components
    <ul>
    <li style=3D"text-decoration: none;"><p>Nginx (<a href=3D"https://www.nginx=
    .com/" class=3D"external-link" rel=3D"nofollow"><span style=3D"color: rgb(1=
-   7,85,204);text-decoration: underline;">http://nginx.com/</span></a>)</p></l=
-   i>
+   7,85,204);text-decoration: underline;">http://nginx.com/</span></a>)</p></li>
    <ul>
    <li style=3D"text-decoration: none;"><p><span style=3D"color: rgb(34,34,34)=
    ;text-decoration: none;">NGINX accelerates content and application delivery
