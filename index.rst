@@ -303,11 +303,11 @@ Related pages
    :maxdepth: 2
 
    features.rst
-
+</li>
 
 .. raw:: html
 
-</li>
+
 
 .. raw:: html
 
