@@ -279,10 +279,10 @@ Related pages
 .. toctree::
    :maxdepth: 3
 
-   Introduction/features.rst
-   Introduction/components.rst
-   Introduction/system_requirement.rst
-   Introduction/how_to_contribute.rst
+   features.rst
+   components.rst
+   system_requirement.rst
+   how_to_contribute.rst
 
 .. raw:: html
 
