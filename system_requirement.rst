@@ -265,7 +265,6 @@ System Requirement
 .. raw:: html
 
 Minimal System requirement
-===============
 
 .. raw:: html
 
@@ -298,7 +297,6 @@ Minimal System requirement
 .. raw:: html
    
 VoIP Requirement
-===============
    
 .. raw:: html
 
