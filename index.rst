@@ -250,8 +250,8 @@ Introduction
    <p>Reports</p>
    <p>and many more</p>
    </div>
-   
    <div class=3D"cell aside" data-type=3D"aside">
+   <div></div>
    </div>
    </div>
 
