@@ -293,11 +293,6 @@ Related pages
 
 .. raw:: html
 
-
-
-.. raw:: html
-
-
 .. toctree::
    :maxdepth: 2
 
