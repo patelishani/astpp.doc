@@ -279,8 +279,6 @@ Minimal System requirement
  <ul>
 .. raw:: html
    
-   
- 
    <li style=3D"text-align: left;"><span style=3D"text-decoration: none;">2GB
    RAM</span></li>
    <li style=3D"text-align: left;"><span style=3D"text-decoration: none;">40GB
@@ -314,7 +312,6 @@ Minimal System requirement
 
 .. raw:: html
 
-   <li style=3D"list-style-type: none;background-image: none;">
    <ul>
    <li>Termination gateway to route outbound calls</li>
    <li>DIDs to receive incoming calls</li>
