@@ -286,21 +286,28 @@ Introduction
 
    <p>
 
+Related pages
+
 .. raw:: html
 
    </p>
 
 .. raw:: html
 
+ <ul class="3D&quot;childpages-macro&quot;">
+ 
+.. raw:: html
+
+   <li>
+.. toctree::
+   :maxdepth: 2
+
+   features.rst
+
 
 .. raw:: html
 
-  
-
-
-
-.. raw:: html
-
+</li>
 
 .. raw:: html
 
