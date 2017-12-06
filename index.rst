@@ -276,28 +276,28 @@ Related pages
 .. raw:: html
 
    <ul class="3D&quot;childpages-macro&quot;">
-   <li>
+  
 .. raw:: html
 
+ <li>
 .. toctree::
    :maxdepth: 2
 
    features.rst
-</li>
-.. raw:: html
-
+  </li>
+<li>
 .. toctree::
    :maxdepth: 2
 
    components.rst
+</li>
 
-.. raw:: html
-
+<li>
 .. toctree::
    :maxdepth: 2
 
    system_requirement.rst
-
+</li>
 .. raw:: html
 
    
