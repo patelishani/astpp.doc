@@ -354,10 +354,11 @@ Promotion
 .. raw:: html
 
    <p>
+   <span style=3D“color: rgb(0,128,0);”>
    
 .. raw:: html
 
-<span style=3D“color: rgb(0,128,0);”>
+
 
 .. raw:: html
 
