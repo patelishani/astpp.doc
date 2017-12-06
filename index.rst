@@ -252,10 +252,6 @@ Introduction
    </div>
    
    <div class=3D"cell aside" data-type=3D"aside">
-   <div class=3D"innerCell">
-   <p>&nbsp;</p>
-   <p>&nbsp;</p>
-   </div>
    </div>
    </div>
 
