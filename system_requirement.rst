@@ -356,11 +356,12 @@ Promotion
 
    <p>
    <span style=3D“color: rgb(0,128,0);”>
-   
-.. raw:: html
-
-If you’r carrier and would like to add your company name listed in ASTPP then please contact us at
+   If you’r carrier and would like to add your company name listed in ASTPP then please contact us at
 sales@inextrix.com.
+   
+
+
+
 
 .. raw:: html
 
