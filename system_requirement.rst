@@ -366,9 +366,6 @@ If you’r carrier and would like to add your company name listed in ASTPP then 
 sales@inextrix.com.
 
 </span>
-.. raw:: html
-
-
 
 .. raw:: html
 
