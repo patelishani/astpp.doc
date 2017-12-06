@@ -1,4 +1,7 @@
-
+.. image:: /Images/astpp_combo_technologies.png
+        :width: 130pt
+        :align: center
+        :height: 76.5pt
 
 ============ 
 Components
@@ -6,6 +9,7 @@ Components
 
  - Nginx (http://nginx.com/)
     - NGINX accelerates content and application delivery, improves security, facilitates availability and scalability for the busiest web sites on the Internet.
+    
 
  - PHP (http://php.net/)
     - PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.
