@@ -312,10 +312,10 @@ Minimal System requirement
 
 .. raw:: html
 
-   <ul>
+   
    <li>Termination gateway to route outbound calls</li>
    <li>DIDs to receive incoming calls</li>
-   </ul></li>
+   </li>
 
 .. raw:: html
 
