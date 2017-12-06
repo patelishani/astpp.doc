@@ -360,7 +360,8 @@ Components
 .. raw:: html
 
    </html>
-   .. image:: /Images/astpp_combo_technologies.png
+  
+.. image:: /Images/astpp_combo_technologies.png
         :width: 130pt
         :align: center
         :height: 76.5pt
