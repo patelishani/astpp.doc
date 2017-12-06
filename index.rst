@@ -261,10 +261,6 @@ Introduction
 
 .. raw:: html
 
-   <div class="3D"innerCell"">
-
-.. raw:: html
-
    <p>
 
 Related pages
