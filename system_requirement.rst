@@ -276,9 +276,9 @@ Minimal System requirement
 
 .. raw:: html
 
-
+ 
 .. raw:: html
-
+   <ul>
    <li style=3D"list-style-type: none;background-image: none;">
    <ul>
    <li style=3D"text-align: left;"><span style=3D"text-decoration: none;">2GB
@@ -290,10 +290,10 @@ Minimal System requirement
    <li style=3D"text-align: left;"><span style=3D"color: rgb(68,68,68);">100 M
    bps connection</span></li>
    </ul></li>
-
+   </ul>
 .. raw:: html
 
- 
+
 
 .. raw:: html
 
