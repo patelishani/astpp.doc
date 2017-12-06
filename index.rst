@@ -256,20 +256,17 @@ Introduction
    <p>&nbsp;</p>
    <p>&nbsp;</p>
    </div>
-   
+   </div>
+   </div>
 
 .. raw:: html
 
    <p>
    <strong>
 Related pages
+
+.. raw:: html
 </strong>
-.. raw:: html
-
-
-
-.. raw:: html
-
    </p>
 
 .. raw:: html
