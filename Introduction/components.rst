@@ -362,7 +362,7 @@ Components
 
    </html>
    
-.. image:: Images/logo.png
+.. image:: /Images/astpp_combo_technologies.png
         :width: 130pt
         :align: center
         :height: 76.5pt
