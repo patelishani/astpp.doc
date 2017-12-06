@@ -263,8 +263,11 @@ System Requirement
 
 .. raw:: html
 
-<h3 class=3D"western" style=3D"text-decoration: none;margin-left: 30.0px;" id=3D“SystemRequirement-MinimalSystemrequirement”>Minimal System
-re quirement
+<h3 class=3D"western" style=3D"text-decoration: none;margin-left: 30.0px;" id=3D“SystemRequirement-MinimalSystemrequirement”>
+
+.. raw:: html
+
+Minimal System requirement
 
 .. raw:: html
 
@@ -346,7 +349,7 @@ Promotion
 
 <span style=3D“color: rgb(0,128,0);”>If you’r carrier and would like
 to add your company name listed in ASTPP then please contact us at
-sales@inextrix.com.
+sales@inextrix.com.</span>
 
 .. raw:: html
 
