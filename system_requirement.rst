@@ -264,10 +264,6 @@ System Requirement
 
 .. raw:: html
 
-
-
-.. raw:: html
-
 Minimal System requirement
 
 .. raw:: html
@@ -295,7 +291,7 @@ Minimal System requirement
 
 .. raw:: html
 
-   <h3 class=3D"western" style=3D"margin-left: 30.0px;" id=3D"SystemRequiremen
+   <h3 class=3D"western" style=3D"text-decoration: none;margin-left: 30.0px;" id=3D"SystemRequiremen
    t-VoIPRequirement">
    
 .. raw:: html
@@ -357,10 +353,10 @@ Promotion
    sales@inextrix.com.
   
 .. raw:: html
-
+</strong>
   </span>
   
-</strong>
+
   
 .. raw:: html
 
