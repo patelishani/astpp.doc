@@ -279,20 +279,12 @@ Related pages
 
 .. raw:: html
 
-   <li>
-
 .. toctree::
    :maxdepth: 2
 
    features.rst
 
 .. raw:: html
-
-   </li>
-
-.. raw:: html
-
-   <li>
 
 .. toctree::
    :maxdepth: 2
@@ -301,11 +293,10 @@ Related pages
 
 .. raw:: html
 
-   </li>
+
 
 .. raw:: html
 
-   <li>
 
 .. toctree::
    :maxdepth: 2
@@ -314,7 +305,7 @@ Related pages
 
 .. raw:: html
 
-   </li>
+   
 
 .. raw:: html
 
