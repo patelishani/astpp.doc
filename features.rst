@@ -304,8 +304,8 @@ Features
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
    e" src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png" data-ima=
-   ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span><
-   span>Configure own rate group and assign to customers / resellers (For admi
+   ge-src=3D"http://www.astpp.org/images/stories/demo/li_bullets.png"></span>
+   <span>Configure own rate group and assign to customers / resellers (For admi
    n and resellers only)</span></p>
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
