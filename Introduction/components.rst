@@ -1,11 +1,11 @@
-.. image:: /Images/astpp_combo_technologies.png
-        :width: 130pt
-        :align: center
-        :height: 76.5pt
 
 ============ 
 Components
 ============
+.. image:: /Images/astpp_combo_technologies.png
+        :width: 130pt
+        :align: center
+        :height: 76.5pt
 
  - Nginx (http://nginx.com/)
     - NGINX accelerates content and application delivery, improves security, facilitates availability and scalability for the busiest web sites on the Internet.
