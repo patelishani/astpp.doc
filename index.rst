@@ -296,25 +296,17 @@ Related pages
 
 .. raw:: html
 
-   
+.. toctree::
+   :maxdepth: 2
 
-.. raw:: html
+   architecture.rst
 
+   .. raw:: html
 
+.. toctree::
+   :maxdepth: 2
 
-
-.. raw:: html
-
-
-.. raw:: html
-
-  
-
-
-
-.. raw:: html
-
-
+   how_to_contribute.rst
 
 .. raw:: html
 
