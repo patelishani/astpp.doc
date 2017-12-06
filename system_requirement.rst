@@ -279,7 +279,7 @@ Minimal System requirement
  <ul>
 .. raw:: html
    
-   <li style=3D"list-style-type: none;background-image: none;">
+   
  
    <li style=3D"text-align: left;"><span style=3D"text-decoration: none;">2GB
    RAM</span></li>
