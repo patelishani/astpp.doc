@@ -258,8 +258,8 @@ Components
    <li style=3D"text-decoration: none;"><p><span style=3D"color: rgb(0,0,0);te=
    xt-decoration: none;">PHP (</span><a style=3D"text-decoration: none;" href=
    =3D"http://php.net/" class=3D"external-link" rel=3D"nofollow"><span style=
-   =3D"color: rgb(17,85,204);text-decoration: underline;">http://php.net/</spa=
-   n></a><span style=3D"color: rgb(0,0,0);text-decoration: none;">)</span></p>
+   =3D"color: rgb(17,85,204);text-decoration: underline;">http://php.net/</span>
+   </a><span style=3D"color: rgb(0,0,0);text-decoration: none;">)</span></p>
    </li>
    <ul>
    <li style=3D"text-decoration: none;"><p><span style=3D"color: rgb(34,34,34)=
@@ -314,8 +314,8 @@ Components
    4);text-decoration: none;"> is a scalable open source cross-platform teleph
    ony platform designed to route and interconnect popular communication proto
    cols using audio, video, text or any other form of media. It was created in
-    2006 to fill the void left by proprietary commercial solutions.</span><spa=
-   n style=3D"color: rgb(0,0,0);"></span></p></li>
+    2006 to fill the void left by proprietary commercial solutions.</span><span
+    style=3D"color: rgb(0,0,0);"></span></p></li>
    </ul>
    </ul>
    <p><span style=3D"color: rgb(0,0,0);text-decoration: none;"></span><span style=3D"color: rgb(0,0,0);text-decoration: none;"></span></p>
