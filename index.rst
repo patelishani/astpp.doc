@@ -284,73 +284,70 @@ Introduction
 
 .. raw:: html
 
-   <p>
+   <ul class="3D&quot;childpages-macro&quot;">
 
-Related pages
-
-.. raw:: html
-
-   </p>
-
-.. raw:: html
-
- <ul class="3D&quot;childpages-macro&quot;">
- 
 .. raw:: html
 
    <li>
+
 .. toctree::
    :maxdepth: 2
 
    features.rst
-</li>
 
 .. raw:: html
 
-
-
-.. raw:: html
-
-
+   </li>
 
 .. raw:: html
 
-   
+   <li>
+
+.. toctree::
+   :maxdepth: 2
+
+   components.rst
 
 .. raw:: html
 
-
-
-
-.. raw:: html
-
-
+   </li>
 
 .. raw:: html
 
- 
+   <li>
 
+.. toctree::
+   :maxdepth: 2
 
-
-.. raw:: html
-
-   
-
-.. raw:: html
-
-
-
-
+   system_requirement.rst
 
 .. raw:: html
 
-   
+   </li>
 
 .. raw:: html
 
-   
+   <li>
+
+Architecture
 
 .. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+How to Contribute
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   </ul>
 
    <p>
 
