@@ -291,7 +291,7 @@ Minimal System requirement
 
 .. raw:: html
 
-   <h3 class=3D"western" style=3D"text-decoration: none;margin-left: 30.0px;" id=3D"SystemRequiremen
+   <h3 class=3D"western" style=3D"margin-left: 30.0px;font-size: 16px;" id=3D"SystemRequiremen
    t-VoIPRequirement">
    
 .. raw:: html
@@ -334,7 +334,7 @@ Minimal System requirement
 
    <p class="3Dtitle">
 
-Promotion
+<b>Promotion</b>
 
 .. raw:: html
 
