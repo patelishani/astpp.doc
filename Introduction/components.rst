@@ -1,3 +1,4 @@
+.. raw:: html
 
 .. image:: Images/astpp_combo_technologies.png
         
