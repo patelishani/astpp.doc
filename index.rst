@@ -251,7 +251,9 @@ Introduction
    <p>and many more</p>
    </div>
    <div class=3D"cell aside" data-type=3D"aside">
-   <div></div>
+  <div class=3D"innerCell">
+   <p></p>
+   </div>
    </div>
    </div>
 
