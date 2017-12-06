@@ -298,7 +298,15 @@ Minimal System requirement
 .. raw:: html
 
    <h3 class=3D"western" style=3D"margin-left: 30.0px;" id=3D"SystemRequiremen
-   t-VoIPRequirement">VoIP Requirement</h3>
+   t-VoIPRequirement">
+   
+.. raw:: html
+   
+   VoIP Requirement
+   
+.. raw:: html
+
+   </h3>
 
 .. raw:: html
 
@@ -346,10 +354,19 @@ Promotion
 .. raw:: html
 
    <p>
+   
+.. raw:: html
 
-<span style=3D“color: rgb(0,128,0);”>If you’r carrier and would like
-to add your company name listed in ASTPP then please contact us at
-sales@inextrix.com.</span>
+<span style=3D“color: rgb(0,128,0);”>
+
+.. raw:: html
+
+If you’r carrier and would like to add your company name listed in ASTPP then please contact us at
+sales@inextrix.com.
+
+.. raw:: html
+
+</span>
 
 .. raw:: html
 
@@ -379,7 +396,7 @@ sales@inextrix.com.</span>
 
    </p>
 
-::
+.. raw:: html
 
     </div>
 
