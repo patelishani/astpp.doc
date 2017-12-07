@@ -17,8 +17,8 @@ Quick Start
 +-----------------------------------------------------------------------------------------+
 | 1. Add Gateway under your sip profile. Switch -> Gateways                               |
 | 2. Add Provider. Global Accounts -> Customers -> Create Provider                        |
-| 3. Add your trunk. Carriers -> Trunks                                                  |
-| 4. Add termination rates. Carriers -> Termination Rates (Pattern example : 1, 235)      |                                      +----------------------------------------------------------------------------------+
+| 3. Add your trunk. Carriers -> Trunks                                                   |
+| 4. Add termination rates. Carriers -> Termination Rates (Pattern example : 1, 235)      |                                      +-----------------------------------------------------------------------------------------+
 
 
 Create new Customer or Reseller and assign your created rate group. For customer add SIP Device from View Account or Freeswitch SIP Devices.
