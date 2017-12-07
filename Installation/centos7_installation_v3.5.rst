@@ -13,8 +13,6 @@ CentOs 7 Installation V3.5
  rpm -Uvh http://files.freeswitch.org/freeswitch-release-1-6.noarch.rpm
  yum update
 
-|
-
 **Install Freeswitch**
 
 **1. Install Freeswitch pre-requisite packages**
@@ -41,4 +39,42 @@ CentOs 7 Installation V3.5
   git clone -b v1.6.19 https://freeswitch.org/stash/scm/fs/freeswitch.git
   cd freeswitch
   ./bootstrap.sh -j
+
+
+**3. Edit modules.conf and modules.conf.xml**
+::
+
+  Enable mod_xml_curl, mod_xml_cdr, mod_perl (If you want to use calling card features)
+
+  sed -i "s#\#xml_int/mod_xml_curl#xml_int/mod_xml_curl#g" /usr/local/src/freeswitch/modules.conf
+  sed -i "s#\#mod_xml_cdr#mod_xml_cdr#g" /usr/local/src/freeswitch/modules.conf
+
+
+.. note:: **Promotion**
+
+   **If you’r carrier and would like to add your company name listed in ASTPP then please contact us at
+   sales@inextrix.com.**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
