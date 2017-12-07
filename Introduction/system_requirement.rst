@@ -403,8 +403,4 @@ VoIP Requirement
 .. raw:: html
 
    </html>
-.. topic:: Your Topic Title
-
-    Subsequent indented lines comprise
-    the body of the topic, and are
-    interpreted as body elements.
+.. seealso:: This is a simple **seealso** note.
