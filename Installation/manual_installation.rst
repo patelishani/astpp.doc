@@ -2,18 +2,15 @@
 Manual Installation 
 ================================
 
-**ASTPP Manual Installation Guide**
+**ASTPP Guide**
 
-Currently, we are supporting only two OS for manual installation. It's CentOS 7 and Debian 8.You can opt any of them from below links.
-
-1. CentOs 7 Installation V3.5
-2. Debian 8 Installation
+   we are using ASTPP version 3.5 and supporting only two OS for manual installation. You can opt any of them from below links.
 
 
 .. toctree::
    :maxdepth: 3
 
-  centos7_installation_v3.5.rst
+  astpp_version3.5.rst
 
 
 
