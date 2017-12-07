@@ -334,7 +334,7 @@ VoIP Requirement
 
    <p class="3Dtitle">
    <strong>
-  
+  Promotion
 
 .. raw:: html
 
@@ -349,12 +349,11 @@ VoIP Requirement
    <div class="3D"confluence-information-macro-body"">
 
 .. raw:: html
-
-.. topic::  Promotion
-
+  <p>
+   <span style=3D“color: red!important”>
+   <strong>
     <font color="green">If you’r carrier and would like to add your company name listed in ASTPP then please contact us at
-   sales@inextrix.com.</font>
-   
+   sales@inextrix.com.</font> 
    
   
 .. raw:: html
@@ -404,3 +403,8 @@ VoIP Requirement
 .. raw:: html
 
    </html>
+.. topic:: Your Topic Title
+
+    Subsequent indented lines comprise
+    the body of the topic, and are
+    interpreted as body elements.
