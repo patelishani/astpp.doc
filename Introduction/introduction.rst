@@ -277,7 +277,7 @@ Related pages
 .. raw:: html
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    
    features.rst
    components.rst
