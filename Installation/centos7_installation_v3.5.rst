@@ -51,25 +51,44 @@ CentOs 7 Installation V3.5
 
 
 .. note:: # add a module by removing '#' comment character at the beginning of the line 
-
           # remove a module by inserting the '#' comment character at the beginning of the line containing the name of 
-          
-          the module to be skipped
-          
-          
+            the module to be skipped
           
 
+**4. Compile the Source** 
+::
+
+  ./configure -C
+          
+          
+**5. Install Freeswitch with sound files** 
+::
+
+   make all install cd-sounds-install cd-moh-install
+   make && make install
+  
+**6. Configure and install mod_perl (Optional)** 
+::
+
+   sed -i "s#\#languages/mod_perl#languages/mod_perl#g" /usr/local/src/freeswitch/modules.conf
+   ./configure
+   make mod_perl-install
   
 
+**7. Set right time in server** 
+::
+
+   ntpdate pool.ntp.org
 
 
+**8. Create symbolic links for Freeswitch executables** 
+::
+
+   ln -s /usr/local/freeswitch/bin/freeswitch /usr/local/bin/freeswitch
+   ln -s /usr/local/freeswitch/bin/fs_cli /usr/local/bin/fs_cli
 
 
-
-
-
-
-
+**ASTPP Install**
 
 
 
