@@ -17,4 +17,6 @@ We provides two ways to do installation,
 
    Installation/quick_installation.rst
    Installation/manual_installation.rst
+   Installation/quick_start.rst
+  
   
