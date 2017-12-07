@@ -17,5 +17,5 @@ System Requirement
 +---------+---------+-----------+
 |Promotion                      |
 +---------+---------+-----------+
-.. Promotion:: **If you’r carrier and would like to add your company name listed in ASTPP then please contact us at
+.. note:: **If you’r carrier and would like to add your company name listed in ASTPP then please contact us at
    sales@inextrix.com.**.
