@@ -12,3 +12,10 @@ Fail2Ban scans your freeswitch log file and bans IP that makes too many password
 Fail2Ban is available at fail2ban.org as well as more documentation.
 
 **Related pages**
+
+.. toctree::
+   :maxdepth: 5
+
+   apache_autentication.rst
+
+
