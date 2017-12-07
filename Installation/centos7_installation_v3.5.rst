@@ -162,10 +162,9 @@ CentOs 7 Installation V3.5
     touch /usr/local/freeswitch/conf/sip_profiles/astpp.xml
   
   
-  
- **Install ASTPP web interface**
- ::
-   
+**Install ASTPP web interface**
+::
+
    mkdir -p /var/lib/astpp
    cp /usr/src/ASTPP/config/* /var/lib/astpp/
 
@@ -184,6 +183,8 @@ CentOs 7 Installation V3.5
 
    chmod -Rf 755 /var/www/html/astpp
    touch /var/log/astpp/astpp.log
+ 
+ 
 
 **Install ASTPP Database**
 ::
