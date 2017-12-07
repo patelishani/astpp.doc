@@ -16,6 +16,6 @@ Fail2Ban is available at fail2ban.org as well as more documentation.
 .. toctree::
    :maxdepth: 5
 
-   Security/apache_autentication.rst
+   Security/apache_authentication.rst
 
 
