@@ -3,8 +3,8 @@ Secure Portal
 ===============
 
 
-**Steps :**
 
+**Steps :**
 1. Login to ASTPP portal
 
 2. Open Accounts -> Admins  page
