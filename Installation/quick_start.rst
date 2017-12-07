@@ -19,8 +19,9 @@ asdfjkn
 | **[Termination Configuration]**                                                  |
 +----------------------------------------------------------------------------------+
 | 1. Add Gateway under your sip profile. Switch -> Gateways                        |
-| 2. Select Trunk in Rate Group                                                    |
-| 3. Add Origination Rates. Tariff -> Origination rates (Pattern example : 1, 235) |
+| 2. Add Provider. Global Accounts -> Customers -> Create Provider                 |
+| 3. Add your trunk. Carriers -> Trunks                                            |
+| 4. Add termination rates. Carriers -> Termination Rates(Pattern example : 1, 235)|
 +----------------------------------------------------------------------------------+
 
 
