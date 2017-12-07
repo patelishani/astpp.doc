@@ -15,8 +15,8 @@ We provides two ways to do installation,
 .. toctree::
    :maxdepth: 4
    
-   quick_installation.rst
-   components.rst
+   Installtion/quick_installation.rst
+   
 
 
 
