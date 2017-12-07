@@ -90,15 +90,33 @@ CentOs 7 Installation V3.5
 
 **ASTPP Install**
 
+**1. Download ASTPP** 
+::
 
+  We assume you have downloaded package from our Download section.
+  PATH for download should be /usr/src/
+  If not then please download it from here http://astppbilling.org/download/latest.tar.gz
 
+  cd /usr/src 
+  wget http://astppbilling.org/download/latest.tar.gz
+  tar -xzf latest.tar.gz
 
+**2. Install ASTPP pre-requisite packages using YUM** 
+::
+  
+  yum install -y cpan autoconf automake bzip2 cpio curl curl-devel php php-devel php-common php-cli php-gd php-pear 
+  php-mysql php-pdo php-pecl-json mysql mariadb-server mysql-devel libxml2 libxml2-devel openssl openssl-devel
+  gettext-devel fileutils gcc-c++ httpd httpd-devel perl-YAML cpan
 
+**3. Install ASTPP Perl packages** 
+::
+  
+  # Enable auto accept for CPAN pacakges.
+  perl -MCPAN -e 'my $c = "CPAN::HandleConfig"; $c->load(doit => 1, autoconfig => 1); $c->edit(prerequisites_policy 
+  => "follow"); $c->edit(build_requires_install_policy => "yes"); $c->commit' # Install required CPAN packages.
+  perl -MCPAN -e "install URI::Escape,JSON,DBI,Time::HiRes,DateTime::Format::Strptime,XML::Simple,CGI,Data::Dumper";
 
-
-
-
-
+**ASTPP using FreeSWITCH (if you want to use ASTPP with FreeSWITCH)**
 
 
 
