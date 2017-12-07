@@ -5,16 +5,16 @@ Quick Start
 **Here are the steps to configure basic system:**
 
 +----------------------------------------------------------------------------------+
-| **[origination configuration]**                                                  |
+| **[Origination Configuration]**                                                  |
 +----------------------------------------------------------------------------------+
 | 1. Create Rate Group. Tariff -> Rate Group                                       |
 | 2. Select Trunk in Rate Group                                                    |
 | 3. Add Origination Rates. Tariff -> Origination rates (Pattern example : 1, 235) |
 +----------------------------------------------------------------------------------+
 +----------------------------------------------------------------------------------+
-| **[origination configuration]**                                                  |
+| **[Termination Configuration]**                                                  |
 +----------------------------------------------------------------------------------+
-| 1. Create Rate Group. Tariff -> Rate Group                                       |
+| 1. Add Gateway under your sip profile. Switch -> Gateways                        |
 | 2. Select Trunk in Rate Group                                                    |
 | 3. Add Origination Rates. Tariff -> Origination rates (Pattern example : 1, 235) |
 +----------------------------------------------------------------------------------+
