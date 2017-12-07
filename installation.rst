@@ -16,4 +16,5 @@ We provides two ways to do installation,
    :maxdepth: 4
 
    Installation/quick_installation.rst
+   Installation/manual_installation.rst
   
