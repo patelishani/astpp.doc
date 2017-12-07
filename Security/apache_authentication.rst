@@ -95,16 +95,12 @@ We protect cgi-bin apache directory which contains important perl scripts for di
     Now restart freeswitch
     # service freeswitch restart
    
-   
-   
-    
-  You can test it by running below url in browser
   
-  http://localhost/cgi-bin/astpp/astpp-fs-xml.cgi
-  
-  You will be asked for username and password for authentication.  
     
-    
-    
+    You can test it by running below url in browser
+
+    http://localhost/cgi-bin/astpp/astpp-fs-xml.cgi
+
+    You will be asked for username and password for authentication.   
     
     
