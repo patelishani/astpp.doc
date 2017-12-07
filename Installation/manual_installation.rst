@@ -7,7 +7,7 @@ Manual Installation
 Currently, we are supporting only two OS for manual installation. It's CentOS 7 and Debian 8.You can opt any of them from below links.
 
 .. toctree::
-   :maxdepth: 3.1
+   :maxdepth: 4
 
- Installation/install_astpp3.5.rst
+ features.rst
 
