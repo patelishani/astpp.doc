@@ -94,7 +94,9 @@ We protect cgi-bin apache directory which contains important perl scripts for di
 
     Now restart freeswitch
     # service freeswitch restart
-    
+   
+   
+   
     
   You can test it by running below url in browser
   
