@@ -18,5 +18,6 @@ Fail2Ban is available at fail2ban.org as well as more documentation.
 
    Security/apache_authentication.rst
    Security/secure_freeswitch.rst
+   Security/secure_portal.rst
 
 
