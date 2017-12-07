@@ -31,4 +31,14 @@ CentOs 7 Installation V3.5
  nd devel libuuid-devel lua-devel libsndfile-devel
 
 
+**2. Download latest freeswitch version**
+::
+  
+  cd /usr/local/src
+  git config --global pull.rebase true
+
+  #Clone freeswitch version 1.6.8 from git 
+  git clone -b v1.6.19 https://freeswitch.org/stash/scm/fs/freeswitch.git
+  cd freeswitch
+  ./bootstrap.sh -j
 
