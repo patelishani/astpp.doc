@@ -6,7 +6,9 @@ Apache authentication can be configured to require web site visitors to login wi
 
 We protect cgi-bin apache directory which contains important perl scripts for dialplan, configurations and directory. 
 
+**Step # 1: Make sure Apache is configured to use .htaccess file**
 ::
+
     You need to have "AllowOverride AuthConfig" directive in apache configuration file in order for directives to have 
     any effect.
 
@@ -35,9 +37,10 @@ We protect cgi-bin apache directory which contains important perl scripts for di
 
     Save the file and restart Apache
     # service apache2 restart
-    
-    
 
+
+
+**Step # 2: Create a password file with htpasswd**
 ::
 
     htpasswd command is used to create and update the flat-files (text file) used to store usernames and password for
