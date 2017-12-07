@@ -11,7 +11,13 @@ Quick Start
 | 2. Select Trunk in Rate Group                                                    |
 | 3. Add Origination Rates. Tariff -> Origination rates (Pattern example : 1, 235) |
 +----------------------------------------------------------------------------------+
-
++----------------------------------------------------------------------------------+
+| **[origination configuration]**                                                  |
++----------------------------------------------------------------------------------+
+| 1. Create Rate Group. Tariff -> Rate Group                                       |
+| 2. Select Trunk in Rate Group                                                    |
+| 3. Add Origination Rates. Tariff -> Origination rates (Pattern example : 1, 235) |
++----------------------------------------------------------------------------------+
 
 
 Create new Customer or Reseller and assign your created rate group. For customer add SIP Device from View Account or Freeswitch SIP Devices.
