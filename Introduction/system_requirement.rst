@@ -403,4 +403,4 @@ VoIP Requirement
 .. raw:: html
 
    </html>
-.. seealso:: This is a simple **seealso** note.
+.. promotion::  This is a **note** box.
