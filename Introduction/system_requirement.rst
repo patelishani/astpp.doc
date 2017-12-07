@@ -334,7 +334,7 @@ VoIP Requirement
 
    <p class="3Dtitle">
    <strong>
-   Promotion
+  
 
 .. raw:: html
 
@@ -350,11 +350,11 @@ VoIP Requirement
 
 .. raw:: html
 
-   <p>
-   <span style=3D“color: red!important”>
-   <strong>
+.. topic::  Promotion
+
     <font color="green">If you’r carrier and would like to add your company name listed in ASTPP then please contact us at
    sales@inextrix.com.</font>
+   
    
   
 .. raw:: html
