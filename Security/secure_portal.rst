@@ -11,5 +11,6 @@ Secure Portal
 
 3. Set strong password for admin
 
-..Note:: Always use strong passwords to keep system secure. 
+.. note::  Always use strong passwords to keep system secure. 
+
 
