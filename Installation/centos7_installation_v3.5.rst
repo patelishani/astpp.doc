@@ -21,7 +21,7 @@ CentOs 7 Installation V3.5
 ::
 
  #Install dependencies for freeswitch
- yum install -y wget git autoconf automake expat-devel yasm gnutls-devel libtiff-devel libX11-devel unixODBC-devel python-devel
+ yum install -y wget git autoconf automake expat-devel yasm gnutls-devel libtiff-devel libX11-devel unixODBC-devel python- devel
  zlib-devel alsa-lib-devel libogg-devel libvorbis-devel uuid-devel @development-tools gdbm-devel db4-devel libjpeg libjpeg-deve
  compat-libtermcap ncurses ncurses-devel ntp screen sendmail sendmail-cf gcc-c++ @development-tools bison bzip2 curl curl-devel 
  dmidecode git make mysql-connector-odbc openssl-devel unixODBC zlib pcre-devel speex-devel sqlite-devel ldns-devel libedit-
@@ -41,16 +41,18 @@ CentOs 7 Installation V3.5
   ./bootstrap.sh -j
 
 
-**3. Edit modules.conf and modules.conf.xml**
+**3. Edit modules.conf**
 ::
 
-  Enable mod_xml_curl, mod_xml_cdr, mod_perl (If you want to use calling card features)
-
-  sed -i "s#\#xml_int/mod_xml_curl#xml_int/mod_xml_curl#g" /usr/local/src/freeswitch/modules.conf
-  sed -i "s#\#mod_xml_cdr#mod_xml_cdr#g" /usr/local/src/freeswitch/modules.conf
+   #Enabling mod_xml_curl, mod_json_cdr, mod_db
+    sed -i "s#\#xml_int/mod_xml_curl#xml_int/mod_xml_curl#g" /usr/local/src/freeswitch/modules.conf
+    sed -i "s#\#mod_db#mod_db#g" /usr/local/src/freeswitch/modules.conf
+    sed -i "s#\#event_handlers/mod_json_cdr#event_handlers/mod_json_cdr#g" /usr/local/src/freeswitch/modules.conf
+    sed -i "s#\#applications/mod_voicemail#applications/mod_voicemail#g" /usr/local/src/freeswitch/modules.conf
 
 
 .. note:: # add a module by removing '#' comment character at the beginning of the line 
+
           # remove a module by inserting the '#' comment character at the beginning of the line containing the name of 
             the module to be skipped
           
@@ -67,21 +69,16 @@ CentOs 7 Installation V3.5
    make all install cd-sounds-install cd-moh-install
    make && make install
   
-**6. Configure and install mod_perl (Optional)** 
-::
 
-   sed -i "s#\#languages/mod_perl#languages/mod_perl#g" /usr/local/src/freeswitch/modules.conf
-   ./configure
-   make mod_perl-install
-  
-
-**7. Set right time in server** 
+**6. Set right time in server** 
 ::
 
    ntpdate pool.ntp.org
+   systemctl restart ntp
+   chkconfig ntp on
 
 
-**8. Create symbolic links for Freeswitch executables** 
+**7. Create symbolic links for Freeswitch executables** 
 ::
 
    ln -s /usr/local/freeswitch/bin/freeswitch /usr/local/bin/freeswitch
@@ -93,28 +90,36 @@ CentOs 7 Installation V3.5
 **1. Download ASTPP** 
 ::
 
-  We assume you have downloaded package from our Download section.
-  PATH for download should be /usr/src/
-  If not then please download it from here http://astppbilling.org/download/latest.tar.gz
+   # Download ASTPP 3.5 source from git
+     cd /usr/src
+     git clone https://github.com/iNextrix/ASTPP
 
-  cd /usr/src 
-  wget http://astppbilling.org/download/latest.tar.gz
-  tar -xzf latest.tar.gz
-
-**2. Install ASTPP pre-requisite packages using YUM** 
+**2. Change Apache working scenario** 
 ::
   
-  yum install -y cpan autoconf automake bzip2 cpio curl curl-devel php php-devel php-common php-cli php-gd php-pear 
-  php-mysql php-pdo php-pecl-json mysql mariadb-server mysql-devel libxml2 libxml2-devel openssl openssl-devel
-  gettext-devel fileutils gcc-c++ httpd httpd-devel perl-YAML cpan
+    As we are using Nginx from now onwards from ASTPP 3.0, if you are using apache for any applicaion then-
+    either have to move it to Nginx and/or remove apache. You can also change default port for apache if want to use-
+    it continue and troubleshoot some installation issue if arise.
 
-**3. Install ASTPP Perl packages** 
+**3. Install ASTPP pre-requisite packages** 
 ::
   
-  # Enable auto accept for CPAN pacakges.
-  perl -MCPAN -e 'my $c = "CPAN::HandleConfig"; $c->load(doit => 1, autoconfig => 1); $c->edit(prerequisites_policy 
-  => "follow"); $c->edit(build_requires_install_policy => "yes"); $c->commit' # Install required CPAN packages.
-  perl -MCPAN -e "install URI::Escape,JSON,DBI,Time::HiRes,DateTime::Format::Strptime,XML::Simple,CGI,Data::Dumper";
+   yum install -y autoconf automake bzip2 cpio curl nginx php-fpm php-mcrypt* unixODBC mysql-connector-odbc curl-devel 
+   php php-devel php-common php-cli php-gd php-pear php-mysql php-mbstring sendmail sendmail-cf php-pdo php-pecl-json 
+   mysql mariadb-server mysql-devel libxml2 libxml2-devel openssl openssl-devel gettext-devel fileutils gcc-c++
+
+
+**4. Normalize ASTPP** 
+::
+  
+   #Create access & error log files.
+   touch /var/log/nginx/astpp_access_log
+   touch /var/log/nginx/astpp_error_log
+   touch /var/log/nginx/fs_access_log
+   touch /var/log/nginx/fs_error_log			
+   systemctl restart php-fpm
+   service nginx reload
+
 
 **ASTPP using FreeSWITCH (if you want to use ASTPP with FreeSWITCH)**
 
@@ -139,33 +144,35 @@ CentOs 7 Installation V3.5
     mkdir -p /var/www/
 
     #Setting permisssion
-    chown -Rf apache.apache /var/lib/astpp/
-    chown -Rf apache.apache /var/log/astpp/
-    chown -Rf apache.apache /usr/local/astpp/
-    chown -Rf apache.apache /var/www/
-    chown -Rf apache.apache /var/www/cgi-bin/
+    chown -Rf root.root /var/lib/astpp/
+    chown -Rf root.root /var/log/astpp/
+    chown -Rf root.root /usr/local/astpp/
+    chown -Rf root.root /var/www//
 
-    #Setting up cgi-bin
-    cp -rf /usr/src/latest/scripts/*.pl /usr/local/astpp/
-    cp -rf /usr/src/latest/freeswitch/astpp /var/www/cgi-bin/
-    chmod -Rf 777 /var/www/cgi-bin/astpp
-
-    cp /usr/src/latest/freeswitch/astpp-callingcards.pl /usr/local/freeswitch/scripts/astpp-callingcards.pl
-    cp -rf /usr/src/latest/sounds/*.wav /usr/local/freeswitch/sounds/en/us/callie/
+    #Setting up Scripts and Sounds for fs
+    cp -rf /usr/src/ASTPP/freeswitch/scripts/* /usr/local/freeswitch/scripts/
+    cp -rf /usr/src/ASTPP/freeswitch/fs /var/www/html/
+    cp -rf /usr/src/ASTPP/freeswitch/sounds/*.wav /usr/local/freeswitch/sounds/en/us/callie/
     chmod -Rf 777 /usr/local/freeswitch/sounds/en/us/callie/
-
-**Install ASTPP web interface** 
-::
-
+    rm -rf  /usr/local/freeswitch/conf/dialplan/*
+    touch /usr/local/freeswitch/conf/dialplan/astpp.xml
+    rm -rf  /usr/local/freeswitch/conf/directory/*
+    touch /usr/local/freeswitch/conf/directory/astpp.xml
+    rm -rf  /usr/local/freeswitch/conf/sip_profiles/*
+    touch /usr/local/freeswitch/conf/sip_profiles/astpp.xml
+  
+  
+ **Install ASTPP web interface**
+ ::
+   
    mkdir -p /var/lib/astpp
-   cp /usr/src/latest/astpp_confs/sample.astpp-config.conf /var/lib/astpp/astpp-config.conf
+   cp /usr/src/ASTPP/config/* /var/lib/astpp/
 
+   #Setup web interface for ASTPP
    mkdir -p /var/www/html/astpp
-   cp -rf /usr/src/latest/web_interface/astpp/* /var/www/html/astpp/
-   cp /usr/src/latest/web_interface/astpp/htaccess /var/www//html/astpp/.htaccess
-
-   chown -Rf apache.apache /var/www/html/astpp
-   cp /usr/src/latest/web_interface/apache/astpp.conf /etc/httpd/conf.d/astpp.conf
+   cp -rf /usr/src/ASTPP/web_interface/astpp/* /var/www/html/astpp/
+   chown -Rf root.root /var/www/html/astpp
+   cp /usr/src/ASTPP/web_interface/nginx/cent_* /etc/nginx/conf.d/
 
    #apply security policy 
    sed -i "s/SELINUX=enforcing/SELINUX=disabled/" /etc/sysconfig/selinux
@@ -174,9 +181,8 @@ CentOs 7 Installation V3.5
    chkconfig iptables off
    setenforce 0
 
-   chmod -Rf 777 /var/www/html/astpp
+   chmod -Rf 755 /var/www/html/astpp
    touch /var/log/astpp/astpp.log
-
 
 **Install ASTPP Database**
 ::
@@ -185,61 +191,50 @@ CentOs 7 Installation V3.5
    systemctl start mariadb
    mysql -uroot -e "UPDATE mysql.user SET password=PASSWORD('<MYSQL_ROOT_PASSWORD>') WHERE user='root'; FLUSH PRIVILEGES;"
 
-   # Create database astpp
+   #Create database astpp
    mysql -uroot -p<MYSQL_ROOT_PASSWORD> -e "create database astpp;"
    mysql -uroot -p<MYSQL_ROOT_PASSWORD> -e "CREATE USER 'astppuser'@'localhost' IDENTIFIED BY '<ASTPP_USER_PASSWORD>';"
-   mysql -uroot -p<MYSQL_ROOT_PASSWORD> -e "GRANT ALL PRIVILEGES ON \`astpp\` . * TO 'astppuser'@'localhost' WITH GRANT        OPTION;FLUSH PRIVILEGES;"
-   mysql -uroot -p<MYSQL_ROOT_PASSWORD> astpp < /usr/src/latest/sql/astpp-2.0.sql
-   mysql -uroot -p<MYSQL_ROOT_PASSWORD> astpp < /usr/src/latest/sql/astpp-upgrade-rates-2.0.sql
-   mysql -uroot -p<MYSQL_ROOT_PASSWORD> astpp < /usr/src/latest/sql/astpp-upgrade-2.1.sql
-   mysql -uroot -p<MYSQL_ROOT_PASSWORD> astpp < /usr/src/latest/sql/astpp-upgrade-2.2.sql
-   mysql -uroot -p<MYSQL_ROOT_PASSWORD> astpp < /usr/src/latest/sql/astpp-upgrade-2.3.sql
-
+   mysql -uroot -p<MYSQL_ROOT_PASSWORD> -e "GRANT ALL PRIVILEGES ON \`astpp\` . * TO 'astppuser'@'localhost' WITH 
+   GRANT OPTION;FLUSH PRIVILEGES;"
+   mysql -uroot -p<MYSQL_ROOT_PASSWORD> astpp < /usr/src/ASTPP/database/astpp-3.0.sql
+   mysql -uroot -p<MYSQL_ROOT_PASSWORD> astpp < /usr/src/ASTPP/database/astpp-upgrade-3.5.sql
 
 **ASTPP Freeswitch Configuration**
 ::
 
-  cp latest/freeswitch/conf/autoload_configs/* /usr/local/freeswitch/conf/autoload_configs/
+   cp /usr/src/ASTPP/freeswitch/conf/autoload_configs/* /usr/local/freeswitch/conf/autoload_configs/
+ 
+   #Edit db password in autoload config files.
+   sed -i "s#dbpass = <PASSSWORD>#dbpass = <MYSQL_ROOT_PASSWORD>#g" /var/lib/astpp/astpp-config.conf
+   sed -i "s#DB_PASSWD=\"<PASSSWORD>\"#DB_PASSWD = \"<MYSQL_ROOT_PASSWORD>\"#g" /var/lib/astpp/astpp.lua
 
-  Enable mod_xml_curl, mod_xml_cdr, mod_cdr_csv, mod_perl in /usr/local/freeswitch/conf/autoload_configs/modules.conf.
-  xml file.
+   #Edit base URL in astpp-config
+   sed -i "s#base_url=http://localhost:8081/#base_url=http://<SERVER FQDN / IP ADDRESS>:8089/#g" /var/lib/astpp/
+   astpp-config.conf
+
+   Note:- Replace "<SERVER FQDN / IP ADDRESS>" with your server domain name or IPaddress
+   
 
 
 **Finalize Installation & Start Services**
 ::
-
+  
    #Open php short tag
    sed -i "s#short_open_tag = Off#short_open_tag = On#g" /etc/php.ini
 
-   #Setup port for ASTPP
-   yum update		
-   mkdir -p /etc/httpd/sites-available
-   mkdir -p /etc/httpd/sites-enabled
-   mv /etc/httpd/conf.d/astpp.conf /etc/httpd/sites-available/.
-   ln -s /etc/httpd/sites-available/astpp.conf /etc/httpd/sites-enabled/astpp.conf
-   sed -i "$ a IncludeOptional sites-enabled/*.conf" /etc/httpd/conf/httpd.conf
-
-   #Configure security policy
-   sed -i "s/SELINUX=enforcing/SELINUX=disabled/" /etc/sysconfig/selinux
-   sed -i "s/SELINUX=enforcing/SELINUX=disabled/" /etc/selinux/config
-   setenforce 0
-
-   #Install cpan modules
-   cpan -fi DBI
-   cpan -fi CGI
-   yum install perl-XML-Simple
-
    #Configure services for startup
-   systemctl enable httpd
-   apachectl restart
-   systemctl start httpd
+   systemctl disable httpd   #If you are using it then change the port or update your configuration for nginx otherwise 
+   your gui will not up
+   systemctl enable nginx
+   systemctl enable php-fpm			
    systemctl start mariadb
    systemctl start freeswitch
-   systemctl stop firewalld
-   chkconfig --levels 345 httpd on
+   systemctl stop firewalld			
    chkconfig --levels 345 mariadb on
    chkconfig --levels 345 freeswitch on
    chkconfig --levels 123456 firewalld off
+
+   Note:- If you want to use firewall then configure it to allow all port used in fs and ASTPP.
 
 **Setup cron**
 ::
@@ -253,27 +248,33 @@ CentOs 7 Installation V3.5
     # Low balance notification
     0 0 * * * cd /var/www/html/astpp/cron/ && php cron.php LowBalance
 
-    # Low credit notification
-    0 0 * * * cd /var/www/html/astpp/cron/ && php cron.php LowCredit
-
     # Update currency rate
     0 0 * * * cd /var/www/html/astpp/cron/ && php cron.php CurrencyUpdate
 
-**Setup database credential and change other require things in astpp configuration file**
+
+    # Email Broadcasting
+    0 0 * * * cd /var/www/html/astpp/cron/ && php cron.php BroadcastEmail
+    
+    
+**Finally Reboot it.**
 ::
 
-   vim /var/lib/astpp/astpp-config.conf
-
+     #You are almost done with your configuration so just reboot it and make sure everything is working fine.
  
-   #Restart your server and verify your installation
-   init 6
+     reboot now
 
+     #Once server up and running again, check below service status.
+     systemctl status nginx
+     systemctl status mariadb
+     systemctl status freeswitch
+     systemctl status php-fpm
 
 
 .. note:: 
      You are done with GUI installation. Enjoy :)
-     Visit the astpp admin page in your web browser. It can be found here: http://server_ip:8081/ Please change the
+     Visit the astpp admin page in your web browser. It can be found here: http://server_ip:8089/ Please change the 
      ip address depending upon your box. The default username and password is “admin”. 
+
      Note : In case of any issue please refer apache error log.
 
 .. note:: 
