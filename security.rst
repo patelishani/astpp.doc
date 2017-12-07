@@ -17,5 +17,6 @@ Fail2Ban is available at fail2ban.org as well as more documentation.
    :maxdepth: 5
 
    Security/apache_authentication.rst
+   Security/secure_freeswitch.rst
 
 
