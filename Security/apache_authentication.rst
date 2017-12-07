@@ -41,15 +41,13 @@ We protect cgi-bin apache directory which contains important perl scripts for di
 
 
 **Step # 2: Create a password file with htpasswd**
-::
-
+ ::
     htpasswd command is used to create and update the flat-files (text file) used to store usernames and password for
     basic authentication of Apache users.General syntax: htpasswd -c password-file username
     Where,
                  -c : Create the password-file. If password-file already exists, it is rewritten and truncated.
                  username : The username to create or update in password-file. If username does not 
                  exist in this file, an entry is added. If it does exist, the password is changed.
-
 
     Create directory outside apache document root, so that only Apache can access password file. The password-file should 
     be placed somewhere not accessible from the web. This is so that people cannot download the password file:
@@ -77,7 +75,7 @@ We protect cgi-bin apache directory which contains important perl scripts for di
     For Debian
      # cd /usr/lib/cgi-bin
      # vim .htaccess
-    Add following text:
+     Add following text:
                          AuthType Basic
                          AuthName "Restricted Access"
                          AuthUserFile /home/secure/apasswords
@@ -94,13 +92,6 @@ We protect cgi-bin apache directory which contains important perl scripts for di
 
     Now restart freeswitch
     # service freeswitch restart
-   
-  |
-    
- You can test it by running below url in browser
-
- http://localhost/cgi-bin/astpp/astpp-fs-xml.cgi
-
- You will be asked for username and password for authentication.   
+      
     
     
