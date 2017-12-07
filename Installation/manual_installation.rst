@@ -10,3 +10,11 @@ Currently, we are supporting only two OS for manual installation. It's CentOS 7 
 2. Debian 8 Installation
 
 
+.. toctree::
+   :maxdepth: 3
+
+  Installation/centos7_installation_v3.5.rst
+
+
+
+
