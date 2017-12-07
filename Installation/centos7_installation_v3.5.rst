@@ -52,9 +52,8 @@ CentOs 7 Installation V3.5
 
 
 .. note:: # add a module by removing '#' comment character at the beginning of the line 
-
           # remove a module by inserting the '#' comment character at the beginning of the line containing the name of 
-            the module to be skipped
+          the module to be skipped
           
 
 **4. Compile the Source** 
