@@ -39,9 +39,9 @@ We protect cgi-bin apache directory which contains important perl scripts for di
     # service apache2 restart
 
 
-
 **Step # 2: Create a password file with htpasswd**
- ::
+::
+   
     htpasswd command is used to create and update the flat-files (text file) used to store usernames and password for
     basic authentication of Apache users.General syntax: htpasswd -c password-file username
     Where,
