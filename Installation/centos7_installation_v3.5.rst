@@ -50,10 +50,11 @@ CentOs 7 Installation V3.5
   sed -i "s#\#mod_xml_cdr#mod_xml_cdr#g" /usr/local/src/freeswitch/modules.conf
 
 
-.. note:: **Promotion**
+.. note:: # add a module by removing '#' comment character at the beginning of the line 
+          # remove a module by inserting the '#' comment character at the beginning of the line containing the name of 
+          the module to be skipped
 
-   **If you’r carrier and would like to add your company name listed in ASTPP then please contact us at
-   sales@inextrix.com.**.
+  
 
 
 
