@@ -12,8 +12,9 @@ We provides two ways to do installation,
 
 **Related pages**
 
+===================
 Quick Installation
-####################
+===================
 
 Manual Installation
 ####################
