@@ -29,7 +29,6 @@ CentOs 7 Installation V3.5
  dmidecode git make mysql-connector-odbc openssl-devel unixODBC zlib pcre-devel speex-devel sqlite-devel ldns-devel libedit-
  devel bc e2fsprogs-devel libcurl-devel libxml2-devel libyuv-devel opus-devel libvpx-devel libvpx2* libdb4* libidn-devel unbou-
  nd devel libuuid-devel lua-devel libsndfile-devel
- 
- |
+
 
 
