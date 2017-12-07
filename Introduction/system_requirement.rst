@@ -403,4 +403,6 @@ VoIP Requirement
 .. raw:: html
 
    </html>
-.. promotion::  This is a **note** box.
++---------+---------+-----------+
+|Promotion    |
++---------+---------+-----------+
