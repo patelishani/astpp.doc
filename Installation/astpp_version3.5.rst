@@ -13,4 +13,6 @@ Currently, we are supporting only two OS for manual installation. It's CentOS 7 
    :maxdepth: 3
 
   centos7_installation_v3.5.rst
+  debian8_installation.rst
+  
 
