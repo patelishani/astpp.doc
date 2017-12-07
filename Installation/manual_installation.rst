@@ -6,8 +6,7 @@ Manual Installation
 
 Currently, we are supporting only two OS for manual installation. It's CentOS 7 and Debian 8.You can opt any of them from below links.
 
-.. toctree::
-   :maxdepth: 4
+1. CentOS 7 Installation
+2. Debian 8 Installation
 
- features.rst
 
