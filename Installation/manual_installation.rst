@@ -8,7 +8,7 @@ Manual Installation
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
   astpp_version3.5.rst
 
