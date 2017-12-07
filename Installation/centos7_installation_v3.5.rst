@@ -118,6 +118,165 @@ CentOs 7 Installation V3.5
 
 **ASTPP using FreeSWITCH (if you want to use ASTPP with FreeSWITCH)**
 
+**1. Configure freeswitch startup script** 
+::
+
+  cp /usr/src/latest/freeswitch/init/freeswitch.centos.init /etc/init.d/freeswitch
+  chmod 755 /etc/init.d/freeswitch
+  chmod +x /etc/init.d/freeswitch
+  chkconfig --add freeswitch
+  chkconfig --level 345 freeswitch on
+  mkdir /var/run/freeswitch
 
 
+**2. Configure ASTPP with freeswitch** 
+::
+
+    #Create directory structure for ASTPP
+    mkdir -p /var/lib/astpp/
+    mkdir -p /var/log/astpp/
+    mkdir -p /usr/local/astpp/
+    mkdir -p /var/www/
+
+    #Setting permisssion
+    chown -Rf apache.apache /var/lib/astpp/
+    chown -Rf apache.apache /var/log/astpp/
+    chown -Rf apache.apache /usr/local/astpp/
+    chown -Rf apache.apache /var/www/
+    chown -Rf apache.apache /var/www/cgi-bin/
+
+    #Setting up cgi-bin
+    cp -rf /usr/src/latest/scripts/*.pl /usr/local/astpp/
+    cp -rf /usr/src/latest/freeswitch/astpp /var/www/cgi-bin/
+    chmod -Rf 777 /var/www/cgi-bin/astpp
+
+    cp /usr/src/latest/freeswitch/astpp-callingcards.pl /usr/local/freeswitch/scripts/astpp-callingcards.pl
+    cp -rf /usr/src/latest/sounds/*.wav /usr/local/freeswitch/sounds/en/us/callie/
+    chmod -Rf 777 /usr/local/freeswitch/sounds/en/us/callie/
+
+**Install ASTPP web interface** 
+::
+
+   mkdir -p /var/lib/astpp
+   cp /usr/src/latest/astpp_confs/sample.astpp-config.conf /var/lib/astpp/astpp-config.conf
+
+   mkdir -p /var/www/html/astpp
+   cp -rf /usr/src/latest/web_interface/astpp/* /var/www/html/astpp/
+   cp /usr/src/latest/web_interface/astpp/htaccess /var/www//html/astpp/.htaccess
+
+   chown -Rf apache.apache /var/www/html/astpp
+   cp /usr/src/latest/web_interface/apache/astpp.conf /etc/httpd/conf.d/astpp.conf
+
+   #apply security policy 
+   sed -i "s/SELINUX=enforcing/SELINUX=disabled/" /etc/sysconfig/selinux
+   sed -i "s/SELINUX=enforcing/SELINUX=disabled/" /etc/selinux/config
+   /etc/init.d/iptables stop
+   chkconfig iptables off
+   setenforce 0
+
+   chmod -Rf 777 /var/www/html/astpp
+   touch /var/log/astpp/astpp.log
+
+
+**Install ASTPP Database**
+::
+
+   #Restart mysql service
+   systemctl start mariadb
+   mysql -uroot -e "UPDATE mysql.user SET password=PASSWORD('<MYSQL_ROOT_PASSWORD>') WHERE user='root'; FLUSH PRIVILEGES;"
+
+   # Create database astpp
+   mysql -uroot -p<MYSQL_ROOT_PASSWORD> -e "create database astpp;"
+   mysql -uroot -p<MYSQL_ROOT_PASSWORD> -e "CREATE USER 'astppuser'@'localhost' IDENTIFIED BY '<ASTPP_USER_PASSWORD>';"
+   mysql -uroot -p<MYSQL_ROOT_PASSWORD> -e "GRANT ALL PRIVILEGES ON \`astpp\` . * TO 'astppuser'@'localhost' WITH GRANT        OPTION;FLUSH PRIVILEGES;"
+   mysql -uroot -p<MYSQL_ROOT_PASSWORD> astpp < /usr/src/latest/sql/astpp-2.0.sql
+   mysql -uroot -p<MYSQL_ROOT_PASSWORD> astpp < /usr/src/latest/sql/astpp-upgrade-rates-2.0.sql
+   mysql -uroot -p<MYSQL_ROOT_PASSWORD> astpp < /usr/src/latest/sql/astpp-upgrade-2.1.sql
+   mysql -uroot -p<MYSQL_ROOT_PASSWORD> astpp < /usr/src/latest/sql/astpp-upgrade-2.2.sql
+   mysql -uroot -p<MYSQL_ROOT_PASSWORD> astpp < /usr/src/latest/sql/astpp-upgrade-2.3.sql
+
+
+**ASTPP Freeswitch Configuration**
+::
+
+  cp latest/freeswitch/conf/autoload_configs/* /usr/local/freeswitch/conf/autoload_configs/
+
+  Enable mod_xml_curl, mod_xml_cdr, mod_cdr_csv, mod_perl in /usr/local/freeswitch/conf/autoload_configs/modules.conf.
+  xml file.
+
+
+**Finalize Installation & Start Services**
+::
+
+   #Open php short tag
+   sed -i "s#short_open_tag = Off#short_open_tag = On#g" /etc/php.ini
+
+   #Setup port for ASTPP
+   yum update		
+   mkdir -p /etc/httpd/sites-available
+   mkdir -p /etc/httpd/sites-enabled
+   mv /etc/httpd/conf.d/astpp.conf /etc/httpd/sites-available/.
+   ln -s /etc/httpd/sites-available/astpp.conf /etc/httpd/sites-enabled/astpp.conf
+   sed -i "$ a IncludeOptional sites-enabled/*.conf" /etc/httpd/conf/httpd.conf
+
+   #Configure security policy
+   sed -i "s/SELINUX=enforcing/SELINUX=disabled/" /etc/sysconfig/selinux
+   sed -i "s/SELINUX=enforcing/SELINUX=disabled/" /etc/selinux/config
+   setenforce 0
+
+   #Install cpan modules
+   cpan -fi DBI
+   cpan -fi CGI
+   yum install perl-XML-Simple
+
+   #Configure services for startup
+   systemctl enable httpd
+   apachectl restart
+   systemctl start httpd
+   systemctl start mariadb
+   systemctl start freeswitch
+   systemctl stop firewalld
+   chkconfig --levels 345 httpd on
+   chkconfig --levels 345 mariadb on
+   chkconfig --levels 345 freeswitch on
+   chkconfig --levels 123456 firewalld off
+
+**Setup cron**
+::
+ 
+    # Generate Invoice   
+    0 1 * * * cd /var/www/html/astpp/cron/ && php cron.php GenerateInvoice
+
+    # Low balance notification
+    0 1 * * * cd /var/www/html/astpp/cron/ && php cron.php UpdateBalance
+
+    # Low balance notification
+    0 0 * * * cd /var/www/html/astpp/cron/ && php cron.php LowBalance
+
+    # Low credit notification
+    0 0 * * * cd /var/www/html/astpp/cron/ && php cron.php LowCredit
+
+    # Update currency rate
+    0 0 * * * cd /var/www/html/astpp/cron/ && php cron.php CurrencyUpdate
+
+**Setup database credential and change other require things in astpp configuration file**
+::
+
+   vim /var/lib/astpp/astpp-config.conf
+
+ 
+   #Restart your server and verify your installation
+   init 6
+
+
+
+.. note:: 
+     You are done with GUI installation. Enjoy :)
+     Visit the astpp admin page in your web browser. It can be found here: http://server_ip:8081/ Please change the
+     ip address depending upon your box. The default username and password is “admin”. 
+     Note : In case of any issue please refer apache error log.
+
+.. note:: 
+     If you have any other question(s) then please contact us on sales@inextrix.com or post your questions(s) 
+     in https://groups.google.com/forum/#!forum/astpp.
 
