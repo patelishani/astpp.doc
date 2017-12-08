@@ -24,7 +24,17 @@ Pin              Calling Card Pin
 
 
 
-
+=====  =====  ======
+Inputs        Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False         False
+------------  ------
+True   False  True
+False  True   True
+True          True
+============  ======
 
 
 
