@@ -52,7 +52,7 @@ Create Customer.
 **Related pages**
 
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 5
    
    Accounts/list_accounts.rst
    Accounts/create_accounts.rst
