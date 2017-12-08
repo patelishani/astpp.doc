@@ -32,9 +32,19 @@ ASTPP have different types accounts based on their roles and responsibility. The
 - **Admin / Sub admins**
  - Admins are having full control over system whereas sub admins are having only reporting permissions.
 
-.. image:: account_menu.png
+.. image:: Images/account_menu.png
 
 
+   You can navigate through different menus of ASTPP.
+
+   Eg. : To create new customer hover on Accounts, it will show sub menus like Customers, Admins, Resellers. 
+   Click on Customers and then click on Create Create Customer. 
+
+**Related pages**
+
+.. toctree::
+   :maxdepth: 6
+     list_accounts.rst
 
 
 
