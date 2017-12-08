@@ -24,30 +24,18 @@ Pin              Calling Card Pin
 
 
 
-=====  =====  ======                       
-Inputs        Output
-------------  ------
-  A      B    A or B
-=====  =====  ======
-False         False
-------------  ------
-True   False  True
-False  True   True
-True          True
-============  ======
 
 
 
 
-===========  =============================
-1. Account   | Also referred as User Name,
-               Card Number or ID is 
-               typically a 10 unique 
-             |  digits that
+===========  =================================================
+1. Account   | Also referred as User Name,Card Number or ID is
+               typically a 10 unique digits that identify an
+             | account into the system.  
 2. Here      We can wrap the
              text in source
 32. There    **aha**
-===========  =============================
+===========  =================================================
 
 
 
