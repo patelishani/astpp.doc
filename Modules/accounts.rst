@@ -34,7 +34,7 @@ ASTPP have different types accounts based on their roles and responsibility. The
  
 
 .. image:: /Images/Dashboard.png
-
+.. image:: /Images/account_menu.png
 
 
 
