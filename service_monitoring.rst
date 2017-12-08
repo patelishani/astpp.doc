@@ -42,7 +42,7 @@ Configurations:
     
     
     
-    2)MySQL
+    2) MySQL
         check process mysqld with pidfile /var/run/mysqld/mysqld.pid
         start program = "/etc/init.d/mysql start"
         stop program = "/etc/init.d/mysql stop"
@@ -51,7 +51,7 @@ Configurations:
         if cpu > 80% for 5 cycles then restart
 
 
-    3)Freeswitch
+    3) Freeswitch
         check process freeswitch with pidfile /usr/local/freeswitch/run/freeswitch.pid
         start program = "/etc/init.d/freeswitch start"
         stop program = "/etc/init.d/freeswitch stop"
@@ -62,10 +62,27 @@ Configurations:
         if children > 2500 then restart
 
     
+**Configuration for email notification**
+::
+    # set mailserver mail.bar.baz, # primary mailserver
+    # backup.bar.baz port 10025, # backup mailserver on port 10025
+    # localhost # fallback relay
+
+    set mailserver localhost
+
+    # set alert sysadm@foo.bar # receive all alerts
+    # set alert manager@foo.bar only on { timeout } # receive just service-
+    # # timeout alert
+
+    set alert your@email.com
+
+    It will notify the status of services in email which are configured in configuration file.
     
     
-    
-    
+**Start service**
+::
+    Now start the monit service
+    # service monit start
     
     
     
