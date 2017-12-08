@@ -8,7 +8,7 @@ Once you click on Create Customer button, it will show you page to create new ac
 For creating resellers, admins and sub-admins, we have similar process.
 
 
-.. image:: /Images/customer.png
+.. image:: /Images/cutomer_add.png
 
 
 **Create Customer Account Form Fields Details:**
