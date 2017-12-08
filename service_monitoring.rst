@@ -6,6 +6,7 @@ Monit is a small Open Source utility for managing and monitoring systems. Monit 
 
 For ASTPP we can configure apache,freeswitch and mysql services to monitor.
 
+
     +-------------------------------------------------------------------------------------+
     |**Installation**                                                                     |
     +-------------------------------------------------------------------------------------+
@@ -13,12 +14,9 @@ For ASTPP we can configure apache,freeswitch and mysql services to monitor.
     |  yum install monit                                                                  |
     |                                                                                     |
     |                                                                                     |
-    |  For Debian:-                                                                        |
+    |  For Debian:-                                                                       |
     |  apt-get install monit                                                              |
     +-------------------------------------------------------------------------------------+
-
-
-
 
 
 
