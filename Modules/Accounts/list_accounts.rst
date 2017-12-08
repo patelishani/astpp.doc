@@ -21,6 +21,6 @@ Top panel button of grid
 +---------------------------------------+-----------------------------------------+
 | .. image:: /Images/                   | It will export accounts data.           |
 +---------------------------------------+-----------------------------------------+
-| .. image:: /Images/delete(2).png     | Delete selected accounts.               |
+| .. image:: /Images/delete(2).png      | Delete selected accounts.               |
 +---------------------------------------+-----------------------------------------+
 
