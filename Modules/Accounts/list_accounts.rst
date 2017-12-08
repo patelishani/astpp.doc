@@ -18,9 +18,9 @@ This page will list customers and providers accounts.
 +------------+--------------------------+-----------------------------------------+
 |.. image:: /Images/create-provider.png | To create New provider account.         |
 +---------------------------------------+-----------------------------------------+
-| .. image:: /Images/                   | It will export accounts data.           |
+| .. image:: /Images/export.png         | It will export accounts data.           |
 +---------------------------------------+-----------------------------------------+
-| .. image:: /Images/delete(2).png      | Delete selected accounts.               |
+| .. image:: /Images/deleted.png        | Delete selected accounts.               |
 +---------------------------------------+-----------------------------------------+
 
 
