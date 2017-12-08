@@ -23,9 +23,9 @@ For creating resellers, admins and sub-admins, we have similar process.
              Important if customer is using calling card feature. Length of pin is configurable, admin can 
              change it from calling card configuration. 
              
-First Name   Customer First name
+FirstName   Customer First name
 
-Last Name    Customer Last name
+LastName    Customer Last name
  
 Company      Customer Company name
  
