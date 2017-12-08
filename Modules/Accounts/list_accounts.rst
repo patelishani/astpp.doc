@@ -23,8 +23,9 @@ This page will list customers and providers accounts.
 | .. image:: /Images/delete(2).png      | Delete selected accounts.               |
 +---------------------------------------+-----------------------------------------+
 
-**Action column in grid**
 
+
+**Action column in grid**
 
 +--------------------+-----------------+------------------------------------------------------------------------------------+
 | .. image:: /Images/rifill.png        | Refill          | Use to Refill account as well as to apply post charge.           |
@@ -51,6 +52,7 @@ This page will list customers and providers accounts.
 
 
 **Account column button of grid for account type**
+
 +---------------------------------------+----------------------------------------+
 |.. image:: /Images/prepaid_image.png   | It indicates account type is prepaid   |  
 +---------------------------------------+----------------------------------------+
