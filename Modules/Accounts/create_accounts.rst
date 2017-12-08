@@ -14,7 +14,7 @@ For creating resellers, admins and sub-admins, we have similar process.
 **Create Customer Account Form Fields Details:**
 
 
-=================  ================
+=================  ========================================================================
 1. Account Number | Also referred as User Name, Card Number or ID Card is typically 
                     a 10 unique digits that identify an                           
                   | account into the system.
@@ -22,7 +22,7 @@ For creating resellers, admins and sub-admins, we have similar process.
 2. Here             We can wrap the
                     text in source
 32. There            **aha**
-=================  ================
+=================  =========================================================================
 
 
 
