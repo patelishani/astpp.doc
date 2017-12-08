@@ -8,7 +8,7 @@ change month and year from top right drop downs by default it show current month
 
 
 
-.. image:: /Images/login.jpg
+.. image:: /Images/dashboard.png
 
 
 
