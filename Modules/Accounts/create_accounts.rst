@@ -75,11 +75,11 @@ Credit Limit          Customer account's credit limit. Credit limit is only used
 Tax                   Select applicable taxes
                       You can create taxes from Configuration -> Taxes.
                        
-Low Balance           Define low balance amount on which you want to send notification to customer.
-Alert Level
+Low Balance Alert     Define low balance amount on which you want to send notification to customer.
+Level
 
-Enable Email           system will notify for Low credit if this option is set to Yes.
-Alerts?
+Enable Email Alerts?  system will notify for Low credit if this option is set to Yes.
+
 
 Email Address          E-mail address to get Low credit notification.
 
