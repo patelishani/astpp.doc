@@ -18,7 +18,6 @@ Account Number   Also referred as User Name, Card Number or ID Card is typically
                  account into the system.
 --------------   ----------------------------------------------------------------------------------------------------
 Password         The password that needs to be provided to the customer so he/she can log into portal. 
---------------   ----------------------------------------------------------------------------------------------------
 Pin              Calling Card Pin
 =============    ====================================================================================================
 
