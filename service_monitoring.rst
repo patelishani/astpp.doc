@@ -9,11 +9,11 @@ For ASTPP we can configure apache,freeswitch and mysql services to monitor.
     +-------------------------------------------------------------------------------------+
     |**Installation**                                                                     |
     +-------------------------------------------------------------------------------------+
-    |  For CentOS                                                                         |
+    |  For CentOS:-                                                                       |
     |  yum install monit                                                                  |
     |                                                                                     |
     |                                                                                     |
-    |  For Debian                                                                         |
+    |  For Debian:-                                                                        |
     |  apt-get install monit                                                              |
     +-------------------------------------------------------------------------------------+
 
@@ -23,13 +23,7 @@ For ASTPP we can configure apache,freeswitch and mysql services to monitor.
 
 
 
-**Installation**  
-::
-     For CentOS
-    yum install monit
 
-    For Debian
-    apt-get install monit
     
     
     
