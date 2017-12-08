@@ -51,6 +51,15 @@ This page will list customers and providers accounts.
 
 
 
++---------------------------------------+-------------------------------------+
+|.. image:: /Images/rifill.png          | It indicates customer accounts      |  
++---------------------------------------+-------------------------------------+
+| .. image:: /Images/edit.png           | It indicates provider accounts      |
++------------+--------------------------+-------------------------------------+
+|.. image:: /Images/force_caller_id.png | It indicates admin accounts         |
++---------------------------------------+-------------------------------------+
+| .. image::  /Images/delete.png        | It indicates subadmin accounts      |
++---------------------------------------+-------------------------------------+
 
 
 
