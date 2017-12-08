@@ -13,29 +13,14 @@ For creating resellers, admins and sub-admins, we have similar process.
 
 **Create Customer Account Form Fields Details:**
 
-==============   ====================================================================================================
-Account Number   Also referred as User Name, Card Number or ID Card is typically a 10 unique digits that identify an 
-                 account into the system.
---------------   ----------------------------------------------------------------------------------------------------
-Password         The password that needs to be provided to the customer so he/she can log into portal. 
-Pin              Calling Card Pin
-=============    ====================================================================================================
-
-
-
-
-
-
-
-
-===========  =================================================
-1. Account   | Also referred as User Name,Card Number or ID is
-               typically a 10 unique digits that identify an
-             | account into the system.  
+===========  ===============================================================================================
+1. Account   | Also referred as User Name,Card Number or ID is typically a 10 unique digits that identify an
+               account into the system.  
+             | Length of account number is configurable, admin can change it from global configuration. 
 2. Here      We can wrap the
              text in source
 32. There    **aha**
-===========  =================================================
+===========  ===============================================================================================
 
 
 
