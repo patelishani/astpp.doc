@@ -17,9 +17,9 @@ Top panel button of grid
 +---------------------------------------+-----------------------------------------+
 | .. image:: /Images/Mass-create.png    | To create Multiple customer account.    |
 +------------+--------------------------+-----------------------------------------+
-|.. image:: /Images/Create-provider.png | To create New provider account.         |
+|.. image:: /Images/create-provider.png | To create New provider account.         |
 +---------------------------------------+-----------------------------------------+
 | .. image:: /Images/                   | It will export accounts data.           |
 +---------------------------------------+-----------------------------------------+
-| .. image:: /Images/delete (2).png.    | Delete selected accounts.               |
+| .. image:: /Images/delete (2).png     | Delete selected accounts.               |
 +---------------------------------------+-----------------------------------------+
