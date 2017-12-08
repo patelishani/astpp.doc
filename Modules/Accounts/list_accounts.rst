@@ -2,4 +2,7 @@
 List Accounts
 ================
 
-AZSDbfgwr sdbfwef duyefjnuhy b s j u7y
+
+This page will list customers and providers accounts. 
+
+.. image:: Images/customer.png
