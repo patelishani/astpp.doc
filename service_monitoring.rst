@@ -16,7 +16,6 @@ For ASTPP we can configure apache,freeswitch and mysql services to monitor.
 
 
 **Configurations:**
-
 **Enable Web Interface in Monit**
 ::
     Monit also provided an web interface to view services and processes status. To enable monit web interface, 
