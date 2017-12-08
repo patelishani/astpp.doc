@@ -35,7 +35,6 @@ ASTPP have different types accounts based on their roles and responsibility. The
 
 
 .. image:: /Images/account_menu.png
-.. image:: /Images/account_menu.png
 
 
 
@@ -49,7 +48,11 @@ You can navigate through different menus of ASTPP.
 
 
 
+**Related pages**
 
+.. toctree::
+   :maxdepth: 6
+     list_accounts.rst
 
 
 
