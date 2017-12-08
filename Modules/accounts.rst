@@ -41,20 +41,13 @@ ASTPP have different types accounts based on their roles and responsibility. The
 
 
 
- You can navigate through different menus of ASTPP.
+You can navigate through different menus of ASTPP.
 
-   Eg. : To create new customer hover on Accounts, it will show sub menus like Customers, Admins, Resellers. 
-   Click on Customers and then click on Create Create Customer. 
-
-
-
+ Eg. : To create new customer hover on Accounts, it will show sub menus like 
+ Customers, Admins, Resellers.Click on Customers and then click on Create 
+ Create Customer. 
 
 
-**Related pages**
-
-.. toctree::
-   :maxdepth: 6
-     list_accounts.rst
 
 
 
