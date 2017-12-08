@@ -51,7 +51,7 @@ You can navigate through different menus of ASTPP.
 **Related pages**
 
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 5
      list_accounts.rst
 
 
