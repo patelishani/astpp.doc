@@ -33,10 +33,7 @@ ASTPP have different types accounts based on their roles and responsibility. The
  - Admins are having full control over system whereas sub admins are having only reporting permissions.
  
 
-
 .. image:: /Images/account_menu.png
-
-
 
 
 
