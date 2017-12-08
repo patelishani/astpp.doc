@@ -55,15 +55,3 @@ Create Customer.
    :maxdepth: 7
    
    Accounts/list_accounts.rst
-
-
-
-
-
-
-
-
-
-
-
-
