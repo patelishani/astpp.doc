@@ -39,15 +39,15 @@ True          True
 
 
 
-===========  ================
-1. Account   | Also referred 
-               as User Name, 
-               Card Number
-             | or ID
+===========  =============================
+1. Account   | Also referred as User Name,
+               Card Number or ID is 
+               typically a 10 unique 
+             |  digits that
 2. Here      We can wrap the
              text in source
 32. There    **aha**
-===========  ================
+===========  =============================
 
 
 
