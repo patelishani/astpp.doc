@@ -15,8 +15,6 @@ For ASTPP we can configure apache,freeswitch and mysql services to monitor.
     apt-get install monit
 
 
-
-
 Configurations:
 ***************
 
@@ -33,10 +31,60 @@ Configurations:
     allow @monit
     allow @users readonly
 
+**Configure Monit To Monitor Services**
+::
+    1) Nginx:
+
+    
+    
+    
+    
+    
+    
+    
+    2)MySQL
+        check process mysqld with pidfile /var/run/mysqld/mysqld.pid
+        start program = "/etc/init.d/mysql start"
+        stop program = "/etc/init.d/mysql stop"
+        group resources
+        if cpu > 60% for 2 cycles then alert
+        if cpu > 80% for 5 cycles then restart
 
 
+    3)Freeswitch
+        check process freeswitch with pidfile /usr/local/freeswitch/run/freeswitch.pid
+        start program = "/etc/init.d/freeswitch start"
+        stop program = "/etc/init.d/freeswitch stop"
+        if 5 restarts within 5 cycles then timeout
+        if cpu > 60% for 2 cycles then alert
+        if cpu > 80% for 5 cycles then alert
+        if totalmem > 2000.0 MB for 5 cycles then restart
+        if children > 2500 then restart
 
-
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
