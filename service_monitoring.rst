@@ -15,8 +15,7 @@ For ASTPP we can configure apache,freeswitch and mysql services to monitor.
     apt-get install monit
 
 
-Configurations:
-***************
+**Configurations:**
 
 **Enable Web Interface in Monit**
 ::
@@ -30,6 +29,7 @@ Configurations:
     allow admin:monit
     allow @monit
     allow @users readonly
+
 
 **Configure Monit To Monitor Services**
 ::
@@ -61,6 +61,7 @@ Configurations:
         if totalmem > 2000.0 MB for 5 cycles then restart
         if children > 2500 then restart
 
+
     
 **Configuration for email notification**
 ::
@@ -78,7 +79,8 @@ Configurations:
 
     It will notify the status of services in email which are configured in configuration file.
     
-    
+  
+  
 **Start service**
 ::
     Now start the monit service
