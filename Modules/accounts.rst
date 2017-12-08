@@ -54,5 +54,6 @@ Create Customer.
 .. toctree::
    :maxdepth: 7
    
-   Accounts/list_accounts.rst
-   Accounts/create_accounts.rst
+   Accounts/list_account.rst
+   Accounts/create_account.rst
+   Accounts/edit_account.rst
