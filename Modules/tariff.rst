@@ -10,6 +10,8 @@ Tariff
     :maxdepth: 11
     
    Tariff/rate_group.rst
+   Tariff/origination_rates.rst
+   Tariff/packages.rst
 
 
 
