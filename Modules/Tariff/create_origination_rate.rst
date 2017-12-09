@@ -3,20 +3,19 @@ Create Origination Rate
 =======================
 
 
-.. image:: /Images/create_origination_rate.png
-
-
-
-  
-  **Origination Rates Add Form Fields Description:**
+ .. image:: /Images/create_origination_rate.png
+ 
+ 
+ 
+ **Origination Rates Add Form Fields Description:**
   
   
  =====================   =================================================================================== 
-  **Rate Group**	 Select the rate group for origination rate
+  **Rate Group**	       Select the rate group for origination rate
   
-  **Code**	         Prefix of origination rate. Example: 91
+  **Code**	             Prefix of origination rate. Example: 91
   
-  **Destination**	 Description for rate. Example : India
+  **Destination**	       Description for rate. Example : India
   
   **Precedence**         Priority of rate
   
@@ -24,9 +23,9 @@ Create Origination Rate
   
   **Included Seconds**	 Define seconds will be free from the call duration for each call
   
-  **Per Minute Cost**	 Cost per minute
+  **Per Minute Cost**	   Cost per minute
   
-   **Increment**	 Rate of increment to calculate call cost
+   **Increment**	       Rate of increment to calculate call cost
                          Example : 60 to charge every minute
              
  
@@ -34,7 +33,7 @@ Create Origination Rate
               
                          Note : Leave it – Select – if you would like to do LCR among trunks which are 
                          selected in rate group
-=====================   ===================================================================================
+=====================    ===================================================================================
 
 
 
