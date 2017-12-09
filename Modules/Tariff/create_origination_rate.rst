@@ -2,9 +2,6 @@
 Create Origination Rate
 =======================
 
-
-
-
 .. image:: /Images/create_origination_rate.png
  
  
