@@ -9,10 +9,10 @@ from defined IPs.
 
 **Add/Edit IP Settings form fields description**
 
-============ ======================================================================================
-Name	        Add a name for identification only, this can be the client OR server name if you wish.
+================ ======================================================================================
+**Name**	        Add a name for identification only, this can be the client OR server name if you wish.
 
-IP Address	  Add the IP Address you want to authenticate with.
+**IP Address**	  Add the IP Address you want to authenticate with.
 
-Prefix	      For additional validation over IP based authentication.
-============ ======================================================================================
+**Prefix**	      For additional validation over IP based authentication.
+================ ======================================================================================
