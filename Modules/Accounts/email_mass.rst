@@ -20,7 +20,7 @@ Email             Template	Select appropriate template from drop-down.
 ================ ======================================================================================
 
 .. toctree::
-    :maxdepth: 7
+    :maxdepth: 
     
     compose_email.rst
 
