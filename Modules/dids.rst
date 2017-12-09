@@ -24,7 +24,13 @@ ASTPP gives you various options like LOCAL, PSTN and OTHER to route incoming cal
 .. image:: /Images/export.png    To Export DID number in CSV file
 ==============================   ====================================
   
-  
+
+**Related pages**
+
+.. toctree::
+    :maxdepth: 10
+    
+   DIDs/create_did.rst
 
   
   
