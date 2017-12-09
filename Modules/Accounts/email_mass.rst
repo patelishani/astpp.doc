@@ -20,13 +20,12 @@ Email             Template	Select appropriate template from drop-down.
 ================ ======================================================================================
 
 .. toctree::
-    :maxdepth:  
+    :maxdepth: 8
     
     customer_sip_devices.rst
     compose_email.rst
 
 
- 
 
 
 
