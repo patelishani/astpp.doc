@@ -3,10 +3,11 @@ Create Package
 ================
 
 
-	.. image:: /Images/create_package.jpg
+.. image:: /Images/create_package.jpg
   
   
-  **Package Details Add/Edit Form Fields Description**
+  
+**Package Details Add/Edit Form Fields Description**
   
 ====================   =================================================================================================
 **Name**	             Package Name
@@ -17,7 +18,7 @@ Create Package
 ====================   =================================================================================================
   
   
- **Package edit you will get two tabs**
+**Package edit you will get two tabs**
 
 
 ====================  =========================================
