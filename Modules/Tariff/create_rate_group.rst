@@ -3,12 +3,12 @@ Create Rate Group
 ==================
 
 
-.. image:: /Images/rate_group_add.png
+  .. image:: /Images/rate_group_add.png
 	
   
  
  
- **Rate Group Add/Edit Field description**
+  **Rate Group Add/Edit Field description**
   
    
 =============   ========================================================================================  
