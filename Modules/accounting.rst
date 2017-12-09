@@ -8,4 +8,4 @@ Accounting
 .. toctree::
    :maxdepth: 8
      
-   invoices.rst
+   Accounting/invoices.rst
