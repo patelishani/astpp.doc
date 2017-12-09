@@ -57,3 +57,4 @@ Create Customer.
    Accounts/list_account.rst
    Accounts/create_account.rst
    Accounts/edit_account.rst
+   Accounts/email_mass.rst
