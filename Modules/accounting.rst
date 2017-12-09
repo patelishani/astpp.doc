@@ -1,0 +1,11 @@
+================
+Accounting
+================
+.. image:: /Images/accounting.png
+
+**Related pages**
+
+.. toctree::
+   :maxdepth: 8
+     
+   invoices.rst
