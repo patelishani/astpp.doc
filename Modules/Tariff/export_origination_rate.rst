@@ -18,7 +18,7 @@ Below is an example with search option,
 Exported .csv file,
 
 
-   .. image:: /Images/origination_rates_export_search.jpg
+   .. image:: /Images/origination_rates_export_file.jpg
 
 
 
