@@ -47,7 +47,7 @@ Alert Threshold       Here we can set low balance email notification.
     :maxdepth: 7
     
       ip_settings.rst
-      account_invoices.rst
+      
       
      
 
