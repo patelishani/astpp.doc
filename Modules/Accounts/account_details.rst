@@ -1,4 +1,5 @@
 ================
 Account Details
 ================
-aksdjbnasdiusjd mnbuyb
+
+.. image:: /Images/customer_edit.png
