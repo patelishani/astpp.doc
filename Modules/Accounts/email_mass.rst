@@ -19,7 +19,10 @@ Entity 	          Type	Account entity type whether its customer or provider.
 Email             Template	Select appropriate template from drop-down.
 ================ ======================================================================================
 
-
+.. toctree::
+    :maxdepth: 7
+    
+    compose_email.rst
 
 
 
