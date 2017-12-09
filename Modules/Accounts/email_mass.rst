@@ -10,7 +10,7 @@ Account      Type	Select customer account type. Prepaid OR Postpaid.
 Status	     Account status.
 Entity       Type	Account entity type whether its customer or provider.
 Email        Template	Select appropriate template from drop-down.
-=========== ===============================================================================================================
+=========== ==============================================================================================================
 
 
 
