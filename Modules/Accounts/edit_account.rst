@@ -46,7 +46,7 @@ Alert Threshold       Here we can set low balance email notification.
 .. toctree::
     :maxdepth: 7
     
-      account_invoices.rst
+   account_invoices.rst
       
       
       
