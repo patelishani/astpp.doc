@@ -16,8 +16,7 @@ You can create new DID using below page,
 
 .. code-block:: html
    :linenos:
-
-   <h1>code block example</h1>
+<h1>code block example</h1>
 
 
 
