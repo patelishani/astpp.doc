@@ -4,9 +4,10 @@ Create Origination Rate
 
 
  
+.. image:: /Images/create_origination_rate.png 
  
  
-  
+ **Origination Rates Add Form Fields Description:** 
   
  =====================    =================================================================================== 
  **Rate Group**	          Select the rate group for origination rate
