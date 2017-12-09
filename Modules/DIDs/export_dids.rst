@@ -15,7 +15,7 @@ Below is an example with search option,
 
 Exported .csv file,
 
-.. image:: /Images/did_export_preview.png
+.. image:: /Images/did_export_preview.jpg
 
 
 
