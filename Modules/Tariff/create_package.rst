@@ -17,7 +17,7 @@ Create Package
 ====================   =================================================================================================
   
   
-**Package edit you will get two tabs **
+ **Package edit you will get two tabs**
 
 ====================  =========================================
 **Package Details**	  Allow to change package details
