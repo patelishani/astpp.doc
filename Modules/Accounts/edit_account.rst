@@ -10,7 +10,7 @@ Customer edit page contains settings tabs,
 Here is left side menu information, 
 
 ====================  ===================================================================================================
-Customer Profile      | To edit customer’s personal details.
+Customer Profile      To edit customer’s personal details.
                              
 SIP Devices           Create/update SIP Devices.
                       
