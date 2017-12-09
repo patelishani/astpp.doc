@@ -11,10 +11,10 @@ type of subscription packages from this module and assign it to entire rate grou
 	
 **Top panel Grid Button**
 
-==============================  ===============================
+=============================== ================================
 .. image:: /Images/create.png   To create new subscription
 
 .. image:: /Images/deleted.png  To delete multiple subscriptions
-==============================	================================
+===============================	================================
 	
 	
