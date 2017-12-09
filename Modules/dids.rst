@@ -30,7 +30,10 @@ ASTPP gives you various options like LOCAL, PSTN and OTHER to route incoming cal
 .. toctree::
     :maxdepth: 10
     
-   DIDs/create_did.rst
+   DIDs/create_dids.rst
+   DIDs/import_dids.rst
+   DIDs/export_dids.rst
+
 
   
   
