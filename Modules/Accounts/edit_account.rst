@@ -44,7 +44,7 @@ Alert Threshold       Here we can set low balance email notification.
 **Related pages**
 
 .. toctree::
-    :maxdepth: 9
+    :maxdepth: 8
       
       account_details.rst
       
