@@ -8,9 +8,10 @@ Create Rate Group
   
  
  
-  **Rate Group Add/Edit Field description**
   
-   
+  
+  
+  **Rate Group Add/Edit Field description**  
 =============   ========================================================================================  
 **Name**	Name of Rate Group
   
