@@ -5,11 +5,30 @@ Email Mass
 
 **Email Mass Field Description**
 
+
+================ ======================================================================================
+Rate Group        Add a name for identification only, this can be the client OR server name if you wish.
+
+**IP Address**	  Add the IP Address you want to authenticate with.
+
+**Prefix**	      For additional validation over IP based authentication.
+================ ======================================================================================
+
+
+
+
+
+
+
 ===========  ================================================================================================================
 Rate Group	  Rate group is an essential field for billing. You can create rate group by navigating to Tariff -> Rate group.
+
 Account       Type	Select customer account type. Prepaid OR Postpaid.
+
 Status	      Account status.
+
 Entity        Type	Account entity type whether its customer or provider.
+
 Email         Template	Select appropriate template from drop-down.
 ===========  =================================================================================================================
 
