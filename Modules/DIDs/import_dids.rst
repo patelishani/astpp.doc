@@ -20,7 +20,7 @@ Import DIDs
     click on process and system will import all your DIDs. 
 
 
- .. image:: /Images/did_import_process_new.jpg
+.. image:: /Images/did_import_process_new.jpg
            
              
              
