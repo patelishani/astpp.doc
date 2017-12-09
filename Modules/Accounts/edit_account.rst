@@ -45,9 +45,22 @@ Alert Threshold       Here we can set low balance email notification.
 
 .. toctree::
     :maxdepth: 7
-    
+   
+   customer_sip_devices.rst
+   ip_settings.rst
+   caller_id.rst
+   speed_dial.rst
+   block_codes.rst
+   dids.rst
+   subscription.rst
    account_invoices.rst
-   ip_settings.rst  
+   refill_report.rst
+   charges_history.rst
+   drs.rst
+   mails.rst
+   alert_threshold.rst
+
+  
       
       
       
