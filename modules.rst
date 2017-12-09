@@ -13,5 +13,6 @@ Modules
    Modules/accounts.rst
    Modules/accounting.rst
    Modules/dids.rst
+   Modules/tariff.rst
 
 
