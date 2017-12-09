@@ -2,7 +2,8 @@
 DIDs
 ================
 
-	.. image:: /Images/dids.png
+.. image:: /Images/dids.png
+
   
   **Manage DIDs (Direct Inward Dialing)**
   
@@ -10,7 +11,8 @@ DIDs
   ASTPP gives you various options like LOCAL, PSTN and OTHER to route incoming calls. 
   
   
-  .. image:: /Images/did_list.png
+.. image:: /Images/did_list.png
+
   
   
   **Top panel Grid Button**
