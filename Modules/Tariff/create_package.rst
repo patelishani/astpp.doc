@@ -24,8 +24,7 @@ Create Package
 **Package Details**   Allow to change package details
   
 **Package Patterns**  Form this tab you can select destinations
-====================  ==========================================
-
+====================  =========================================
 
 
 
