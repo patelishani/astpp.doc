@@ -11,3 +11,6 @@ Accounting
    Accounting/invoices.rst
    Accounting/subscription.rst
    Accounting/refill_report.rst
+   Accounting/charges_history.rst
+   Accounting/refill_coupon.rst
+   Accounting/payment_report.rst
