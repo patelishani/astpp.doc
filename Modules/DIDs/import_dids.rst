@@ -11,14 +11,14 @@ Import DIDs
 
             65456456,Alaska,2096035512,0.5,0,1,0,1,DID-Local,1002,Active
              
-.. image:: /Images/did_import_page.png
+.. image:: /Images/did_import_page.jpg
 
     Select provider, csv file of DID and click on Import button, It will display below sample output. 
     You can confirm format if its system recognize your imported file correctly.If all looks good then
     click on process and system will import all your DIDs. 
 
 
- .. image:: /Images/did_import_process_new.png
+ .. image:: /Images/did_import_process_new.jpg
            
              
              
