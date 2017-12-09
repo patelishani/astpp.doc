@@ -9,3 +9,4 @@ Accounting
    :maxdepth: 8
      
    Accounting/invoices.rst
+   Accounting/subscription.rst
