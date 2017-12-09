@@ -28,8 +28,10 @@ You can create new DID using below page,
 
 ===========================  =================================================================
 **Account**                  Select account number you wish to assign DID
-**Increments**               Rate of increment to calculate call cost. 
+**Increments**               Rate of increment to calculate call cost.
+
                              Example : 60 to charge every minute
+                             
 **Cost**                     Cost per minute
 **Included Seconds**         Define seconds will be free from the call duration for each call
 **Setup Fee**                One time Setup fee
@@ -48,10 +50,22 @@ You can create new DID using below page,
                              
                              OTHER : If you wish to route call to custom destination
 
-**Increments**               Rate of increment to calculate call cost. 
-                             Example : 60 to charge every minute
-**Cost**                     Cost per minute
-**Included Seconds**         Define seconds will be free from the call duration for each call
+**Destination**              Set appropriate destination based on call Type.
+
+                             Example : 
+                             
+                             LOCAL : 1001 (Local Extension number)
+
+                             PSTN : 1800214018 (PSTN number)
+
+                             OTHER : sofia/default/1234567890@192.168.1.3
+
+                             OR
+
+                              sofia/gateway/gwname/121423232
+                              
+**Max Channels**              Maximum allowed concurrent channels for DID calls. 0=Unlimited
+    
 ===========================  =================================================================
 
 
