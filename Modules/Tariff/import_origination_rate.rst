@@ -2,14 +2,14 @@
 Import Origination Rate
 =======================
 
-.. note:: **File must be in the following format(.csv): **
+.. note:: **File must be in the following format(.csv):**
           Code,Destination,Connect Cost,Included Seconds,Per Minute Cost,Increment,Precedence.
 
           1,USA,0.0000,0,1.0000,30,60
           91,India,0.0000,0,0.5000,0,0
           
           
-  .. image:: /Images/import_origination_rates.png      
+.. image:: /Images/import_origination_rates.png      
           
           
   Select rate group, force trunk and csv file of origination rates and click on Import button, It will show below output to
