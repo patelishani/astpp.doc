@@ -8,7 +8,7 @@ Import Origination Rate
           
          
           
-.. image:: /Images/import_orgination_rates.png      
+  .. image:: /Images/import_orgination_rates.png      
           
           
           
