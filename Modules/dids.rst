@@ -15,10 +15,17 @@ ASTPP gives you various options like LOCAL, PSTN and OTHER to route incoming cal
   
 .. image:: /Images/did_list.png
 
+**Top panel Grid Button**
+
+==============================   ====================================
+.. image:: /Images/create.png    To Create New DID
+.. image:: /Images/deleted.png   To Delete multiple DIDs
+.. image:: /Images/import.png    To Import DID number from CSV file
+.. image:: /Images/export.png    To Export DID number in CSV file
+==============================   ====================================
   
   
 
- 
   
   
   
