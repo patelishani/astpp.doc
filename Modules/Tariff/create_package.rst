@@ -19,10 +19,11 @@ Create Package
   
  **Package edit you will get two tabs**
 
+
 ====================  =========================================
-**Package Details**	  Allow to change package details
+**Package Details**   Allow to change package details
   
-**Package Patterns**	Form this tab you can select destinations
+**Package Patterns**  Form this tab you can select destinations
 ====================  ==========================================
 
 
