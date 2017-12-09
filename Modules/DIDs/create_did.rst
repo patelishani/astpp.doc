@@ -14,7 +14,10 @@ You can create new DID using below page,
 
 **DID Information**
 
+.. code-block:: html
+   :linenos:
 
+   <h1>code block example</h1>
 
 
 
