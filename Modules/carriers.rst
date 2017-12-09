@@ -10,8 +10,8 @@ Carriers
 .. toctree::
     :maxdepth: 13
     
-   trunk.rst
-   termination_rate.rst
+   Carriers/trunk.rst
+   Carriers/termination_rate.rst
 
 
 
