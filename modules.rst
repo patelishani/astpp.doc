@@ -11,5 +11,6 @@ Modules
    Modules/login.rst
    Modules/dashboard.rst
    Modules/accounts.rst
+   Modules/accounting.rst
 
 
