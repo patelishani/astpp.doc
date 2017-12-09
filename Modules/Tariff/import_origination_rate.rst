@@ -7,6 +7,9 @@ Import Origination Rate
             1,USA,0.0000,0,1.0000,30,60
             91,India,0.0000,0,0.5000,0,0
 
+
+
+
  .. image:: /Images/import_orgination_rates.png      
 
 
