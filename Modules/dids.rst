@@ -6,7 +6,7 @@ DIDs
 .. image:: /Images/dids.png 
 
 
-sdfksmldfvb
+**Manage DIDs (Direct Inward Dialing)**
 
 
  
