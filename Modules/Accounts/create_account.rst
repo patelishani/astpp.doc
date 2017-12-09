@@ -13,9 +13,9 @@ For creating resellers, admins and sub-admins, we have similar process.
 
 **Create Customer Account Form Fields Details:**
 
-====================  ===================================================================================================
+====================  ================================================================================================
  Account              Also referred as User Name,Card Number or ID is typically a 10 unique digits that identify an
-                      account into the system.  
+                      |account into the system.  
                       Length of account number is configurable, admin can change it from global configuration. 
  Password             The password that needs to be provided to the customer so he/she can log into portal. 
              
@@ -84,7 +84,7 @@ Enable Email Alerts?  system will notify for Low credit if this option is set to
 Email Address          E-mail address to get Low credit notification.
 
 
-====================  ===================================================================================================
+====================  ================================================================================================
 
 
 
