@@ -4,4 +4,4 @@ Account Invoices
 
 Shows list of invoices generated for this account.
 
-.. image:: /Images/customer_invoices.png
+.. image:: /Images/Customer_invoices.png
