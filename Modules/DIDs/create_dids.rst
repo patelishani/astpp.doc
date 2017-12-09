@@ -1,5 +1,5 @@
 ================
-Create DID
+Create DIDs
 ================
 
 You can create new DID using below page,
