@@ -16,4 +16,7 @@ type of subscription packages from this module and assign it to entire rate grou
 .. image:: /Images/deleted.png  To delete multiple subscriptions
 ===============================	================================
 	
-	
+.. toctree::
+    :maxdepth: 9
+    
+   create_subscription.rst
