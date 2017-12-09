@@ -14,10 +14,10 @@ Import DIDs
              
 .. image:: /Images/did_import_page.jpg
 
-
-    Select provider, csv file of DID and click on Import button, It will display below sample output. 
-    You can confirm format if its system recognize your imported file correctly.If all looks good then
-    click on process and system will import all your DIDs. 
+Select provider, csv file of DID and click on Import button, It will display below sample output. 
+You can confirm format if its system recognize your imported file correctly.If all looks good then
+click on process and system will import all your DIDs.   
+    
 
 
 .. image:: /Images/did_import_process_new.jpg
