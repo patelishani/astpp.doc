@@ -14,5 +14,6 @@ Modules
    Modules/accounting.rst
    Modules/dids.rst
    Modules/tariff.rst
+   Modules/carriers.rst
 
 
