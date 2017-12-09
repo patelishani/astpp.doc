@@ -10,8 +10,9 @@ Create new subscription package using below page,
 
 ==============  ===============================================================================
 Name	          Subscription name
-Rate Group	    Select Rate group.
-                Charges will be applicable to all customers who are using selected Rate Group
+
+Rate Group	    Select Rate group.Charges will be applicable to all customers
+                who are using selected Rate Group
        
 Amount	        Subscription charge
 
