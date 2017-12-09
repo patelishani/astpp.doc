@@ -8,17 +8,17 @@ Create new subscription package using below page,
 
 **Add/Edit subscription form fields description**
 
-=============  =============================================================================
-Name	         Subscription name
+==============  ===============================================================================
+Name	          Subscription name
 
-Rate Group	   Select Rate group.
-               Charges will be applicable to all customers who are using selected Rate Group
+Rate Group	    Select Rate group.
+                Charges will be applicable to all customers who are using selected Rate Group
        
-Amount	       Subscription charge
+Amount	        Subscription charge
 
-Prorate	       Enable it to apply prorate based charge to customer
+Prorate	        Enable it to apply prorate based charge to customer
 
-Bill Cycle	   Daily OR Monthly bill cycle to apply charge on customer
+Bill Cycle	    Daily OR Monthly bill cycle to apply charge on customer
 
-Status	       Active OR Inactive subscription
-=============  ===============================================================================             
+Status	        Active OR Inactive subscription
+==============  ===============================================================================             
