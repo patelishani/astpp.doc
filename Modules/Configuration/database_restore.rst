@@ -9,9 +9,9 @@ Database Restore
 **Action Column In Grid:**
   
 ==================================  =================
-.. image:: /Images/info.jpg         Restore database
+.. image:: /Images/info.png         Restore database
   
-.. image:: /Images/download_db.jpg  Download database
+.. image:: /Images/download_db.png  Download database
   
-.. image:: /Images/delete.jpg       Delete database
+.. image:: /Images/delete.png       Delete database
 ==================================  =================
