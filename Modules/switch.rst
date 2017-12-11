@@ -4,7 +4,7 @@ Switch
 
 
 
-  .. image:: /Images/menu.png
+.. image:: /Images/menu.png
 
 
 
