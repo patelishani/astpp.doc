@@ -3,4 +3,4 @@ Trunk Stats
 ================
 
 
-	.. image:: /Images/trunk_stat.png
+.. image:: /Images/trunk_stat.png
