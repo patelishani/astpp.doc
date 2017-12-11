@@ -3,17 +3,16 @@ Switch
 =========
 
 
-
-  .. image:: /Images/menu.png
-
+.. image:: /Images/carriers_menu.png
 
 
 **Related pages**
-  
-  .. toctree::
+
+.. toctree::
     :maxdepth: 14
     
-   /Switch/sip_devices.rst
+   Carriers/trunk.rst
+   Carriers/termination_rates.rst
   
   
   
