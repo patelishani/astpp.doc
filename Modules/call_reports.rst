@@ -3,11 +3,13 @@ Call Reports
 ================
 
 
-	.. image:: /Images/report.png
+.. image:: /Images/report.png
+
+
   
-  **Related pages**
+**Related pages**
   
-  .. toctree::
-    :maxdepth: 15
+.. toctree::
+    :maxdepth: 14
     
      CallReports/detail_reports.rst
