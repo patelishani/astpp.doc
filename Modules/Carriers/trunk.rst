@@ -1,5 +1,5 @@
 ================
-Trunks
+Trunk
 ================
 
 Trunk is key module for LCR routing and associated with termination rates and provider account. 
