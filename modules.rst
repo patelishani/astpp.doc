@@ -18,5 +18,7 @@ Modules
    Modules/switch.rst
    Modules/call_reports.rst
    Modules/configuration.rst
+   Modules/forgot_password.rst
+   Modules/signup_now.rst
 
 
