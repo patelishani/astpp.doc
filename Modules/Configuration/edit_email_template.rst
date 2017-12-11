@@ -4,7 +4,7 @@ Edit Email Template
 ===================
 
 
-.. image:: /Images/email_edit_template.png
+.. image:: /Images/Email_Edit_Template.png
 
 
   
