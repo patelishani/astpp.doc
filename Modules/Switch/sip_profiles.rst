@@ -6,11 +6,10 @@ SIP Profiles
 	.. image:: /Images/sip_profile-3.0.png
 
 
-
 .. toctree::
-    :maxdepth: 15
+    :maxdepth: 14
     
-   create_sip_profile.rst
+  create_gateway.rst
 
 
 
