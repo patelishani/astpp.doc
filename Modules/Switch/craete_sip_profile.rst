@@ -3,7 +3,11 @@ Create SIP Profile
 ==================
 
 
-	.. image:: /Images/create_sip_profile-3.0.png
+	
+	
+ .. image:: /Images/create_sip_profile-3.0.png
+  
+  
   
   
 **Sip Profile List Add/Edit Form Fields Description:**
