@@ -15,4 +15,8 @@ Trunk is key module for LCR routing and associated with termination rates and pr
 .. image:: /Images/deleted.png   To delete multiple trunks
 ===============================  ============================
 
+.. toctree::
+    :maxdepth: 13
+   create_trunk.rst
+    
 
