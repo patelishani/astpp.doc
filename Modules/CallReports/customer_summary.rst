@@ -3,4 +3,4 @@ Customer Summary
 ================
 
 
-	.. image:: /Images/customer_summary.png
+.. image:: /Images/customer_summary.png
