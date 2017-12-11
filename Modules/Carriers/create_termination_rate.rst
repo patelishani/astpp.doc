@@ -11,7 +11,7 @@ Create Termination Rate
 	
 	
   
-====================   =========================================================================================
+=====================  =========================================================================================
 **Trunk**	       Select trunk for termination rate
   
 **Code**	       Prefix of termination rate. Example: 91
@@ -41,7 +41,7 @@ Create Termination Rate
 **Precedence**         Priority of rate. If LCR found same prefix with same rate for different trunk then 
                        based on precedence/priority level trunk will be selected.
 
-====================   =========================================================================================                        
+=====================  =========================================================================================                        
 
 
 
