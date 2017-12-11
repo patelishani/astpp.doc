@@ -27,8 +27,8 @@ Create Termination Rate
 **Included Seconds**   Define seconds will be free from the call duration for each call
   
 **Per Minute** 	       Cost per minute
-  
-**Cost**
+  **Cost**
+
   
 **Initial**	       Here specify cost which you have to take when call is initiate
   
