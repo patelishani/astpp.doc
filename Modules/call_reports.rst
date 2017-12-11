@@ -15,5 +15,5 @@ Call Reports
    CallReports/detail_reports.rst
    CallReports/summary_reports.rst
    CallReports/live_call_reports.rst
-   CallReports/email_history_reports.rst
+   CallReports/email_history_list.rst
   
