@@ -1,5 +1,5 @@
 ================
-Detail Report
+Detail Reports
 ================
 
 **Related pages**
