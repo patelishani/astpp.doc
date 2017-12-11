@@ -8,8 +8,12 @@ Switch
 
 
 
-  
-  **Related pages**
+   
+   
+   
+   
+   
+   **Related pages**
   
   .. toctree::
     :maxdepth: 13
