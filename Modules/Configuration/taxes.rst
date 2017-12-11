@@ -17,3 +17,8 @@ charge on invoice.
 To create Taxes go to Accounting menu in ASTPP portal. From popup select Taxes it will show you the list of the taxes. 
 You can create new taxes by clicking on Create button.
   
+.. toctree::
+    :maxdepth: 16
+    
+   create_tax.rst
+   
