@@ -17,11 +17,8 @@ Import Termination Rate
 
 
             
-Select trunk and csv file of termination rates and click on Import button, It will show below output to confirm if rates format are 
-correct. Once you confirm then click on process and it will import those rates in system.             
+Select trunk and csv file of termination rates and click on Import button, It will show below output to confirm if rates 
+format are correct. Once you confirm then click on process and it will import those rates in system.             
             
-            
-            
-            
-            
- .. image:: /Images/termiantion_rate_preview.jpg
+
+.. image:: /Images/termiantion_rate_preview.jpg
