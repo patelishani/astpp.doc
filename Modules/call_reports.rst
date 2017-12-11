@@ -10,7 +10,10 @@ Call Reports
 **Related pages**
 
 .. toctree::
-    :maxdepth: 14
+    :maxdepth: 15
     
    CallReports/detail_reports.rst
-   Switch/gateways.rst
+   CallReports/summary_reports.rst
+   CallReports/live_call_reports.rst
+   CallReports/email_history_reports.rst
+  
