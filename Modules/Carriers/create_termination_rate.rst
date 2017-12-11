@@ -30,9 +30,8 @@ Create Termination Rate
   
 
   
-**Initial**	       Here specify cost which you have to take when call is initiate
-  
-**Increment**
+**Initial Increment**  Here specify cost which you have to take when call is initiate
+
   
   
 **Increment**	       Rate of increment to calculate call cost
