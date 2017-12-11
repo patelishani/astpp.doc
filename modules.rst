@@ -15,5 +15,7 @@ Modules
    Modules/dids.rst
    Modules/tariff.rst
    Modules/carriers.rst
+   Modules/switch.rst
+   Modules/call_reports.rst
 
 
