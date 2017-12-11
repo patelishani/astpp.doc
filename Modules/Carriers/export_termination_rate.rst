@@ -10,7 +10,7 @@ Below is an example with search option,
 
 
 
-.. image:: /Images/termination_rate_export_search.jpg
+ .. image:: /Images/termination_rate_export_search.jpg
   
   Exported .csv file,
   
