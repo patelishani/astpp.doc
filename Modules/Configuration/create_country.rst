@@ -3,7 +3,7 @@ Create Country
 ================
 
 
-.. image:: /Images/country_popup.png
+.. image:: /Images/county_popup.png
 
   
 **Countries Add/Edit Field description**
