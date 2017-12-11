@@ -8,7 +8,7 @@ Whatever information you configure in invoice configuration that will be shown i
 
 Basic information should be filled in this for like company name, address , website and contact information.
 
-To configure this go to Configuration -> Invoice Configuration.
+To configure this go to **Configuration -> Invoice Configuration**.
 
 
 
