@@ -5,9 +5,9 @@ Create Trunk
 	.. image:: /Images/create_trunk.png
   
   
-  **Trunk Add/Edit Form Fields Description:**
+ **Trunk Add/Edit Form Fields Description:**
   
-  ===========    =========================================================================================================
+  ============   =========================================================================================================
   Trunk name	 Trunk name
   
   Provider	 Select provider to whom this trunk belongs to
@@ -29,11 +29,9 @@ Create Trunk
   Codec          Enter codecs if you want call to use specific codecs only
                     
   Precedence     Priority of trunk                    
-  ===========    =========================================================================================================
+  ============   =========================================================================================================
   
   
-
-
 
 
 
