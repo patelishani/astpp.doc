@@ -3,7 +3,7 @@ Create Tax
 ================
 
 
-	.. image:: /Images/taxes_popup.png
+.. image:: /Images/taxes_popup.png
   
     
 **Add/Edit Taxes Form Fields Description**
