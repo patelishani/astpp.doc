@@ -9,9 +9,11 @@ Trunk is key module for LCR routing and associated with termination rates and pr
 **Top panel button**
 
 
-.. image:: /Images/create.png  To add new trunk
+.. image:: /Images/create.png  
 
-.. image:: /Images/deleted.png  To delete multiple trunks
+
+.. image:: /Images/deleted.png  
+
 
 
 
