@@ -3,4 +3,4 @@ Reseller
 ================
 
 
-	.. image:: /Images/reseller_cdrs.png
+.. image:: /Images/reseller_cdrs.png
