@@ -31,26 +31,26 @@ Global Settings
 **Version**	            ASTPP Version.
 
 **Did Global            Global number translation for DID.  
-Translation**
+  Translation**
 
 **Playback Audio        Global audio notification.
-Notification**
+  Notification**
 
 **Outbound Fax**        Set enable to allow outbound fax in call.  
 
 **Inbound Fax**         Set enable to allow inbound fax in call.
 
 **Refill Coupon         Set refill coupon generation lenght.
-Length**
+  Length**
 
 **Minimum Fund          Set minimum amount for fund transfer.
-Transfer**
+  Transfer**
 
 **Balance               To enable balance playback in call. 
-Announcement**
+  Announcement**
 
 **Minutes               To enable minute playback in call.
-Announcement** 
+  Announcement** 
 
 **Voicemail Number**    Voicemail listen number.
 =====================   ===========================================================================
