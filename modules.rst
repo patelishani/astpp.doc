@@ -17,5 +17,6 @@ Modules
    Modules/carriers.rst
    Modules/switch.rst
    Modules/call_reports.rst
+   Modules/configuration.rst
 
 
