@@ -34,6 +34,36 @@ Create Gateway
 =====================  ======================================= 	
 	
 
+**Optional Information**
+
+
+=====================    ====================================================================
+**From-Domain**          Domain url
+ 
+**From User**            From user : *optional* same as  username
+
+**Realm**
+ 
+**Extension**            Extensions to be registered with your voip provider
+ 
+**Expire Seconds**       Expire in seconds
+ 
+**Reg-Transport**        Which transport to use for register
+
+**Contact Params**
+ 
+**Ping**                 Send an options ping every x seconds, failure will unregister 
+			
+			 and/or mark it down
+ 
+**Retry-Seconds**        How many seconds before a retry when a failure or timeout occurs
+ 
+**Register-Proxy**       Send register to this proxy: *optional* same as proxy
+ 
+**Channel**             
+
+**Dialplan Variable**
+=====================    ====================================================================
 
 
   
