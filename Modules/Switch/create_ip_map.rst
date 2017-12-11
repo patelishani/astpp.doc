@@ -3,7 +3,7 @@ Create IP map(ACL)
 ===================
 
 
-.. image:: /Images/create_IP_map_3.0.png
+.. image:: /Images/Create_IP_map_3.0.png
   
   
   
