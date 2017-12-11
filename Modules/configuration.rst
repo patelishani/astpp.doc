@@ -4,6 +4,10 @@ Configuration
 
 
 
+.. image:: /Images/configuration_menu.png
+
+  
+  
   
   
   
