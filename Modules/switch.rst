@@ -4,8 +4,11 @@ Switch
 
 
 
-	.. image:: /Images/customer_invoices.png
-  
+
+.. image:: /Images/menu.png
+
+
+
   
   **Related pages**
   
