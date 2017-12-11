@@ -11,8 +11,6 @@ Switch
    
    
    
-   
-   
    **Related pages**
   
   .. toctree::
