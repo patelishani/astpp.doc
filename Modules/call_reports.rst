@@ -6,10 +6,11 @@ Call Reports
 .. image:: /Images/report.png
 
 
-  
+
 **Related pages**
-  
+
 .. toctree::
-    :maxdepth: 15
+    :maxdepth: 14
     
    CallReports/detail_reports.rst
+   Switch/gateways.rst
