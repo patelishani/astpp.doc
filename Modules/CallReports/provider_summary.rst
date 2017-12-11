@@ -3,4 +3,4 @@ Provider Summary
 ================
 
 
-	.. image:: /Images/provider_summary.png
+.. image:: /Images/provider_summary.png
