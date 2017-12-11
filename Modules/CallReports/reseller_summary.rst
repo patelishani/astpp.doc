@@ -3,4 +3,4 @@ Reseller Summary
 ================
 
 
-	.. image:: /Images/customer_summary_img.png
+.. image:: /Images/reseller_summary_img.png
