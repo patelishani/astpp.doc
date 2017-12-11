@@ -12,4 +12,4 @@ Switch
   .. toctree::
     :maxdepth: 13
     
-     /Switch/sip_devices.rst
+    /Switch/sip_devices.rst
