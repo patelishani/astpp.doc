@@ -3,7 +3,7 @@ Switch
 =========
 
 
-.. image:: /Images/carriers_menu.png
+.. image:: /Images/menu.png
 
 
 **Related pages**
