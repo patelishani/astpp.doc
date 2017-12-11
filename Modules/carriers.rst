@@ -11,7 +11,7 @@ Carriers
     :maxdepth: 13
     
    Carriers/trunk.rst
-   Carriers/termination_rate.rst
+   Carriers/termination_rates.rst
    
 
 
