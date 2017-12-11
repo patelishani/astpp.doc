@@ -9,7 +9,7 @@ SIP Profiles
 .. toctree::
     :maxdepth: 14
     
-  create_gateway.rst
+  create_sip_profile.rst
 
 
 
