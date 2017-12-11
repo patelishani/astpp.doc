@@ -22,7 +22,7 @@ click on process and it will import those rates in system.
     
 
 
-.. image:: /Images/termiantion_rate_preview.jpg      
+.. image:: /Images/termination_rate_preview.jpg      
 
 
 
