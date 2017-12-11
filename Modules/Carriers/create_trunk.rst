@@ -4,7 +4,7 @@ Create Trunk
 
 
 
- .. image:: /Images/create_trunk.png
+.. image:: /Images/create_trunk.png
   
   
   
