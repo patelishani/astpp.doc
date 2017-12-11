@@ -2,7 +2,14 @@
 Create Termination Rate
 ========================
 
-	.. image:: /Images/create_termination_rate.png
+
+
+
+.. image:: /Images/create_termination_rate.png
+	
+	
+	
+	
   
 ====================   =========================================================================================
  **Trunk**	           Select trunk for termination rate
