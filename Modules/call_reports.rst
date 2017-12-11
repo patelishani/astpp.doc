@@ -10,6 +10,6 @@ Call Reports
 **Related pages**
   
 .. toctree::
-    :maxdepth: 14
+    :maxdepth: 15
     
-     CallReports/detail_reports.rst
+   CallReports/detail_reports.rst
