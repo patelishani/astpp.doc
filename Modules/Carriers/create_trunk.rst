@@ -12,11 +12,11 @@ Create Trunk
  **Trunk Add/Edit Form Fields Description:**
   
   ============   =========================================================================================================
-  Trunk name	 Trunk name
+  Trunk name	   Trunk name
   
-  Provider	 Select provider to whom this trunk belongs to
+  Provider	     Select provider to whom this trunk belongs to
   
-  Gateway	 Select gateway on which call will be terminated
+  Gateway	       Select gateway on which call will be terminated
   
   Failover       Select failover gateway on which call will be terminated. If primary gateway failed in 
   Gateway 
