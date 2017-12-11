@@ -5,7 +5,7 @@ Create SIP Profile
 
 	
 	
- .. image:: /Images/create_sip_profile_3.0.png
+.. image:: /Images/create_sip_profile_3.0.png
   
   
   
