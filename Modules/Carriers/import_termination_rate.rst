@@ -12,7 +12,7 @@ Import Termination Rate
           
           
           	
- .. image:: /Images/impoer_termination_rate.png
+ .. image:: /Images/import_termination_rate.png
 
 
 
