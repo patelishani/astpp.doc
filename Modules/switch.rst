@@ -13,12 +13,12 @@ Switch
 .. toctree::
     :maxdepth: 14
     
-   /Switch/sip_devices.rst
-   /Switch/gateways.rst
-   /Switch/sip_profiles.rst
-   /Switch/freeswitch_server.rst
-   /Switch/ip_map.rst
-   /Switch/caller_id_list.rst
+  /Switch/sip_devices.rst
+  /Switch/gateways.rst
+  /Switch/sip_profiles.rst
+  /Switch/freeswitch_server.rst
+  /Switch/ip_map.rst
+  /Switch/caller_id_list.rst
 
 
 
