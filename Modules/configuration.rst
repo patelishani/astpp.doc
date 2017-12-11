@@ -20,7 +20,7 @@ Configuration
    Configuration/taxes.rst
    Configuration/email_templates.rst
    Configuration/countries.rst
-   Configuration/curriences.rst
+   Configuration/currencies.rst
    Configuration/database_restore.rst
    Configuration/settings.rst
   
