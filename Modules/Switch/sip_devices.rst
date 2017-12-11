@@ -4,7 +4,7 @@ Sip Devices
 
 To navigate this Menu System Switch -> SIP Devices
 
-	.. image:: /Images/SIP_device.png
+.. image:: /Images/SIP_device.png
   
   
   
