@@ -9,7 +9,7 @@ Create Trunk
   
   
   
- **Trunk Add/Edit Form Fields Description:**
+  **Trunk Add/Edit Form Fields Description:**
   
   ============   =========================================================================================================
   Trunk name	   Trunk name
