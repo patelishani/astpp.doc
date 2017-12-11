@@ -1,5 +1,5 @@
 =====================
-Email History Reports
+Email History List
 =====================
 
 
