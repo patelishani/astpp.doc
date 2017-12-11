@@ -1,0 +1,23 @@
+==================
+Create SIP Profile
+==================
+
+
+	.. image:: /Images/create_sip_profile-3.0.png
+  
+  
+**Sip Profile List Add/Edit Form Fields Description:**
+
+
+=====================   ================================================================================
+**SIP Profile name**	  Name of sip profile
+
+**sip-ip**	            IP address to bind to for SIP traffic. DO NOT USE HOSTNAMES, ONLY IP ADDRESSES
+
+**sip-port**	          Port to bind to for SIP traffic
+
+**Status**	            Active / Inactive
+=====================   ================================================================================  
+  
+
+
