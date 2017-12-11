@@ -3,4 +3,4 @@ Provider
 ================
 
 
-	.. image:: /Images/provider_cdrs.png
+	.. image:: /Images/provider_crds.png
