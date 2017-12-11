@@ -12,7 +12,7 @@ Import Termination Rate
           
           
           	
-.. image:: /Images/impoer_termination_rate.png
+ .. image:: /Images/impoer_termination_rate.png
 
 
 
@@ -24,4 +24,4 @@ correct. Once you confirm then click on process and it will import those rates i
             
             
             
-.. image:: /Images/termiantion_rate_preview.jpg
+ .. image:: /Images/termiantion_rate_preview.jpg
