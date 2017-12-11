@@ -12,3 +12,8 @@ Freeswitch Server is use to store freeswitch server details with host and locati
 Once is there any changes are done in Gateways or sip profiles at that time its need to reload Freeswitch servers that 
 time this information are useful to reload freeswitch.
 
+
+.. toctree::
+    :maxdepth: 14
+    
+  create_freeswitch_server.rst
