@@ -3,5 +3,5 @@ Gateways
 ================
 
 
-.. image:: /gateway.png
+.. image:: /Images/gateway.png
 
