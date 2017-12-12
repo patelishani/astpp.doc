@@ -11,6 +11,9 @@ options available described below.
 
 Paid Support : Paid support is available from ASTPP.
 
+`Paid Support
+<http://www.astppbilling.org/>`_.
+
 Managed Installations: Stable and secure installations can be performed by us with training and optionally, ongoing support.
 
 
