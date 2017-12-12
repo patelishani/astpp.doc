@@ -8,7 +8,7 @@ Countries
 
   
 .. toctree::
-    :maxdepth: 16
+    :maxdepth: 4
     
     create_country.rst
     
