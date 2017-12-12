@@ -25,6 +25,24 @@ Quick Start
 +----------------------------------------------------------------------------------+
 
 
+
+Click on |ImageLink|_
+
+.. |ImageLink| image:: /Images/youtube_logo1.png
+
+.. _ImageLink: http://php.net/
+
+
+
+
+
+
+
+
+
+
+
+
 Create new Customer or Reseller and assign your created rate group. For customer add SIP Device from View Account or Freeswitch SIP Devices.
 
 For reseller configuration, create new reseller. Login as reseller. Add Routes. Create customers and then make calls using that customer.
