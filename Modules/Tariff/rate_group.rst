@@ -8,7 +8,7 @@ Rate group is an important module of ASTPP. This belongs to customer and rating.
 
 
 .. toctree::
-    :maxdepth: 11
+    :maxdepth: 4
    create_rate_group.rst
 
 
