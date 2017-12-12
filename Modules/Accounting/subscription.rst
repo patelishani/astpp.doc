@@ -17,6 +17,6 @@ type of subscription packages from this module and assign it to entire rate grou
 ===============================	================================
 	
 .. toctree::
-    :maxdepth: 9
+    :maxdepth: 4
     
    create_subscription.rst
