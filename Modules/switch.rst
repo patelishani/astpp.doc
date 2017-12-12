@@ -9,7 +9,7 @@ Switch
 **Related pages**
 
 .. toctree::
-    :maxdepth: 14
+    :maxdepth: 3
     
    Switch/sip_devices.rst
    Switch/gateways.rst
