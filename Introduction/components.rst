@@ -6,7 +6,7 @@ Components
 
 
   .. image:: /Images/astpp_combo_technologies.png
-
+     :align: center
   
   
   
