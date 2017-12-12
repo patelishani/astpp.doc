@@ -14,6 +14,6 @@ time this information are useful to reload freeswitch.
 
 
 .. toctree::
-    :maxdepth: 14
+    :maxdepth: 4
     
   create_freeswitch_server.rst
