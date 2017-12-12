@@ -9,7 +9,7 @@ For creating resellers, admins and sub-admins, we have similar process.
 
 
 .. image:: /Images/cutomer_add.png
-.. image:: _/Images/youtube.png
+.. image:: Images/youtube.png
 
 **Create Customer Account Form Fields Details:**
 
