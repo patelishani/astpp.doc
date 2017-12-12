@@ -34,8 +34,7 @@ Register it and make outbound calls.
 
 
 
-.. image:: Account_icon.png
-   :target: pageapplet/index.html
+
 
 Click on my |ImageLink|_
 
