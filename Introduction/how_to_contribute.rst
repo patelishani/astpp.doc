@@ -4,7 +4,7 @@ How to Contribute
 
 **1.Become a tester and report bugs in bug tracker**: Here is the link https://github.com/iNextrix/ASTPP/issues
 
-**2.Write or improve our project documentation** : Which is me :)
+**2.Write or improve our project documentation** : Which is me .. image:: /Images/smile.png
 
 **3.Become a translator** : If you have good command over other language then here is one more options for you to become a translator for documentation or portal labels.
 
