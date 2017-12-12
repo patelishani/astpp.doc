@@ -35,7 +35,7 @@ Register it and make outbound calls.
 
 
 
- Click on |ImageLink|_
+    Click on |ImageLink|_
 
 .. |ImageLink| image:: /Images/youtube_logo1.png
 
