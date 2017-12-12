@@ -89,7 +89,9 @@ Email Address          E-mail address to get Low credit notification.
 
 
 
-.. image:: /Images/youtube1.png
+
+
+.. image:: /Images/youtube.png
 
 
 
