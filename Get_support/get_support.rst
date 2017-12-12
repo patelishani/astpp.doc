@@ -16,7 +16,9 @@ options available described below.
                              and optionally, ongoing support.
 
 
+Python_ is `my favourite
+programming language`__.
 
-like Python_
 .. _Python: http://www.python.org/
 
+__ Python_ 
