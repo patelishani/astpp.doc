@@ -8,7 +8,7 @@ Carriers
 **Related pages**
 
 .. toctree::
-    :maxdepth: 13
+    :maxdepth: 3
     
    Carriers/trunk.rst
    Carriers/termination_rates.rst
