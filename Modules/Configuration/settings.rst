@@ -4,7 +4,7 @@ Settings
 
 
 .. toctree::
-    :maxdepth: 16
+    :maxdepth: 4
     
    global_settings.rst
    email_settings.rst
