@@ -7,6 +7,6 @@ Currencies
 
 
 .. toctree::
-    :maxdepth: 16
+    :maxdepth: 4
     
    create_currency.rst
