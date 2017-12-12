@@ -101,9 +101,9 @@ CentOs 7 Installation V3.5
 **3. Install ASTPP pre-requisite packages** 
 ::
   
-   yum install -y autoconf automake bzip2 cpio curl nginx php-fpm php-mcrypt* unixODBC mysql-connector-odbc curl-devel 
-   php php-devel php-common php-cli php-gd php-pear php-mysql php-mbstring sendmail sendmail-cf php-pdo php-pecl-json 
-   mysql mariadb-server mysql-devel libxml2 libxml2-devel openssl openssl-devel gettext-devel fileutils gcc-c++
+yum install -y autoconf automake bzip2 cpio curl nginx php-fpm php-mcrypt* unixODBC mysql-connector-odbc curl-devel php 
+php-devel php-common php-cli php-gd php-pear php-mysql php-mbstring sendmail sendmail-cf php-pdo php-pecl-json mysql
+mariadb-server mysql-devel libxml2 libxml2-devel openssl openssl-devel gettext-devel fileutils gcc-c++
 
 
 **4. Normalize ASTPP** 
