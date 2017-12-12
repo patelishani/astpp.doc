@@ -6,7 +6,7 @@ Accounting
 **Related pages**
 
 .. toctree::
-   :maxdepth: 8
+   :maxdepth: 3
      
    Accounting/invoices.rst
    Accounting/subscription.rst
