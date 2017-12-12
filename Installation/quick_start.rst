@@ -35,7 +35,7 @@ Register it and make outbound calls.
 
 Click on |ImageLink|_
 
-.. |ImageLink| image:: /Images/youtube-logo.png
+.. |ImageLink| image:: /Images/youtube.png
 .. _ImageLink: http://php.net/
 
 
