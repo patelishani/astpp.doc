@@ -18,7 +18,7 @@ To create Taxes go to Accounting menu in ASTPP portal. From popup select Taxes i
 You can create new taxes by clicking on Create button.
   
 .. toctree::
-    :maxdepth: 16
+    :maxdepth: 4
     
    create_tax.rst
    
