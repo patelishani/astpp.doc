@@ -8,12 +8,9 @@ We have provided installation and operation instructions with online help to ass
 own ASTPP Platform. However from time to time you may need some clarification or support. There are a number of 
 options available described below.
 
-
-Paid Support : Paid support is available from ASTPP.
-
 `Paid Support
-<http://www.astppbilling.org/>`_.
+<http://www.astppbilling.org/>`_.: Paid support is available from ASTPP.
 
-Managed Installations: Stable and secure installations can be performed by us with training and optionally, ongoing support.
+`Managed Installations<http://www.astppbilling.org/installation/>`_.: Stable and secure installations can be performed by us with training and optionally, ongoing support.
 
 
