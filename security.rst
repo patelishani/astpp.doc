@@ -14,7 +14,7 @@ Fail2Ban is available at fail2ban.org as well as more documentation.
 **Related pages**
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 2
 
    Security/apache_authentication.rst
    Security/secure_freeswitch.rst
