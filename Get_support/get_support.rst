@@ -13,6 +13,10 @@ options available described below.
 
 `Managed Installations
 `<http://www.python.org/>`_: Stable and secure installations can be performed by us with training 
-                                                 and optionally, ongoing support.
+                             and optionally, ongoing support.
 
+
+
+like Python_
+.. _Python: http://www.python.org/
 
