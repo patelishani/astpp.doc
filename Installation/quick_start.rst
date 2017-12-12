@@ -26,22 +26,6 @@ Quick Start
 
 
 
-Click on |ImageLink|_
-
-.. |ImageLink| image:: /Images/youtube_logo1.png
-
-.. _ImageLink: https://youtu.be/mQpAptAETp8
-
-
-
-
-
-
-
-
-
-
-
 
 Create new Customer or Reseller and assign your created rate group. For customer add SIP Device from View Account or Freeswitch SIP Devices.
 
@@ -51,7 +35,11 @@ Register it and make outbound calls.
 
 
 
+ Click on |ImageLink|_
 
+.. |ImageLink| image:: /Images/youtube_logo1.png
+
+.. _ImageLink: https://youtu.be/mQpAptAETp8
 
 
 
