@@ -11,7 +11,7 @@ We can consider origination rates as customer rates / sell rates as these rates 
   **Related pages**
   
   .. toctree::
-    :maxdepth: 12
+    :maxdepth: 4
    
    create_origination_rate.rst
    import_origination_rate.rst
