@@ -13,8 +13,7 @@ Questions
 **General Questions**
 
  1. Is this solution completely open source?
-    
-    Yeah.
+ Yeah.
     
  2. What kind of license does it have?
     
