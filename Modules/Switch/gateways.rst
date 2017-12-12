@@ -6,7 +6,7 @@ Gateways
 .. image:: /Images/gateway.png
 
 .. toctree::
-    :maxdepth: 14
+    :maxdepth: 4
     
   create_gateway.rst  
    
