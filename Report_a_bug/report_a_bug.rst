@@ -3,6 +3,8 @@ Report a Bug
 ================
 
 
+
+
 Please feel free to report in our bug tracker below in case of any issues you find:
 
 https://github.com/iNextrix/ASTPP/issues
