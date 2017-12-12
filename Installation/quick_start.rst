@@ -31,3 +31,19 @@ For reseller configuration, create new reseller. Login as reseller. Add Routes. 
 
 Register it and make outbound calls.
 
+
+
+
+.. image:: Account_icon.png
+   :target: pageapplet/index.html
+
+Click on my |ImageLink|_
+
+.. |ImageLink| image:: /Images/Account_icon.png
+.. _ImageLink: http://php.net/
+
+
+
+
+
+
