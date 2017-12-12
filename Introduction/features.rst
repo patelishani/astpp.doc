@@ -464,6 +464,7 @@ Features
    </div>
    <div>
    <b><span style=3D"color: rgb(44,44,45);">Reseller</span><b>
+   <br>
    <div>
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
@@ -499,6 +500,7 @@ Features
    </div>
    <div>
    <b><span style=3D"color: rgb(44,44,45);">Customer / Provider</span></b>
+   </br>
    <div>
    <p style=3D"margin-left: 30.0px;"><span class=3D"confluence-embedded-file-w=
    rapper"><img class=3D"confluence-embedded-image confluence-external-resourc=
