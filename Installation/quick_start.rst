@@ -35,11 +35,11 @@ Register it and make outbound calls.
 
 
 
-    Click on |ImageLink|_
+   
 
-.. |ImageLink| image:: /Images/youtube_logo1.png
+..  image:: /Images/youtube_logo1.png
 
-.. _ImageLink: https://youtu.be/mQpAptAETp8
+
 
 
 
