@@ -90,24 +90,24 @@ Questions
       Enable short_open_tag in php.ini and then restart apache.
 
 
-   7.Why I am not able to register extensions after installation?
-      Make sure you have configured your IP in Sip Profile and your registration request is reaching to server.
+  7.Why I am not able to register extensions after installation?
+     Make sure you have configured your IP in Sip Profile and your registration request is reaching to server.
 
 
-   8.How to verify if ASTPP and FreeSWITCH communicating properly?
-      Default sip profile must be loaded in FreeSWITCH
+  8.How to verify if ASTPP and FreeSWITCH communicating properly?
+     Default sip profile must be loaded in FreeSWITCH
 
 
-   9.While login I am getting “Unable to connect to your database server using the provided settings” error.
-      Please check your database credentials. ASTPP uses /var/lib/astpp/astpp-config.conf file for database connection.
+  9.While login I am getting “Unable to connect to your database server using the provided settings” error.
+     Please check your database credentials. ASTPP uses /var/lib/astpp/astpp-config.conf file for database connection.
 
 
-   10.How can I do IP Authentication for my customers?
-       Configure your customer IP under Customers -> IP Settings
+  10.How can I do IP Authentication for my customers?
+      Configure your customer IP under Customers -> IP Settings
 
 
-   11.Does CDRs report will show all data ?
-       No, CDRs report will only record of current day. If you want to see record of previous days record then you need 
+  11.Does CDRs report will show all data ?
+      No, CDRs report will only record of current day. If you want to see record of previous days record then you need 
        to search.
 
 
