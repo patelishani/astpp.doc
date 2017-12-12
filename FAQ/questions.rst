@@ -2,7 +2,7 @@
 Questins
 =========
 
-**Two Type Of Questions:**
+**Two Types Of Questions:**
 
 1.General Questions
 
@@ -23,11 +23,11 @@ Questins
  4. Where ASTPP can be used?
     It can be used in small scale as well as large scale carrier setup.
 
- 5.  What do i need to setup ASTPP on my system?
-     You just need to have system with above defined OS and then you will be able to setup ASTPP on that.
+ 5. What do i need to setup ASTPP on my system?
+    You just need to have system with above defined OS and then you will be able to setup ASTPP on that.
 
  6. Which OS are preferable for ASTPP?
-   It is strongly recommended that ASTPP be deployed on the Linux distribution CentOS version 7.x or Debian version 8.x
+    It is strongly recommended that ASTPP be deployed on the Linux distribution CentOS version 7.x or Debian version 8.x
 
  7. What is the minimum hardware requirement?
     CentOS 7.X OR Debian 8.x,
@@ -46,10 +46,10 @@ Questins
      You can simply send your code to us for review and we will include it in open source version.
      You can donate us at paypal account billing@inextrix.com 
 
-  11. Do you offer support?
-      Yeah we do offer installation, configuration, on demand support, recurring support & custom development. 
-      You can check our pricing from http://astpp.inextrix.com/cart.php. For custom development, you can drop an email to 
-      us at sales@inextrix.com OR use http://astpp.inextrix.com/contact.php
+ 11. Do you offer support?
+     Yeah we do offer installation, configuration, on demand support, recurring support & custom development. 
+     You can check our pricing from http://astpp.inextrix.com/cart.php. For custom development, you can drop an email to 
+     us at sales@inextrix.com OR use http://astpp.inextrix.com/contact.php
 
 
 
