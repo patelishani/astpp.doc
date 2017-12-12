@@ -44,7 +44,7 @@ Alert Threshold       Here we can set low balance email notification.
 **Related pages**
 
 .. toctree::
-    :maxdepth: 7
+    :maxdepth: 4
    
    account_details.rst
    customer_sip_devices.rst
