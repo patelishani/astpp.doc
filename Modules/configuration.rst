@@ -14,7 +14,7 @@ Configuration
 **Related pages**
 
 .. toctree::
-    :maxdepth: 16
+    :maxdepth: 3
     
    Configuration/invoice_configuration.rst
    Configuration/taxes.rst
