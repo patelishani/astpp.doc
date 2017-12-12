@@ -16,7 +16,7 @@ There are many email template so user can modify that template accordingly their
 
 
 .. toctree::
-    :maxdepth: 16
+    :maxdepth: 4
     
    edit_email_template.rst
    
