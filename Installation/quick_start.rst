@@ -33,12 +33,9 @@ Register it and make outbound calls.
 
 
 
-
-
-
 Click on my |ImageLink|_
 
-.. |ImageLink| image:: /Images/Account_icon.png
+.. |ImageLink| image:: /Images/youtube.png
 .. _ImageLink: http://php.net/
 
 
