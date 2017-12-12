@@ -11,7 +11,7 @@ Customers can take benefit of this and can make free calls to selected destinati
   **Related pages**
   
   .. toctree::
-    :maxdepth: 12
+    :maxdepth: 4
     
    create_package.rst
    package_codes.rst
