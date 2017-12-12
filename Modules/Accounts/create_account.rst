@@ -3,7 +3,23 @@ Create Account
 ================
 
 
-Once you click on Create Customer button, it will show you page to create new account like below screenshot. Enter appropriate information in page and click on save button to create account successfully. 
+
+
+Click on |ImageLink|_
+
+.. |ImageLink| image:: /Images/youtube_logo1.png
+
+.. _ImageLink: http://php.net/
+
+
+
+
+
+
+
+
+Once you click on Create Customer button, it will show you page to create new account like below screenshot.
+Enter appropriate information in page and click on save button to create account successfully. 
 
 For creating resellers, admins and sub-admins, we have similar process.
 
