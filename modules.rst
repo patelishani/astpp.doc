@@ -6,7 +6,7 @@ Modules
 
 
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 2
 
    Modules/login.rst
    Modules/dashboard.rst
