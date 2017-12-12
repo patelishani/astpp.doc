@@ -14,6 +14,6 @@ options available described below.
 `managed Installation 
 <http://www.astppbilling.org/installation/>`_.  Stable and secure installations can be performed by us with training and 
 
-                                                optionally,ongoing support.
+optionally,ongoing support.
                                                  
                              
