@@ -11,15 +11,8 @@ options available described below.
 `Paid Support
 <http://www.astppbilling.org/>`_.: Paid support is available from ASTPP.
 
-`Managed Installations
-`<http://www.python.org/>`_: Stable and secure installations can be performed by us with training 
-                             and optionally, ongoing support.
-
-
-`Managed Instalation_ :Stable and secure installations can be performed by us with training 
-                       and optionally, ongoing support.
-
 
 `managed Installation 
-<http://www.python.org/>`_.  Stable and secure installations can be performed by us with training 
-                             and optionally, ongoing support.
+<http://www.astppbilling.org/installation/>`_.  Stable and secure installations can be performed by us with training 
+and optionally,ongoing support.
+                             
