@@ -28,7 +28,7 @@ Quick Start
 
 Click on |ImageLink|_
 
-.. |ImageLink| image:: /Images/youtube_logo1.png
+.. |ImageLink| image:: /Images/Account_icon.png
 .. _ImageLink: http://php.net/
 
 
