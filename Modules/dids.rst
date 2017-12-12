@@ -28,7 +28,7 @@ ASTPP gives you various options like LOCAL, PSTN and OTHER to route incoming cal
 **Related pages**
 
 .. toctree::
-    :maxdepth: 10
+    :maxdepth: 3
     
    DIDs/create_dids.rst
    DIDs/import_dids.rst
