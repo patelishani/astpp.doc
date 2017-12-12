@@ -5,9 +5,12 @@ Components
 
 
 
-.. image:: /Images/astpp_combo_technologies.png
+  .. image:: /Images/astpp_combo_technologies.png
 
-
+  
+  
+  
+  
 
  - Nginx (http://nginx.com/)
     - NGINX accelerates content and application delivery, improves security, facilitates availability and scalability for 
