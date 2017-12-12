@@ -36,6 +36,10 @@ Register it and make outbound calls.
 Click on my |ImageLink|_
 
 .. |ImageLink| image:: /Images/youtube.png
+               :height: 100px
+               :width: 200 px
+               :scale: 50 %
+               :alt: alternate text
 .. _ImageLink: http://php.net/
 
 
