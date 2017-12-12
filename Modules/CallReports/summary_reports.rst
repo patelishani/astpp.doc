@@ -9,7 +9,7 @@ Summary Reports
 **Related pages**
 
 .. toctree::
-    :maxdepth: 15
+    :maxdepth: 4
     
    customer_summary.rst
    reseller_summary.rst
