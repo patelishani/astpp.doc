@@ -7,10 +7,10 @@ ASTPP is an Open Source VoIP Billing Solution for Freeswitch. It supports pre-pa
    :maxdepth: 1
 
    Introduction/introduction.rst
-   installation.rst
-   security.rst
-   service_monitoring.rst
-   modules.rst
-   faq.rst
+   Installation/installation.rst
+   Security/security.rst
+   Service_monitoring/service_monitoring.rst
+   Modules/modules.rst
+   FAQ/faq.rst
    Report_a_bug/report_a_bug.rst
    Get_support/get_support.rst
