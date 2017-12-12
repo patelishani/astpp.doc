@@ -13,18 +13,15 @@ Questions
 **General Questions**
 
  1. Is this solution completely open source?
-    
-    Yeah.
+     Yeah.
     
     
  2. What kind of license does it have?
-    
-    GNU AGPL3 More info : https://www.gnu.org/licenses/agpl-3.0.en.html
+     GNU AGPL3 More info : https://www.gnu.org/licenses/agpl-3.0.en.html
 
 
  3. Is there any limitation of using ASTPP?
-   
-    Nope. There is no limitation of using ASTPP. You can use it anywhere.
+      Nope. There is no limitation of using ASTPP. You can use it anywhere.
 
 
  4. Where ASTPP can be used?
