@@ -16,9 +16,10 @@ options available described below.
                              and optionally, ongoing support.
 
 
-Python_ is `my favourite
-programming language`__.
+`Managed Instalation_ :Stable and secure installations can be performed by us with training 
+                       and optionally, ongoing support.
 
-.. _Python: http://www.python.org/
 
-__ Python_ 
+`managed Installation 
+<http://www.python.org/>`_.  Stable and secure installations can be performed by us with training 
+                             and optionally, ongoing support.
