@@ -10,12 +10,13 @@ Before dialing number to gateway, system will do LCR process in termination rate
 and dial out using that. 
 
 
-	.. image:: /Images/termination_rates.png
+.. image:: /Images/termination_rates.png
+
   
-  **Related pages**
+**Related pages**
   
-  .. toctree::
-    :maxdepth: 13
+.. toctree::
+    :maxdepth: 4
     
    create_termination_rate.rst
    import_termination_rate.rst
