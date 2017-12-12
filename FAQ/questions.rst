@@ -90,7 +90,7 @@ Questions
       Enable short_open_tag in php.ini and then restart apache.
 
 
-  7.Why I am not able to register extensions after installation?
+   7.Why I am not able to register extensions after installation?
      Make sure you have configured your IP in Sip Profile and your registration request is reaching to server.
 
 
