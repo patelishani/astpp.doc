@@ -90,8 +90,11 @@ Email Address          E-mail address to get Low credit notification.
 
 `How to Create 
 <https://youtu.be/YgfcuybxlXg/>`_ 
+:float: left
 
-.. image:: /Images/yt_favicon.png      
+.. image:: /Images/yt_favicon.png    
+                                      
+
 
 
 
