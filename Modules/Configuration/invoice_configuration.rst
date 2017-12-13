@@ -13,3 +13,10 @@ To configure this go to **Configuration -> Invoice Configuration**.
 
 
 .. image:: /Images/company_profile_banner.png
+
+
+
+|image| `How to do invoice configuration
+<https://youtu.be/F2ZOrhtMLTg>`_ 
+
+.. |image| image:: /Images/yt_favicon.png
