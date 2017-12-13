@@ -14,7 +14,7 @@ For creating resellers, admins and sub-admins, we have similar process.
 
 
 
-.. image:: /Images/youtube_logo1.png
+.. image:: /Images/u_logo.png
 
 
 
