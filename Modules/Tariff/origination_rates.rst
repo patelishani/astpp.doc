@@ -10,7 +10,7 @@ We can consider origination rates as customer rates / sell rates as these rates 
 .. image:: /Images/origination_rates.png
 
   
- **Related pages**
+**Related pages**
   
 .. toctree::
     :maxdepth: 4
