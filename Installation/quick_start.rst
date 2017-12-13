@@ -39,7 +39,7 @@ Register it and make outbound calls.
 
    
 
-.. image:: /Images/youtube_logo1.png
+.. image:: /Images/yt_fevicon.png
 
 
 
