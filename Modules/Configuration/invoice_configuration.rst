@@ -19,4 +19,4 @@ To configure this go to **Configuration -> Invoice Configuration**.
 |image| `How to do invoice configuration
 <https://youtu.be/F2ZOrhtMLTg>`_ 
 
-.. |image| image:: /Images/yt_favicon.png
+.. |image| image:: /Images/favicon.png
