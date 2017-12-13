@@ -70,7 +70,10 @@ You can create new DID using below page,
 
 
 
+|image| `How to Create 
+<https://youtu.be/60kP7QmH2A8>`_ 
 
+.. |image| image:: /Images/yt_favicon.png
 
 
 
