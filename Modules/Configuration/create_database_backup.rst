@@ -17,4 +17,4 @@ Create Database Backup
 |image| `How to take database backup 
 <https://youtu.be/nQwiQsJhvbU>`_ 
 
-.. |image| image:: /Images/yt_favicon.png
+.. |image| image:: /Images/favicon.png
