@@ -70,7 +70,7 @@ Create Gateway
 |image| `How to create gateway
 <https://youtu.be/RbW_4p5tJA8>`_ 
 
-.. |image| image:: /Images/yt_favicon.png	
+.. |image| image:: /Images/favicon.png	
 
 
   
