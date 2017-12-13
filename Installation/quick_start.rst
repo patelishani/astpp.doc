@@ -42,7 +42,7 @@ Register it and make outbound calls.
 <https://youtu.be/mQpAptAETp8>`_ 
 
 
-.. |image| image:: /Images/yt_favicon.png
+.. |image| image:: /Images/favicon.png
    
 
 
