@@ -26,4 +26,4 @@ Create Tax
 |image| `How to create tax 
 <https://youtu.be/m_u845CDRDg>`_ 
 
-.. |image| image:: /Images/yt_favicon.png
+.. |image| image:: /Images/favicon.png
