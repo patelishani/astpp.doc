@@ -92,7 +92,7 @@ Email Address          E-mail address to get Low credit notification.
 <https://youtu.be/YgfcuybxlXg>`_ 
 
 
-.. |image| image:: /Images/yt_favicon.png  
+.. |image| image:: /Images/favicon.png  
                                       
 
 
