@@ -17,3 +17,10 @@ Create Freeswitch Server
   
 **Port**	    Port of freeswitch
 ============  ===================================
+
+
+
+|image| `How to create freeswitch server 
+<https://youtu.be/nTpwOYjvUw4>`_ 
+
+.. |image| image:: /Images/yt_favicon.png
