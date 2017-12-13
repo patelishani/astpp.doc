@@ -39,11 +39,10 @@ Register it and make outbound calls.
 
    
 `How to Create 
-<https://youtu.be/YgfcuybxlXg/>`_ 
+<https://youtu.be/YgfcuybxlXg/>`_ |biohazard|
 
-.. image:: /Images/yt_favicon.png
-   :align: left
-
+.. |biohazard| image:: /Images/yt_favicon.png
+   
 
 
 
