@@ -44,7 +44,10 @@ Register it and make outbound calls.
 .. image:: /Images/yt_favicon.png
 
 
+HOw to create |ImageLink|_
 
+.. |ImageLink| image:: /images/yt_favicon.png
+.. _ImageLink: https://youtu.be/YgfcuybxlXg/
 
 
 
