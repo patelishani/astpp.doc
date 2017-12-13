@@ -41,7 +41,10 @@ Send All Message	  If it set true then user will get all message
 
 
 
+|image| `How to create SIP device 
+<https://youtu.be/lAvCsHpXQh8>`_ 
 
+.. |image| image:: /Images/yt_favicon.png
 
 
 
