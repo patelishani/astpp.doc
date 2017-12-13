@@ -73,7 +73,7 @@ You can create new DID using below page,
 |image| `How to create DID 
 <https://youtu.be/60kP7QmH2A8>`_ 
 
-.. |image| image:: /Images/yt_favicon.png
+.. |image| image:: /Images/favicon.png
 
 
 
