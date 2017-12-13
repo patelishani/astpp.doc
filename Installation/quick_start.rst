@@ -47,6 +47,7 @@ Register it and make outbound calls.
 HOw to create |ImageLink|_
 
 .. |ImageLink| image:: /images/yt_favicon.png
+
 .. _ImageLink: https://youtu.be/YgfcuybxlXg/
 
 
