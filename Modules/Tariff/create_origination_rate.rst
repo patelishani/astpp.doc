@@ -8,6 +8,7 @@ Create Origination Rate
  
  
  **Origination Rates Add Form Fields Description:** 
+ 
   
  =====================    =================================================================================== 
  **Rate Group**	          Select the rate group for origination rate
@@ -24,7 +25,7 @@ Create Origination Rate
   
  **Per Minute Cost**	     Cost per minute
   
- **Increment**	          Rate of increment to calculate call cost
+ **Increment**	           Rate of increment to calculate call cost
  
                           Example : 60 to charge every minute
              
