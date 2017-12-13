@@ -45,7 +45,7 @@ Create Termination Rate
 
   
   |image| `How to create termination rate 
-<https://youtu.be/gRGJ-gO22GM>`_ 
+   <https://youtu.be/gRGJ-gO22GM>`_ 
 
 .. |image| image:: /Images/yt_favicon.png
   
