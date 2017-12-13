@@ -36,7 +36,10 @@ Create Trunk
   ============   =========================================================================================================
   
   
+|image| `How to create trunk 
+<https://youtu.be/xZ52dP3oEnM>`_ 
 
+.. |image| image:: /Images/yt_favicon.png
 
 
 
