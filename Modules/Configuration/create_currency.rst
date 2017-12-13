@@ -16,3 +16,9 @@ Create Currency
   
 **Rate**	Rate of currency
 ========= ===================
+
+
+|image| `How to create currency 
+<https://youtu.be/VBCK_wLXO0Q>`_ 
+
+.. |image| image:: /Images/yt_favicon.png
