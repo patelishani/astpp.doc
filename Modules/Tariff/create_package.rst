@@ -31,7 +31,7 @@ Create Package
 |image| `How to create package 
 <https://youtu.be/uK06haMYjxI>`_ 
 
-.. |image| image:: /Images/yt_favicon.png
+.. |image| image:: /Images/favicon.png
 
 
 
