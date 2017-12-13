@@ -11,3 +11,9 @@ Create Country
 ========= ====================================  
 **Name**	Here write down the name of country
 ========= ==================================== 
+
+
+|image| `How to create country
+<https://youtu.be/VTvslLzNHkg>`_ 
+
+.. |image| image:: /Images/yt_favicon.png
