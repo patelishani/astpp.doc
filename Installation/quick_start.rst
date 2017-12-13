@@ -39,7 +39,7 @@ Register it and make outbound calls.
 
    
 
-.. image:: /Images/yt_fevicon.png
+.. image:: /Images/yt_favicon.png
 
 
 
