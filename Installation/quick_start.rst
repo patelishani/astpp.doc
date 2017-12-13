@@ -38,7 +38,7 @@ Register it and make outbound calls.
 
 
    
-|biohazard| `How to  
+|biohazard| `How to ASTPP Quick Start
 <https://youtu.be/mQpAptAETp8>`_ 
 
 
