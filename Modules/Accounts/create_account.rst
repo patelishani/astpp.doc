@@ -88,11 +88,11 @@ Email Address          E-mail address to get Low credit notification.
 
 
  
-|biohazard| `How to create customer
+|image| `How to create customer
 <https://youtu.be/YgfcuybxlXg>`_ 
 
 
-.. |biohazard| image:: /Images/yt_favicon.png  
+.. |image| image:: /Images/yt_favicon.png  
                                       
 
 
