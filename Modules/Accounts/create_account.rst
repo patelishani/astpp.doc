@@ -88,11 +88,10 @@ Email Address          E-mail address to get Low credit notification.
 
 
 
+`How to Create 
+<https://youtu.be/YgfcuybxlXg/>`_
 
-.. image:: /Images/youtube.png   `How to Create 
-
-                                  <https://youtu.be/YgfcuybxlXg/>`_
-
+.. image:: /Images/youtube.png   
 
 
 
