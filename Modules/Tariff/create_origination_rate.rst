@@ -41,7 +41,7 @@ Create Origination Rate
 |image| `How to create origination rate 
 <https://youtu.be/WgcNJlx_YPE>`_ 
 
-.. |image| image:: /Images/yt_favicon.png
+.. |image| image:: /Images/favicon.png
 
 
 
