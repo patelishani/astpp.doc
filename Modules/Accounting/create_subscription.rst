@@ -21,3 +21,10 @@ Bill Cycle	    Daily OR Monthly bill cycle to apply charge on customer
 
 Status	        Active OR Inactive subscription
 ==============  ================================================================================================             
+
+
+
+|biohazard| `How to Create subscription 
+<https://youtu.be/e2N4ky9Az8A/>`_ 
+
+.. |biohazard| image:: /Images/yt_favicon.png
