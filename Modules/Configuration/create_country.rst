@@ -16,4 +16,4 @@ Create Country
 |image| `How to create country
 <https://youtu.be/VTvslLzNHkg>`_ 
 
-.. |image| image:: /Images/yt_favicon.png
+.. |image| image:: /Images/favicon.png
