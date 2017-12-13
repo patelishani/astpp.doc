@@ -23,4 +23,4 @@ Create Freeswitch Server
 |image| `How to create freeswitch server 
 <https://youtu.be/nTpwOYjvUw4>`_ 
 
-.. |image| image:: /Images/yt_favicon.png
+.. |image| image:: /Images/favicon.png
