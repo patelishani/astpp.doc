@@ -20,6 +20,7 @@ For creating resellers, admins and sub-admins, we have similar process.
 
 
 
+
 **Create Customer Account Form Fields Details:**
 
 ====================  ================================================================================================
