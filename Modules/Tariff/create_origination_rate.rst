@@ -7,7 +7,7 @@ Create Origination Rate
  
  
  
- **Origination Rates Add Form Fields Description:** 
+**Origination Rates Add Form Fields Description:** 
  
   
  =====================    =================================================================================== 
