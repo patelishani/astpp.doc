@@ -40,7 +40,7 @@ Create Rate Group
 |image| `How to create rate group 
 <https://youtu.be/2KfiHjEY30c>`_ 
 
-.. |image| image:: /Images/yt_favicon.png
+.. |image| image:: /Images/favicon.png
 
 
 
