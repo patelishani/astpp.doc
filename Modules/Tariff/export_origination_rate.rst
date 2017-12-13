@@ -11,14 +11,14 @@ Below is an example with search option,
 
 
 
-	.. image:: /Images/origination_rates_export_search.jpg
+.. image:: /Images/origination_rates_export_search.jpg
   
   
   
 Exported .csv file,
 
 
-   .. image:: /Images/origination_rates_export_ file.jpg
+.. image:: /Images/origination_rates_export_ file.jpg
 
 
 
