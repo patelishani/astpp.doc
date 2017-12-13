@@ -28,4 +28,4 @@ Create SIP Profile
 |image| `How to create SIP profile 
 <https://youtu.be/o9Ms4j5QJIw>`_ 
 
-.. |image| image:: /Images/yt_favicon.png
+.. |image| image:: /Images/favicon.png
