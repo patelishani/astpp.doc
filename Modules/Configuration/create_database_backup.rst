@@ -12,3 +12,9 @@ Create Database Backup
 **Name**	      Here specify the name of database
 **File Name**	  Here describe file name of database and path of database
 ==============  ============================================================
+
+
+|image| `How to take database backup 
+<https://youtu.be/nQwiQsJhvbU>`_ 
+
+.. |image| image:: /Images/yt_favicon.png
