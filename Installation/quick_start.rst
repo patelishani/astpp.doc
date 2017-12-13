@@ -38,11 +38,11 @@ Register it and make outbound calls.
 
 
    
-|biohazard| `How to ASTPP Quick Start
+|image| `How to ASTPP Quick Start
 <https://youtu.be/mQpAptAETp8>`_ 
 
 
-.. |biohazard| image:: /Images/yt_favicon.png
+.. |image| image:: /Images/yt_favicon.png
    
 
 
