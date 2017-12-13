@@ -6,7 +6,9 @@ Origination rates belongs to Rate group.
 
 We can consider origination rates as customer rates / sell rates as these rates will be applicable on customers. 
 
+
 .. image:: /Images/origination_rates.png
+
   
  **Related pages**
   
