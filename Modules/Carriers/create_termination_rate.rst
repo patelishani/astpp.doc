@@ -41,12 +41,13 @@ Create Termination Rate
 **Precedence**         Priority of rate. If LCR found same prefix with same rate for different trunk then 
                        based on precedence/priority level trunk will be selected.
 
-=====================  =========================================================================================                        
-
-
+=====================  =========================================================================================            
 
   
-  
+  |image| `How to create termination rate 
+<https://youtu.be/gRGJ-gO22GM>`_ 
+
+.. |image| image:: /Images/yt_favicon.png
   
   
   
