@@ -20,3 +20,10 @@ Create Tax
           
 **Description**	  Taxes Description for reference.
 ================  ======================================================================================================
+
+
+
+|image| `How to create tax 
+<https://youtu.be/m_u845CDRDg>`_ 
+
+.. |image| image:: /Images/yt_favicon.png
