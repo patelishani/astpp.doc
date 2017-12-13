@@ -3,7 +3,7 @@ Calling Cards
 ================
 
 
-	.. image:: /Images/calling_card.jpg
+.. image:: /Images/calling_card.jpg
   
   
 **Callingcard - Settings Field Description**
