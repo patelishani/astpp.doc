@@ -27,4 +27,4 @@ Status	        Active OR Inactive subscription
 |biohazard| `How to create subscription 
 <https://youtu.be/e2N4ky9Az8A/>`_ 
 
-.. |biohazard| image:: /Images/yt_favicon.png
+.. |biohazard| image:: /Images/favicon.png
