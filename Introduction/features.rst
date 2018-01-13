@@ -135,7 +135,7 @@ Features
  Reseller portal
 
 
-**Customer / Provider**
+ **Customer / Provider**
 
  Postpaid/prepaid customers
  
