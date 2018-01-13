@@ -52,6 +52,7 @@ Features
  
  **DIDs**
  
+ 
  Handle incoming calls with various options
  
 
@@ -71,6 +72,7 @@ Features
 
 
 **Configuration / Settings**
+
 
  Settings
  
@@ -97,6 +99,7 @@ Features
 
 
  **Accounts management**
+ 
 
  **Admin**
 
@@ -148,6 +151,7 @@ Features
 
 **Invoices / Billing**
 
+
  Invoice & Receipt management
  
 
@@ -171,6 +175,7 @@ Features
 
 **Rates and LCR**
 
+
  Least cost routing on carrier/termination rates
  
 
@@ -190,6 +195,7 @@ Features
 
 
 **Reports**
+
 
  Call detail reports
  
