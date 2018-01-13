@@ -7,247 +7,259 @@ Features
 --------------------------------------------------------------------------------------------------------------
 
 
- **Calling cards**
+
+**Calling cards**
 --------------------------------------------------------------------------------------------------------------
 
- Manage calling cards easily with card number & pin
+Manage calling cards easily with card number & pin
  
 
- Bulk calling card generation
+Bulk calling card generation
  
 
- Export calling cards in CSV
+Export calling cards in CSV
  
 
- Configure your own calling card access numbers
+Configure your own calling card access numbers
  
 
- Pinless authentication
+Pinless authentication
  
 
- Call Detail report
+Call Detail report
  
 
- Configurable introduction prompt
+Configurable introduction prompt
  
 
- Various options to enable/disable playback options
+Various options to enable/disable playback options
 
 
 
 
- **Rate groups / Tariff**
+
+
+**Rate groups / Tariff**
 --------------------------------------------------------------------------------------------------------------
 
 
- Manage rates with ease
+Manage rates with ease
  
 
- Configure own rate group and assign to customers / resellers (For admin and resellers only)
+Configure own rate group and assign to customers / resellers (For admin and resellers only)
  
 
- Allocate free packages
+Allocate free packages
  
 
- Carrier/trunk selection for outbound call routing for LCR
+Carrier/trunk selection for outbound call routing for LCR
  
 
- Allow rate group based subscription
+Allow rate group based subscription
+ 
+ 
  
  
  
   
- **DIDs**
+**DIDs**
 --------------------------------------------------------------------------------------------------------------
  
  
- Handle incoming calls with various options
+Handle incoming calls with various options
  
 
- DID purchase/release option
+DID purchase/release option
  
 
- Options to configure setup, monthly fees for DID
+Options to configure setup, monthly fees for DID
  
 
- DID allocation option for admin/reseller
+DID allocation option for admin/reseller
  
 
- Multiple types of routing types
+Multiple types of routing types
  
 
- DID Billing
+DID Billing
 
 
 
 
- **Configuration / Settings**
+
+
+**Configuration / Settings**
 --------------------------------------------------------------------------------------------------------------
 
 
- Settings
+Settings
  
 
- Global parameters to manage system
+Global parameters to manage system
  
 
- Default country, base currency, timezone etc
+Default country, base currency, timezone etc
 
 
- Payment gateway configuration
+Payment gateway configuration
  
 
- Calling card parameters
+Calling card parameters
  
 
- Invoice configuration
+Invoice configuration
  
 
- One time tax configuration
+One time tax configuration
  
 
- Email template
+Email template
 
 
 
 
- **Accounts management**
+**Accounts management**
 --------------------------------------------------------------------------------------------------------------
  
 
- **Admin**
+**Admin**
 
- Can manage entire system
+Can manage entire system
  
 
- Able to manage multiple admins and subadmins
+Able to manage multiple admins and subadmins
  
 
- **Reseller**
+**Reseller**
  
- Multi-layer reseller support (Unlimited)
- 
-
- Own customer management
+Multi-layer reseller support (Unlimited)
  
 
- Rates management
+Own customer management
  
 
- Invoice management
+Rates management
  
 
- Reports
+Invoice management
  
 
- Reseller portal
-
-
- **Customer / Provider**
-
- Postpaid/prepaid customers
+Reports
  
 
- IP based authentications
+Reseller portal
+
+
+**Customer / Provider**
+
+Postpaid/prepaid customers
  
 
- SIP Device management
+IP based authentications
  
 
- Invoices
+SIP Device management
  
 
- My Rates Reports
+Invoices
  
 
- Customer portal
+My Rates Reports
+ 
+
+Customer portal
 
 
 
 
- **Invoices / Billing**
+
+
+**Invoices / Billing**
 --------------------------------------------------------------------------------------------------------------
 
 
- Invoice & Receipt management
+Invoice & Receipt management
  
 
- Personalize invoicing info rmation for reseller
+Personalize invoicing info rmation for reseller
  
 
- Can configure his own comp any name & address which will be included in invoice pdf
+Can configure his own comp any name & address which will be included in invoice pdf
  
 
- One time Tax Configuration
+One time Tax Configuration
  
 
- Includes CDR charges, Subs cription fees, DID charges and other type of post charges or package charges.
+Includes CDR charges, Subs cription fees, DID charges and other type of post charges or package charges.
  
 
- Configurable invoice date for each customer
+Configurable invoice date for each customer
  
 
- Send email upon invoice generation
+Send email upon invoice generation
 
 
 
 
- **Rates and LCR**
+
+**Rates and LCR**
 --------------------------------------------------------------------------------------------------------------
 
 
- Least cost routing on carrier/termination rates
+Least cost routing on carrier/termination rates
  
 
- Option to define connect cost
+Option to define connect cost
  
 
- Import feature
+Import feature
  
 
- Batch update for easy bulk rates updation
+Batch update for easy bulk rates updation
  
 
- Force routing configuration in origination rates
+Force routing configuration in origination rates
  
 
- Carrier failover
+Carrier failover
 
 
 
 
- **Reports**
+
+
+**Reports**
 --------------------------------------------------------------------------------------------------------------
 
 
- Call detail reports
+Call detail reports
  
 
- Summary reports (display usage of prefix, ACD, MCD, profit, Billable seconds)
+Summary reports (display usage of prefix, ACD, MCD, profit, Billable seconds)
  
 
- Trunk stats
+Trunk stats
  
 
- Live call report
+Live call report
  
 
- Payment report
+Payment report
  
 
- Export to csv
+Export to csv
  
  
  
  
- **Paypal payment gateway**
+**Paypal payment gateway**
 --------------------------------------------------------------------------------------------------------------
  
  
-  Configure your own paypal id to receive payments
+ Configure your own paypal id to receive payments
   
 
-  Top Up/Recharge accounts quickly and get balance in real time
+ Top Up/Recharge accounts quickly and get balance in real time
 
 
 
