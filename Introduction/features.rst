@@ -6,7 +6,7 @@ Features
 ============
 
 **Calling cards**
-
+--------------------------------------------------------------------------------------------------------------
  Manage calling cards easily with card number & pin
  
 
@@ -33,11 +33,12 @@ Features
 
 
 **Rate groups / Tariff**
+--------------------------------------------------------------------------------------------------------------
 
  Manage rates with ease
  
 
- Configure own rate group and assign to customers / resellers (For admi n and resellers only)
+ Configure own rate group and assign to customers / resellers (For admin and resellers only)
  
 
  Allocate free packages
@@ -51,6 +52,7 @@ Features
  
  
 **DIDs**
+--------------------------------------------------------------------------------------------------------------
  
  
  Handle incoming calls with various options
@@ -72,6 +74,7 @@ Features
 
 
 **Configuration / Settings**
+--------------------------------------------------------------------------------------------------------------
 
 
  Settings
@@ -99,6 +102,7 @@ Features
 
 
 **Accounts management**
+--------------------------------------------------------------------------------------------------------------
  
 
  **Admin**
@@ -150,6 +154,7 @@ Features
 
 
 **Invoices / Billing**
+--------------------------------------------------------------------------------------------------------------
 
 
  Invoice & Receipt management
@@ -170,10 +175,11 @@ Features
  Configurable invoice date for each customer
  
 
- Send email upon invoice ge neration
+ Send email upon invoice generation
 
 
 **Rates and LCR**
+--------------------------------------------------------------------------------------------------------------
 
 
  Least cost routing on carrier/termination rates
@@ -195,12 +201,13 @@ Features
 
 
 **Reports**
+--------------------------------------------------------------------------------------------------------------
 
 
  Call detail reports
  
 
- Summary reports (display usage of prefix, ACD, MCD, profit, Billable s econds)
+ Summary reports (display usage of prefix, ACD, MCD, profit, Billable seconds)
  
 
  Trunk stats
@@ -216,6 +223,7 @@ Features
  
  
 **Paypal payment gateway**
+--------------------------------------------------------------------------------------------------------------
  
  
   Configure your own paypal id to receive payments
