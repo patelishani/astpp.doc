@@ -256,10 +256,10 @@ Export to csv
 --------------------------------------------------------------------------------------------------------------
  
  
- Configure your own paypal id to receive payments
+Configure your own paypal id to receive payments
   
 
- Top Up/Recharge accounts quickly and get balance in real time
+Top Up/Recharge accounts quickly and get balance in real time
 
 
 
