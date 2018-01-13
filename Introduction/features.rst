@@ -50,7 +50,7 @@ Features
  
  
  
- **DIDs**
+**DIDs**
  
  
  Handle incoming calls with various options
@@ -98,7 +98,7 @@ Features
  Email template
 
 
- **Accounts management**
+**Accounts management**
  
 
  **Admin**
@@ -215,7 +215,7 @@ Features
  Export to csv
  
  
- **Paypal payment gateway**
+**Paypal payment gateway**
  
  
   Configure your own paypal id to receive payments
