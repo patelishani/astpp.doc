@@ -37,8 +37,6 @@ Various options to enable/disable playback options
 
 
 
-
-
 **Rate groups / Tariff**
 --------------------------------------------------------------------------------------------------------------
 
@@ -56,8 +54,6 @@ Carrier/trunk selection for outbound call routing for LCR
  
 
 Allow rate group based subscription
- 
- 
  
  
  
@@ -82,8 +78,6 @@ Multiple types of routing types
  
 
 DID Billing
-
-
 
 
 
@@ -172,8 +166,6 @@ Customer portal
 
 
 
-
-
 **Invoices / Billing**
 --------------------------------------------------------------------------------------------------------------
 
@@ -201,7 +193,6 @@ Send email upon invoice generation
 
 
 
-
 **Rates and LCR**
 --------------------------------------------------------------------------------------------------------------
 
@@ -222,7 +213,6 @@ Force routing configuration in origination rates
  
 
 Carrier failover
-
 
 
 
