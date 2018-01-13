@@ -39,6 +39,10 @@ Various options to enable/disable playback options
 
 
 
+
+
+
+
 **Rate groups / Tariff**
 
 --------------------------------------------------------------------------------------------------------------
@@ -57,6 +61,9 @@ Carrier/trunk selection for outbound call routing for LCR
  
 
 Allow rate group based subscription
+ 
+ 
+ 
  
  
  
