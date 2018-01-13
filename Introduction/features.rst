@@ -38,11 +38,6 @@ Various options to enable/disable playback options
 
 
 
-
-
-
-
-
 **Rate groups / Tariff**
 
 --------------------------------------------------------------------------------------------------------------
